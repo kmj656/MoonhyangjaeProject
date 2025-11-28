@@ -1,0 +1,148 @@
+@font-face {
+  font-family: 'Kyobo';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/KyoboHandwriting2022khn.woff2') format('woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+body{
+  margin:0;
+  font-family:'Kyobo';
+  background:#fff;
+}
+
+.container{
+  background:#fff;
+}
+
+/* 헤더 */
+.header{
+  position:relative;
+  z-index:50;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  background:rgb(228,232,212);
+  padding:18px 30px;
+  border-bottom:2px solid #EAEEE0;
+}
+
+/* 로고 */
+.logo-area{
+  display:flex;
+  align-items:center;
+  gap:14px;
+  cursor:pointer;
+}
+.logo-area img{
+  width:80px;
+  height:80px;
+}
+.logo-area h1{
+  margin:0;
+  font-size:40px;
+  font-weight:700;
+  font-family: 'Kyobo', sans-serif !important;
+}
+.logo-link {
+  text-decoration: none !important;
+  color: inherit !important; 
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.logo-link h1 {
+  margin: 0;
+  font-size: 40px;
+  font-weight: 700;
+  color: inherit;
+}
+
+.logo-title {
+  font-family: 'Kyobo', sans-serif !important;
+  font-size: 40px;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* NAV */
+.nav{ position:relative; }
+.nav-list{
+  list-style:none;
+  display:flex;
+  gap:34px;
+  padding:0;
+  margin:0;
+}
+.nav-item a{
+  text-decoration:none;
+  color:#000;
+  font-size:20px;
+  font-family:sans-serif;
+  font-weight:600;
+  padding:10px 8px;
+  transition:.2s;
+}
+.nav-item a:hover{ color:#738C36; }
+
+/* MEGA */
+.mega-menu{
+  display:none;
+  position:fixed;
+  margin-top: 0;
+  right:0;
+  top:115px;
+  background:rgba(255,255,255,.9);
+  border-top:2px solid #EAEEE0;
+  padding:34px 40px;
+  box-shadow:0 6px 12px rgba(0,0,0,.15);
+  gap:60px;
+  z-index:9999;
+}
+
+/* 칼럼 */
+.mega-col{
+  display:flex;
+  flex-direction:column;
+  min-width:200px;
+  padding-left:22px;
+  border-left:1px solid #000;
+}
+.mega-col:first-child{
+  border-left:none;
+  padding-left:0;
+}
+.mega-col h3{
+  margin:0 0 12px 0;
+  font-size:18px;
+  font-weight:700;
+  font-family:sans-serif;
+}
+.mega-col a{
+  margin:6px 0;
+  text-decoration:none;
+  color:#333;
+  font-size:15px;
+  font-family:sans-serif;
+  transition:.2s;
+}
+.mega-col a:hover{ color:#738C36; }
+
+/* 나연이가 한부분 */
+
+.wrapper .container {
+  background-color: rgb(242, 242, 242);
+  margin: 20px;
+  border: 2px solid #dadcd5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 800px;
+}
+
+#mapFinal {
+  width: 40%;
+  height: auto;
+  display: block;
+}
+

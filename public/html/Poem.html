@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>감정 시공방 | 문향재</title>
+
+  <!-- 공통 헤더 CSS -->
+  <link rel="stylesheet" href="../css/index.css" />
+
+  <!-- 감정 시공방 CSS (내가 다음 단계에서 새로 제작해줌) -->
+  <link rel="stylesheet" href="../css/Poem.css" />
+</head>
+<body>
+
+<!-- ===== 공통 헤더 유지 ===== -->
+<header class="header">
+  <div class="logo-area">
+  <a href="/index.html" class="logo-link">
+    <img src="../images/logo.png" alt="로고">
+    <h1>문향재</h1>
+  </a>
+</div>
+
+  <nav class="nav">
+    <ul class="nav-list">
+      <li class="nav-item has-mega"><a href="/html/district.html">문학관</a></li>
+      <li class="nav-item has-mega"><a href="#">작가</a></li>
+      <li class="nav-item has-mega"><a href="/html/literarywork.html">작품</a></li>
+      <li class="nav-item has-mega"><a href="#">커뮤니티</a></li>
+      <li class="nav-item has-mega"><a href="#">AI 문학실</a></li>
+    </ul>
+
+    <div class="mega-menu">
+       <div class="mega-col">
+        <h3>문학관</h3>
+        <a href="/html/capital.html">수도권</a>
+        <a href="/html/gangwon.html">강원</a>
+        <a href="/html/chungcheong.html">충청</a>
+        <a href="/html/jeolla.html">전라</a>
+        <a href="/html/gyeongsang.html">경상</a>
+      </div>
+
+      <div class="mega-col">
+        <h3>작가</h3>
+        <a href="/html/author.html">작가 정보</a>        
+      </div>
+
+      <div class="mega-col">
+        <h3>작품</h3>
+        <a href="#">소설</a>
+        <a href="#">수필</a>
+        <a href="#">시</a>        
+      </div>
+
+      <div class="mega-col">
+        <h3>커뮤니티</h3>
+        <a href="#">문향재 소개</a>
+        <a href="#">여행 코스 추천 게시판</a>
+        <a href="#">독후감 게시판</a>
+      </div>
+
+       <div class="mega-col">
+        <h3>AI 문학실</h3>
+        <a href="/html/AChat.html">문향재 필담실</a>        
+        <a href="/html/Poem.html">감정 시공방</a>
+        <a href="/html/recommend.html">Just for you: 오늘의 책</a>
+      </div>
+
+    </div>
+  </nav>
+</header>
+
+<script>
+function goHome() {
+  window.location.href = "/index.html";
+}
+</script>
+
+<!-- ===============================
+     감정 시공방 레이아웃 시작
+================================ -->
+<main class="poem-wrapper">
+
+  <!-- 왼쪽 패널 -->
+  <aside class="poem-filter">
+    <div class="filter-title">감정 시공방</div>
+    <div class="filter-divider"></div>
+
+    <!-- 주제 입력 구역 -->
+    <div class="keyword-wrap">
+     <label for="keywordInput" class="keyword-label">주제 키워드</label>
+     <input type="text" id="keywordInput" class="keyword-input" placeholder="">
+    </div>
+
+    <div class="filter-desc-wrap">
+     <p class="filter-desc">감정을 선택하세요 (최대 5개)</p>
+     <button id="resetBtn" class="reset-btn" title="초기화">↺</button>
+     
+    </div>
+
+    <h4 class="emotion-section-title positive">😊 긍정 감정</h4>
+    <div id="positive-emotions" class="emotion-buttons"></div>
+
+    <h4 class="emotion-section-title negative">😞 부정 감정</h4>
+    <div id="negative-emotions" class="emotion-buttons"></div>
+
+
+    <button id="generateBtn" class="generate-btn">연성 개시</button>
+  </aside>
+
+  <!-- 오른쪽 결과 영역 -->
+  <section class="poem-output">
+    <h3 class="output-title">생성된 시</h3>
+    <pre id="poemOutput" class="poem-text">(여기에 시가 생성됩니다)</pre>
+  </section>
+
+</main>
+
+<!-- JS -->
+<script src="/js/index.js"></script>
+<script src="/js/Poem.js"></script>
+
+</body>
+</html>

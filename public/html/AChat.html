@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>문향재 필담실 : 문향재</title>
+
+  <!-- 공통 헤더용 CSS -->
+  <link rel="stylesheet" href="/css/index.css" />
+  <!-- 작가 챗봇 전용 CSS -->
+  <link rel="stylesheet" href="/css/AChat.css" />
+</head>
+<body>
+
+<!-- ===== 상단 공통 헤더 ===== -->
+<header class="header">
+  <div class="logo-area">
+  <a href="/index.html" class="logo-link">
+    <img src="../images/logo.png" alt="로고">
+    <h1>문향재</h1>
+  </a>
+</div>
+
+  <nav class="nav">
+    <ul class="nav-list">
+      <li class="nav-item has-mega"><a href="/html/district.html">문학관</a></li>
+      <li class="nav-item has-mega"><a href="#">작가</a></li>
+      <li class="nav-item has-mega"><a href="/html/literarywork.html">작품</a></li>
+      <li class="nav-item has-mega"><a href="#">커뮤니티</a></li>
+      <li class="nav-item has-mega"><a href="#">AI 문학실</a></li>
+    </ul>
+
+    <div class="mega-menu">
+       <div class="mega-col">
+        <h3>문학관</h3>
+        <a href="/html/capital.html">수도권</a>
+        <a href="/html/gangwon.html">강원</a>
+        <a href="/html/chungcheong.html">충청</a>
+        <a href="/html/jeolla.html">전라</a>
+        <a href="/html/gyeongsang.html">경상</a>
+      </div>
+
+      <div class="mega-col">
+        <h3>작가</h3>
+        <a href="/html/author.html">작가 정보</a>        
+      </div>
+
+      <div class="mega-col">
+        <h3>작품</h3>
+        <a href="#">소설</a>
+        <a href="#">수필</a>
+        <a href="#">시</a>        
+      </div>
+
+      <div class="mega-col">
+        <h3>커뮤니티</h3>
+        <a href="#">문향재 소개</a>
+        <a href="#">여행 코스 추천 게시판</a>
+        <a href="#">독후감 게시판</a>
+      </div>
+
+       <div class="mega-col">
+        <h3>AI 문학실</h3>
+        <a href="/html/AChat.html">문향재 필담실</a>        
+        <a href="/html/Poem.html">감정 시공방</a>
+        <a href="/html/recommend.html">Just for you: 오늘의 책</a>
+      </div>
+
+    </div>
+  </nav>
+</header>
+
+<!-- ===== 본문: 작가 챗봇 ===== -->
+<main class="chatbot-container">
+  <div class="chat-sidebar">
+    <div class="chat-title">문향재 필담실</div>
+    <h3>작가 선택</h3>
+    <select id="authorSelect">
+      <option value="">작가를 선택하세요</option>
+    </select>
+    <div id="authorPhotoBox">
+      <img id="authorPhoto" src="" alt="작가 사진" />
+    </div>
+  </div>
+
+  <div class="chat-area">
+    <div id="chatlog" class="chatlog">
+      <div class="msg bot">문향재 필담실에 오신 걸 환영합니다.<br>대화를 나누고 싶은 작가를 선택해 주세요.</div>
+    </div>
+    <div class="composer">
+      <input id="input" placeholder="메시지를 입력하세요..." />
+      <button id="sendBtn">보내기</button>
+    </div>
+  </div>
+</main>
+
+<!-- ===== 공통 함수 ===== -->
+<script>
+  function goHome() {
+    window.location.href = "/index.html"; // ✅ 홈으로 이동
+  }
+</script>
+
+<!-- ===== JS 파일 연결 ===== -->
+<script src="/js/index.js"></script>
+<script src="/js/AChat.js"></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "Leeyuksa",
+    "name": "이육사",
+    "styleFile": "/data/styles/Leeyuksa.txt",
+    "image": "/images/authors/Leeyuksa.jpg",
+    "works": ["광야", "청포도", "광인의 태양"]
+  },
+  {
+    "id": "Shindongyeop",
+    "name": "신동엽",
+    "styleFile": "/data/styles/Shindongyeop.txt",
+    "image": "/images/authors/Shindongyeop.jpg",
+    "works": ["누가 하늘을 보았다 하는가", "껍데기는 가라", "신동엽 산문전집"]
+  },
+  {
+    "id": "Hanmusook",
+    "name": "한무숙",
+    "styleFile": "/data/styles/Hanmusook.txt",
+    "image": "/images/authors/Hanmusook.jpg",
+    "works": ["역사는 흐른다", "감정이 있는 심연", "생인손"]
+  }
+]

@@ -1,0 +1,138 @@
+/* ===== 전체 레이아웃 ===== */
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #ecefe5; /* 은은한 베이지-올리브 톤 */
+  font-family: "SUIT", "Pretendard", sans-serif;
+  color: #2b2b2b;
+}
+
+/* 페이지 전체 */
+.recommend-page {
+  max-width: 860px;
+  margin: 80px auto;
+  padding: 0 20px;
+}
+
+
+/* ===== 헤더 영역 ===== */
+
+.recommend-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.recommend-header h2 {
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 14px;
+  color: #415437;  /* 진한 올리브 */
+}
+
+.recommend-header h2 span {
+  color: #738c36; /* 포인트 올리브 */
+}
+
+.recommend-header p {
+  font-size: 17px;
+  line-height: 1.6;
+  color: #4a4a4a;
+}
+
+
+/* ===== 채팅 박스 ===== */
+
+.chat-box {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 40px 30px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+
+/* 채팅 로그 */
+.chatlog {
+  max-height: 260px;
+  overflow-y: auto;
+  padding-right: 10px;
+  margin-bottom: 25px;
+}
+
+/* 말풍선 공통 */
+.msg {
+  max-width: 80%;
+  padding: 12px 16px;
+  margin: 10px 0;
+  border-radius: 12px;
+  line-height: 1.55;
+  font-size: 15px;
+}
+
+/* 봇 메시지 */
+.msg.bot {
+  background: #f4f6ef;
+  color: #3a3a3a;
+  border-left: 4px solid #738c36;
+}
+
+/* 사용자 메시지 */
+.msg.user {
+  background: #dce7c8;
+  color: #2a321f;
+  margin-left: auto;
+  border-right: 4px solid #738c36;
+}
+
+
+/* ===== 입력창 ===== */
+
+.composer {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.composer input {
+  flex: 1;
+  height: 45px;
+  border: 1px solid #cfd3c1;
+  border-radius: 10px;
+  padding: 0 15px;
+  font-size: 15px;
+  background: #f8f9f3;
+  outline: none;
+  transition: 0.15s;
+}
+
+.composer input:focus {
+  border-color: #738c36;
+  background: #ffffff;
+}
+
+.composer button {
+  background: #738c36;
+  color: #ffffff;
+  border: none;
+  padding: 0 22px;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.composer button:hover {
+  background: #5f742c;
+}
+
+
+/* ===== 스크롤바 디자인 ===== */
+.chatlog::-webkit-scrollbar {
+  width: 6px;
+}
+.chatlog::-webkit-scrollbar-thumb {
+  background: #c3c9b4;
+  border-radius: 5px;
+}
+.chatlog::-webkit-scrollbar-track {
+  background: transparent;
+}
