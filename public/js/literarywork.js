@@ -103,7 +103,7 @@ const genreFilter = document.querySelector("[data-genre]")?.dataset.genre;// HTM
 let booksData = [];
 
 // JSON 불러오기
-fetch("../data/literarywork.json")
+fetch("/data/literarywork.json")
   .then(res => res.json())
   .then(data => {
     booksData = data;
