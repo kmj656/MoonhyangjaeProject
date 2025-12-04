@@ -111,7 +111,7 @@ let booksData = [];
 // =============================
 // JSON 불러오기 & 상세페이지 채우기
 // =============================
-fetch("../data/literature.json")
+fetch("related.json")
   .then(res => res.json())
   .then(data => {
     booksData = data;
@@ -125,83 +125,91 @@ function displayBook(list, id) {
 
   // info-card
   const infoCard = document.querySelector(".info-card");
+  const displayGenre = book.genre === "단편소설" ? "소설" : book.genre;
   infoCard.innerHTML = `
-    <a href="${book.library || '#'}">
-      <img src="${book.cover || 'default_cover.jpg'}" alt="책 표지" class="cover book-cover">
+    <a href="${book.library}">
+      <img src="${book.cover}" alt="책 표지" class="cover book-cover">
     </a>
-    <h2 class="title">${book.title || "제목 없음"}</h2>
+    <h2 class="title">${book.title}</h2>
     <div class="footer">
-      <span class="type"><a href="#">${book.genre || "장르 없음"}</a></span>
+      <span class="type">
+        <a href="#">${displayGenre}</a>
+      </span>
     </div>
   `;
 
+// 왼쪽 메뉴 동적 표시
+const tableLink = document.querySelector('.left-menu a[href="#table"]');
+const summaryLink = document.querySelector('.left-menu a[href="#summary"]');
+const poemLink = document.querySelector('.left-menu a[href="#poem"]');
+
+if (book.genre === "시") {
+  tableLink.style.display = "block";     // 시는 목차 표시
+  summaryLink.style.display = "none";   // 줄거리 숨김
+  poemLink.style.display = "block";     // 대표시 표시
+} else if (book.genre === "단편소설") {
+  tableLink.style.display = "block";     // 단편소설은 목차 표시
+  summaryLink.style.display = "none";   // 줄거리 숨김
+  poemLink.style.display = "none";      // 대표시는 없음
+} else { // 소설, 수필
+  tableLink.style.display = "block";     // 목차 숨김
+  summaryLink.style.display = "block"; // 줄거리 표시
+  poemLink.style.display = "none";      // 대표시는 없음
+}
+
+
   // 목차 + 줄거리
-  const ts = book.table_summary || {};
-  const labels = ts.labels || {};
-  document.querySelector("#table .section-title").textContent = labels.table || "목차";
-  document.querySelector("#summary .section-title").textContent = labels.summary || "줄거리";
+const ts = book.table_summary || {};
+const labels = ts.labels || {};
+document.querySelector("#table .section-title").textContent = labels.table || "목차";
+document.querySelector("#summary .section-title").textContent = labels.summary || "줄거리";
+document.querySelector("#theme-content").textContent = book.theme || "";
 
-  document.querySelector("#table .section-content").textContent = ts.table || "";
-  document.querySelector("#summary .section-content").textContent = ts.summary || "";
+// =============================
+// 장르별 상세 구분 (각각 따로 처리)
+// =============================
 
-  // 대표시 섹션
+// 1) 시
+if (book.genre === "시") {
+  document.querySelector("#table-content").textContent = ts.table || "";
+  document.querySelector("#summary-content").textContent = "";
+  
   const poemSection = document.querySelector("#poem");
-  if (book.genre === "시" && book.poem) {
-    if (poemSection) {
-      poemSection.style.display = "block";
-      poemSection.querySelector(".section-content").textContent = book.poem;
-    }
-  } else if (poemSection) {
-    poemSection.style.display = "none";
-  }
-
-  // 작가
-  const authorPhoto = document.querySelector("#author-photo");
-  const authorLink = document.querySelector("#author-photo-link");
-  const authorBio = document.querySelector("#author-bio");
-
-  if (authorPhoto) authorPhoto.src = book.author?.photo || "default_author.jpg";
-  if (authorLink) authorLink.href = book.author?.link || "#";
-  if (authorBio) authorBio.textContent = book.author?.bio || "정보 없음";
-
-  // 도서관
-  const libraryLink = document.querySelector("#library-link");
-  if (libraryLink) libraryLink.href = book.library || "#";
-
-  // 문학관
-  const museumPhoto = document.querySelector("#museum-photo");
-  const museumLink = document.querySelector("#museum-link");
-  const museumName = document.querySelector("#museum-name");
-
-  if (museumPhoto) museumPhoto.src = book.museum?.photo || "default_museum.jpg";
-  if (museumLink) museumLink.href = book.museum?.link || "#";
-  if (museumName) museumName.textContent = book.museum?.name || "문학관 없음";
-
-  // 저자의 작품
-  const majorDiv = document.querySelector("#major-content");
-  if (majorDiv) {
-    majorDiv.innerHTML = "";
-    (book.major || []).forEach(item => {
-      majorDiv.innerHTML += `
-        <a href="literature.html?id=${item.id}">
-          <img src="${item.cover || 'default_cover.jpg'}" class="cover major-cover" alt="대표작 표지">
-          <p class="work-title">${item.title || "제목 없음"}</p>
-        </a>
-      `;
-    });
-  }
-
-  // 연관 작품
-  const relatedDiv = document.querySelector("#related-content");
-  if (relatedDiv) {
-    relatedDiv.innerHTML = "";
-    (book.related || []).forEach(item => {
-      relatedDiv.innerHTML += `
-        <a href="related.html?id=${item.id}">
-          <img src="${item.cover || 'default_cover.jpg'}" class="cover related-cover" alt="연관작 표지">
-          <p class="work-title">${item.title || "제목 없음"}</p>
-        </a>
-      `;
-    });
+  if (poemSection) {
+    poemSection.style.display = "block";
+    poemSection.querySelector(".section-content").textContent = book.poem || "";
   }
 }
+
+// 2) 단편소설
+else if (book.genre === "단편소설") {
+  document.querySelector("#table-content").textContent = ts.table || "";
+  document.querySelector("#summary-content").textContent = "";
+  
+  const poemSection = document.querySelector("#poem");
+  if (poemSection) poemSection.style.display = "none";
+}
+
+// 3) 소설 + 4) 수필
+else {
+  document.querySelector("#table-content").textContent = "";
+  document.querySelector("#summary-content").textContent = ts.summary || "";
+  
+  const poemSection = document.querySelector("#poem");
+  if (poemSection) poemSection.style.display = "none";
+}
+
+  // 작가
+  document.querySelector("#author-photo").src = book.author.photo;
+  document.querySelector("#author-photo-link").href = book.author.link || "#";
+  document.querySelector("#author-bio").textContent = book.author.bio;
+
+  // 도서관
+  document.querySelector("#library-link").href = book.library;
+
+  // 문학관
+  document.querySelector("#museum-photo").src = book.museum.photo;
+  document.querySelector("#museum-link").href = book.museum.link || "#";
+  document.querySelector("#museum-name").textContent = book.museum.name;
+
+ }
