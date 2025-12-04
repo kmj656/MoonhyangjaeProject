@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #fff;
+}
+
+/* 전체 박스 */
+.content-wrapper {
+  background-color: rgb(242, 242, 242);
+  margin: 20px;
+  border: 2px solid #dadcd5;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* ============================
+    상단: 사진 + 이름만 표시
+============================ */
+.author-header {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+/* 작가 사진 */
+.author-photo {
+  width: 220px;
+  height: 280px;
+  object-fit: cover;
+  border: 2px solid #dadcd5;
+  background: #fff;
+}
+
+/* 이름 */
+.author-name-only {
+  font-size: 32px;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* ============================
+    본문: 사진 아래에서 시작
+============================ */
+.author-body {
+  margin-top: 30px;   /* 사진 아래 여백 */
+}
+
+/* 섹션 제목 (작가 소개 / 생애) */
+.author-subtitle {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 30px 0 10px 0;
+  color: #333;
+}
+
+/* 작가 소개 박스 */
+.author-desc {
+  font-size: 18px;
+  line-height: 1.65;
+  padding-bottom: 18px;
+  border-bottom: 2px solid #dadcd5;
+}
+
+/* 생애 */
+.author-life {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 18px;
+  border-bottom: 2px solid #dadcd5;
+}
+
+.author-life li {
+  padding-top: px;
+  font-size: 17px;
+  line-height: 1.65;
+  margin-bottom: 8px;
+}
+
+/* ============================
+   대표 작품 (가로형 카드)
+============================ */
+.author-works {
+  margin-top: 10px;
+  padding-right: 250px;
+  margin-bottom: 8px;
+}
+
+/* 3개 카드 전체를 가운데 정렬 */
+.work-list {
+  display: flex;
+  justify-content: space-between;  /* 공평한 배치 */
+  gap: 40px;
+  margin: 0 auto;
+  max-width: 1200px;               /* 너무 퍼지지 않도록 제한 */
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+.work-card {
+  display: block;      /* flex → block */
+  width: 300px; /*  300px */
+  margin-top: 20px;
+  border: 2px solid #dadcd5;
+  background: #fff;
+  padding: 0 0 15px;   /* 세로형에 맞게 패딩 변경 */
+  text-decoration: none;
+  color: #000;
+  transition: 0.25s ease;
+  text-align: center;  /* 텍스트 가운데 정렬 */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+
+.work-card:hover {
+  background: #e7e9e0;
+  transform: translateY(-6px);
+  box-shadow: 0 5px 12px rgba(0,0,0,0.15);
+}
+
+/* 책 표지 이미지 */
+.work-cover {
+  width: calc(100% - 20px);  /* 좌우 여백 */
+  height: 330px;            /* 크기 약간 줄임 */
+  object-fit: cover;
+  display: block;
+  margin: 10px auto;        /* 상단과 좌우 균형 여백 */
+  border-radius: 4px;       /* 살짝 둥글게 (선택 사항) */
+  border: 1px solid #ddd;   /* 책 테두리 살짝 강조 */
+}
+
+
+.work-title {
+  margin: 14px 0 8px 0;
+  font-size: 19px;
+  font-weight: 700;
+}
+
+.work-desc {
+  margin: 0 14px;
+  font-size: 15.5px;
+  line-height: 1.5;
+  color: #333;
+}

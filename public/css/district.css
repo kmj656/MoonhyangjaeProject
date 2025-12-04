@@ -1,0 +1,168 @@
+@font-face {
+  font-family: 'Kyobo';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/KyoboHandwriting2022khn.woff2') format('woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+body{
+  margin:0;
+  font-family:'Kyobo';
+  background:#fff;
+}
+
+.container{
+  background:#fff;
+}
+
+
+/* 스크롤버튼 */
+.scroll-buttons {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  z-index: 1000;
+}
+
+.scroll-buttons button {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #888;
+  background-color: #f6f7f5;
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.scroll-buttons button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+
+/* 내가한부분 */
+
+.wrapper .map {
+  background-color: #ffffff;
+  margin: 20px;
+  border: 2px solid #dadcd5;
+  display: flex;
+  flex-direction: column;
+  min-height: 100px;
+}
+
+#mapFinal {
+  width: 90%;
+  height: 90%;
+  display: block;
+  margin: 20px;
+  margin-bottom: 0px;
+}
+
+.wrapper .warp {
+  background-color: #ffffff;
+  margin: 20px;
+  border: 2px solid #dadcd5;
+  display: flex;
+  flex-direction: column;
+  min-height: 100px;
+  overflow-y: auto;
+  height: 300px;
+}
+
+.warp ul {
+  list-style: none;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.warp li {
+  padding-top: 5px;
+}
+
+.warp h2 {
+  margin: 15px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.mainContent {
+  display: flex;
+  background-color: rgb(242, 242, 242);
+  margin: 20px;
+  border: 2px solid #dadcd5;
+}
+
+.map_warp {
+  width: 300px;
+  height: 100%;
+}
+
+.warp_each{
+  border: 1px #dadcd5 groove;
+  text-decoration: none;
+  color:#000;
+}
+
+.warp_each:hover {
+  background-color: rgb(155, 172, 98);
+}
+
+
+/* 문학관 나열 */
+.literaryCenter_list {
+  width: 75%;
+}
+
+.literaryCenter_list h1 {
+  margin-left: 30px;
+}
+
+.card {
+  display: flex;
+  border: 1px solid #000000;
+  background-color: #fff;
+  padding: 16px;
+  margin: 20px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+/* 이미지 크기 고정 */
+.card img {
+  width: 100%;
+  max-width: 240px;
+  height: auto;
+  object-fit: cover;
+  border: 1px solid #000000;
+  background-color: #ffffff;
+}
+
+/* 제목, 설명 스타일 */
+.card h2 {
+  margin: 10px 0 4px;
+}
+
+.card p {
+  margin: 10px;
+}
+
+.card_text {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card:hover {
+  background-color: rgb(210, 203, 153);
+}

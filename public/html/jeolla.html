@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>문향재</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <link rel="stylesheet" href="../css/index.css" />
+    <link rel="stylesheet" href="../css/district_under.css" />
+  </head>
+
+  <body>
+    <!-- 웹페이지 화면을 감싸는 랩퍼 클래스 -->
+    <div class="wrapper">
+
+      <!-- ===== 상단 공통 헤더 ===== -->
+      <header class="header">
+        <div class="logo-area">
+          <a href="/index.html" class="logo-link">
+            <img src="../images/logo.png" alt="로고">
+            <h1>문향재</h1>
+          </a>
+        </div>
+
+        <nav class="nav">
+          <ul class="nav-list">
+            <li class="nav-item has-mega"><a href="/html/district.html">문학관</a></li>
+            <li class="nav-item has-mega"><a href="#">작가</a></li>
+            <li class="nav-item has-mega"><a href="/html/literarywork.html">작품</a></li>
+            <li class="nav-item has-mega"><a href="#">커뮤니티</a></li>
+            <li class="nav-item has-mega"><a href="#">AI 문학실</a></li>
+          </ul>
+
+          <div class="mega-menu">
+            <div class="mega-col">
+              <h3>문학관</h3>
+              <a href="/html/capital.html">수도권</a>
+              <a href="/html/gangwon.html">강원</a>
+              <a href="/html/chungcheong.html">충청</a>
+              <a href="/html/jeolla.html">전라</a>
+              <a href="/html/gyeongsang.html">경상</a>
+            </div>
+
+            <div class="mega-col">
+              <h3>작가</h3>
+              <a href="/html/author.html">작가 정보</a>
+            </div>
+
+            <div class="mega-col">
+              <h3>작품</h3>
+              <a href="#">소설</a>
+              <a href="#">수필</a>
+              <a href="#">시</a>
+            </div>
+
+            <div class="mega-col">
+              <h3>커뮤니티</h3>
+              <a href="#">문향재 소개</a>
+              <a href="#">여행 코스 추천 게시판</a>
+              <a href="#">독후감 게시판</a>
+            </div>
+
+            <div class="mega-col">
+              <h3>AI 문학실</h3>
+              <a href="/html/AChat.html">문향재 필담실</a>
+              <a href="/html/Poem.html">감정 시공방</a>
+              <a href="/html/recommend.html">Just for you: 오늘의 책</a>
+            </div>
+          </div>
+        </nav>
+      </header>
+
+            <div class="scroll-buttons">
+                <button type="button" class="upBtn" title="맨 위로">&#8593;</button>
+                <button type="button" class="downBtn" title="맨 아래로">&#8595;</button>
+            </div>
+
+            <!-- 화면의 메인컨텐츠 부분 --> <!-- 내가 쓰는 부분 시작 -->
+            <div class="mainContent">
+                
+                <!-- 지도와 워프 -->
+                <div class="map_warp">
+                    <!-- 지도 -->
+                    <div class="map">
+                        <object id="mapFinal" type="image/svg+xml" data="../images/mapFinal.svg"></object>
+                    </div>
+
+                    <!-- 워프 -->
+                    <div class="warp">
+                      <a href="/html/capital.html" class="warp_each">
+                        <h2>수도권</h2>
+                        <ul>
+                          <li>문학관1</li>
+                          <li>문학관2</li>
+                        </ul>
+                      </a>
+                      <a href="/html/gangwon.html" class="warp_each">
+                        <h2>강원</h2>
+                        <ul>
+                          <li>문학관3</li>
+                          <li>문학관4</li>
+                        </ul>
+                      </a>
+                      <a href="/html/chungcheong.html" class="warp_each">
+                        <h2>충청</h2>
+                        <ul>
+                          <li>문학관5</li>
+                          <li>문학관6</li>
+                        </ul>
+                      </a>
+                      <a href="/html/jeolla.html" class="warp_each">
+                        <h2>전라</h2>
+                        <ul>
+                          <li>문학관5</li>
+                          <li>문학관6</li>
+                        </ul>
+                      </a>
+                      <a href="/html/gyeongsang.html" class="warp_each">
+                        <h2>경상</h2>
+                        <ul>
+                          <li>문학관5</li>
+                          <li>문학관6</li>
+                        </ul>
+                      </a>
+                        
+                    </div>
+
+                </div>
+
+                <!-- 지역별 문학관 상세설명 -->
+                <div class="literaryCenter_list">
+                    <h1>전라</h1>
+                    <a href="/html/literaryCenter.html" class="card">
+                        <img src="../images/logo.png" alt="문학관1">
+                        <div class="card_text">
+                            <h2>문학관1</h2>
+                            <p>설명 텍스트</p>
+                        </div>
+                    </a>
+
+                    <a href="/html/literaryCenter.html" class="card">
+                        <img src="../images/logo.png" alt="문학관2">
+                        <div class="card_text">
+                            <h2>문학관2</h2>
+                            <p>설명 텍스트2</p>
+                        </div>
+                    </a>
+
+                    <a href="/html/literaryCenter.html" class="card">
+                        <img src="../images/logo.png" alt="문학관3">
+                        <div class="card_text">
+                            <h2>문학관3</h2>
+                            <p>설명 텍스트3</p>
+                        </div>
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+        
+        <!-- ===== 공통 함수 ===== -->
+        <script>
+        function goHome() {
+            window.location.href = "/index.html"; // ✅ 홈으로 이동
+        }
+        </script>
+
+<!-- ===== JS 파일 연결 ===== -->
+<script src="/js/index.js"></script>
+<script src="/js/indexA.js"></script>
+<script src="/js/district_under.js"></script>
+    </body>
+</html>

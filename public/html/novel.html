@@ -1,15 +1,25 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>문향재</title>
-  <link rel="stylesheet" href="/css/index.css" />
-</head>
-<body>
-<!-- 웹페이지 화면을 감싸는 랩퍼 클래스 -->
-<div class="wrapper">
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <title>문향재 / 소설</title>
+  
+   <!-- 공통 헤더용 CSS -->
+  <link rel="stylesheet" href="../css/index.css" />
+  <link rel="stylesheet" href="../css/literarywork.css">
+ 
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<!-- ===== JS 파일 연결 ===== -->
+<script src="/js/index.js"></script>
+<script src="/js/literarywork.js" defer></script>
+</head>
+
+
+<body>
+
+<!-- ===== 상단 공통 헤더 ===== -->
 <header class="header">
   <div class="logo-area">
     <a href="/index.html" class="logo-link">
@@ -66,15 +76,29 @@
   </nav>
 </header>
 
-<!-- 화면의 메인컨텐츠 부분 --> <!-- 내가 쓰는 부분 시작 -->
-    <div class="container">
-      <object id="mapFinal" type="image/svg+xml" data="/images/mapFinal.svg"></object>
+<main data-genre="소설">
+  <div class="book-section">
+
+    <!-- 보기 방식 변경 -->
+    <div class="view-toggle-container" style="position:absolute; top:20px; right:20px; z-index:1000;">
+      <select id="viewSelect">
+        <option value="" disabled selected>정렬 방식</option>
+        <option value="grid">격자형</option>
+        <option value="list">리스트형</option>
+      </select>
     </div>
 
+    <div class="book-grid" id="bookGrid">
+
+    </div>
+  </div>
+</main>
+
+<!-- 우측 하단 스크롤 버튼 -->
+<div class="scroll-buttons">
+  <button type="button" class="upBtn" title="맨 위로">&#8593;</button>
+  <button type="button" class="downBtn" title="맨 아래로">&#8595;</button>
 </div>
 
-<!-- ===== JS 파일 연결 ===== -->
-<script src="js/index.js"></script>
-<script src="js/indexA.js"></script>
 </body>
 </html>

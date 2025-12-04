@@ -1,0 +1,232 @@
+@charset "UTF-8"; 
+
+/* ---------------------------
+   폰트
+--------------------------- */
+@font-face {
+  font-family: 'Kyobo';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/KyoboHandwriting2022khn.woff2') format('woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* ---------------------------
+   기본 설정
+--------------------------- */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Kyobo', sans-serif;
+  background-color: rgb(228, 232, 212);
+}
+
+.container {
+  background: #fff;
+}
+/* ---------------------------
+   책 목록 영역
+--------------------------- */
+.book-section {
+  position: relative;
+  margin: 30px auto;
+  width: 90%;
+  background-color: #f6f7f5;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+/* ---------------------------
+   보기 방식 토글
+--------------------------- */
+.view-toggle-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 100; 
+  font-size: 16px;
+}
+
+
+/* select 기본 스타일 제거 + 패딩 조정 */
+.view-toggle-container select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding: 6px 30px 6px 12px; /* 오른쪽 패딩으로 화살표 공간 확보 */
+  cursor: pointer;
+  font-size: 16px;
+  border: 1px solid #000;
+  border-radius: 4px;
+  background: #fff;
+  position: relative;
+}
+
+/* 화살표 표시 */
+.view-toggle-container::after {
+  content: "▼";  /* 아래쪽 화살표 문자 */
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  font-size: 12px;
+  color: #000;
+}
+
+/* 호버 시 텍스트 색상 변경 가능 */
+.view-toggle-container select:hover {
+  color: #000;
+}
+
+/* ---------------------------
+   GRID VIEW
+--------------------------- */
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 40px;
+  margin-top: 80px;
+  width: 100%;
+}
+
+.book-card {
+  display: flex;
+  flex-direction: column;
+  border: none;
+  padding: 0;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.book-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.cover-link {
+  display: block;
+  text-decoration: none;
+  color: black;
+}
+
+.cover {
+  aspect-ratio: 1 / 1.42;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border: 1px solid #000;
+  border-radius: 2px;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 2px;
+  transition: transform 0.25s ease;
+}
+
+.title {
+  margin-top: 10px;
+  font-size: 18px;
+  text-align: center;
+  transition: color 0.2s;
+}
+.book-card:hover .title {
+  color: #006400;
+}
+
+.book-grid .book-info .title {
+  display: block;
+  font-size: 18px;
+  color: #000;
+  margin-top: 10px;
+}
+
+.book-grid .preview {
+  display: none;
+}
+
+/* ---------------------------
+   LIST VIEW
+--------------------------- */
+.book-grid.list-view {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.book-grid.list-view .book-card {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 16px;
+  border-bottom: 1px solid #ccc;
+  padding: 12px 0;
+  height: auto !important;
+  transform: none !important;
+  box-shadow: none !important;
+}
+
+.book-grid.list-view .cover {
+  width: 120px;
+  aspect-ratio: 1 / 1.42;
+}
+
+.book-grid.list-view .cover-link {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* 위쪽 정렬 */
+  gap: 20px;
+  width: 100%;
+}
+
+.book-grid.list-view .book-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* 위쪽 정렬 */
+  text-align: left;
+}
+
+.book-grid.list-view .title {
+  font-size: 20px;
+  margin: 0 0 6px 0;
+  text-align: left;
+}
+
+.book-grid.list-view .preview {
+  display: block;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.4;
+  margin-top: 4px;
+}
+
+/* ---------------------------
+   Scroll Buttons
+--------------------------- */
+.scroll-buttons {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  z-index: 1000;
+}
+.scroll-buttons button {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  background: white;
+  border: 1px solid #000;
+  border-radius: 50%; /* 원형 */
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.scroll-buttons button:hover {
+  background: #e6e6e6;
+}

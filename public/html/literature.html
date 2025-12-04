@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>작품 이름</title>
+  
+   <!-- 공통 헤더용 CSS -->
+  <link rel="stylesheet" href="/css/index.css">
+  <link rel="stylesheet" href="/css/ex.css">
+ 
+
+<!-- ===== JS 파일 연결 ===== -->
+<script src="/js/index.js"></script>
+<script src="/js/literature.js" defer></script>
+</head>
+
+
+<body>
+
+<!-- ===== 상단 공통 헤더 ===== -->
+<header class="header">
+  <div class="logo-area">
+    <a href="/index.html" class="logo-link">
+      <img src="/images/logo.png" alt="로고">
+      <h1>문향재</h1>
+    </a>
+  </div>
+
+  <nav class="nav">
+    <ul class="nav-list">
+      <li class="nav-item has-mega"><a href="/html/district.html">문학관</a></li>
+      <li class="nav-item has-mega"><a href="/html/author.html">작가</a></li>
+      <li class="nav-item has-mega"><a href="/html/literarywork.html">작품</a></li>
+      <li class="nav-item has-mega"><a href="http://localhost/community/course.php">커뮤니티</a></li>
+      <li class="nav-item has-mega"><a href="/html/AChat.html">AI 문학실</a></li>
+    </ul>
+
+    <div class="mega-menu">
+      <div class="mega-col">
+        <h3>문학관</h3>
+        <a href="/html/capital.html">수도권</a>
+        <a href="/html/gangwon.html">강원</a>
+        <a href="/html/chungcheong.html">충청</a>
+        <a href="/html/jeolla.html">전라</a>
+        <a href="/html/gyeongsang.html">경상</a>
+      </div>
+
+      <div class="mega-col">
+        <h3>작가</h3>
+        <a href="/html/author.html">작가 정보</a>
+      </div>
+
+      <div class="mega-col">
+        <h3>작품</h3>
+        <a href="/html/novel.html">소설</a>
+        <a href="/html/essay.html">수필</a>
+        <a href="/html/Bpoem.html">시</a>
+      </div>
+
+      <div class="mega-col">
+        <h3>커뮤니티</h3>
+        <a href="#">문향재 소개</a>
+        <a href="http://localhost/community/course.php">여행 코스 추천 게시판</a>
+        <a href="http://localhost/community/report.php">독후감 게시판</a>
+     </div>
+
+      <div class="mega-col">
+        <h3>AI 문학실</h3>
+        <a href="/html/AChat.html">문향재 필담실</a>
+        <a href="/html/Poem.html">감정 시공방</a>
+        <a href="/html/recommend.html">Just for you: 오늘의 책</a>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<main class="main-container">
+
+  <div class="info-card"></div>
+
+  <div class="additional-content">
+
+    <div class="left-menu">
+      <a href="#theme">주제</a>
+      <a href="#table">목차</a>
+      <a href="#summary">줄거리</a>
+      <a href="#poem">대표시</a>
+      <a href="#author">작가</a>
+      <a href="#library">도서관 찾기</a>
+      <a href="#museum">문학관 찾기</a>
+      <a href="#major">저자의 작품</a>
+      <a href="#related">연관 작품</a>
+    </div>
+
+    <div class="detail-sections">
+      <section id="theme">
+        <h3 class="section-title">주제</h3>
+        <div id="theme-content" class="section-content"></div>
+      </section>
+
+      <section id="table">
+        <h3 class="section-title">목차</h3>
+        <div id="table-content" class="section-content"></div>
+      </section>
+
+      <section id="summary">
+        <h3 class="section-title">줄거리</h3>
+        <div id="summary-content" class="section-content"></div>
+      </section>
+
+      <section id="poem" style="display:none">
+        <h3 class="section-title">대표시</h3>
+        <div class="section-content"></div>
+      </section>
+
+      <section id="author">
+        <h3 class="section-title">작가</h3>
+        <div class="section-content">
+          <a id="author-photo-link" href="#">
+            <img id="author-photo" src="" alt="작가 사진" class="cover author-cover">
+          </a>
+          <p id="author-bio"></p>
+        </div>
+      </section>
+
+      <section id="library">
+        <h3 class="section-title">도서관 찾기</h3>
+        <div class="section-content">
+          <a id="library-link" href="">소장 도서관 찾기</a>
+        </div>
+      </section>
+
+      <section id="museum">
+        <h3 class="section-title">문학관 찾기</h3>
+        <div class="section-content">
+          <a id="museum-link" href="#">
+            <img id="museum-photo" src="" alt="문학관 사진" class="cover museum-cover">
+          </a>
+          <p id="museum-name"></p>
+        </div>
+      </section>
+
+      <section id="major">
+        <h3 class="section-title">저자의 작품</h3>
+        <div id="major-content" class="section-content"></div>
+      </section>
+
+      <section id="related">
+        <h3 class="section-title">연관 작품</h3>
+        <div id="related-content" class="section-content"></div>
+      </section>
+    </div>
+
+  </div>
+
+</main>
+
+
+<div class="scroll-buttons">
+  <button type="button" class="upBtn" title="맨 위로">&#8593;</button>
+  <button type="button" class="downBtn" title="맨 아래로">&#8595;</button>
+</div>
+
+</body>
+</html>
+

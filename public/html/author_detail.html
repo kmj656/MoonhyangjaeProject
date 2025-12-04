@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>문향재</title>
-  <link rel="stylesheet" href="/css/index.css" />
+  <meta charset="UTF-8">
+  <title>작가 상세정보 : 문향재</title>
+  <link rel="stylesheet" href="/css/index.css">
+  <link rel="stylesheet" href="/css/author_detail.css">
 </head>
 <body>
-<!-- 웹페이지 화면을 감싸는 랩퍼 클래스 -->
+
+<!-- ================= 헤더 (고정) ================= -->
 <div class="wrapper">
 
 <header class="header">
@@ -66,15 +67,38 @@
   </nav>
 </header>
 
-<!-- 화면의 메인컨텐츠 부분 --> <!-- 내가 쓰는 부분 시작 -->
-    <div class="container">
-      <object id="mapFinal" type="image/svg+xml" data="/images/mapFinal.svg"></object>
-    </div>
 
+<!-- ================= 작가 정보 ================= -->
+
+<div class="content-wrapper">
+
+  <!-- 사진 + 이름 -->
+  <div class="author-header">
+      <img id="author-photo" class="author-photo" alt="작가 사진">
+      <h1 id="author-name" class="author-name-only"></h1>
+  </div>
+
+  <!-- 본문 -->
+  <div class="author-body">
+
+      <h3 class="author-subtitle">작가 소개</h3>
+      <p id="author-intro" class="author-desc"></p>
+
+      <h3 class="author-subtitle">작품 성향</h3>
+      <p id="author-style" class="author-desc"></p>
+
+      <h3 class="author-subtitle">생애</h3>
+      <ul id="author-life" class="author-life"></ul>
+
+      <div class="author-works">
+        <h3 class="author-subtitle">대표 작품</h3>
+        <div id="author-works" class="work-list"></div>
+      </div>
+
+  </div>
 </div>
 
-<!-- ===== JS 파일 연결 ===== -->
-<script src="js/index.js"></script>
-<script src="js/indexA.js"></script>
+<script src="/js/author_detail.js"></script>
+<script src="/js/index.js"></script>
 </body>
 </html>

@@ -1,0 +1,120 @@
+[
+  {
+    "id": "1",
+    "title": "봄의 소설",
+    "cover": "images/spring_novel.jpg",
+    "genre": "소설",
+    "table_summary": {
+      "labels": { "table": "목차", "summary": "줄거리" },
+      "table": "1장 봄의 시작\n2장 사랑의 발견\n3장 성장의 끝",
+      "summary": "한 소년이 성장하며 겪는 다양한 사랑 이야기."
+    },
+    "author": {
+      "name": "김작가",
+      "photo": "images/author_kim.jpg",
+      "bio": "현대 소설가, 다양한 청소년 성장소설 집필",
+      "link": "author.html?id=kim"
+    },
+    "library": "library.html?id=1",
+    "museum": {
+      "name": "서울 문학관",
+      "photo": "images/museum_seoul.jpg",
+      "link": "museum.html?id=seoul"
+    },
+    "major": [
+      { "id": "101", "title": "대표작 A", "cover": "images/major_a.jpg" },
+      { "id": "102", "title": "대표작 B", "cover": "images/major_b.jpg" }
+    ],
+    "related": [
+      { "id": "201", "title": "연관작 X", "cover": "images/related_x.jpg" },
+      { "id": "202", "title": "연관작 Y", "cover": "images/related_y.jpg" }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "가을의 수필",
+    "cover": "images/autumn_essay.jpg",
+    "genre": "수필",
+    "table_summary": {
+      "labels": { "table": "목차", "summary": "줄거리" },
+      "table": "1장 가을 풍경\n2장 삶의 성찰\n3장 자연과 인간",
+      "summary": "가을 풍경 속에서의 사색과 삶의 기록."
+    },
+    "author": {
+      "name": "이작가",
+      "photo": "images/author_lee.jpg",
+      "bio": "수필 작가, 자연과 인간의 삶을 담은 글쓰기",
+      "link": "author.html?id=lee"
+    },
+    "library": "library.html?id=2",
+    "museum": {
+      "name": "부산 문학관",
+      "photo": "images/museum_busan.jpg",
+      "link": "museum.html?id=busan"
+    },
+    "major": [
+      { "id": "201", "title": "대표작 D", "cover": "images/major_d.jpg" }
+    ],
+    "related": [
+      { "id": "301", "title": "연관작 P", "cover": "images/related_p.jpg" }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "여름의 시",
+    "cover": "images/summer_poem.jpg",
+    "genre": "시",
+    "table_summary": {
+      "labels": { "table": "목차", "summary": "시 해설" },
+      "summary": "청춘의 열정과 사랑을 시로 표현한 작품."
+    },
+    "poem": "푸른 하늘 아래,\n청춘의 꿈과 사랑을 노래하다.",
+    "author": {
+      "name": "박작가",
+      "photo": "images/author_park.jpg",
+      "bio": "현대 시인, 감성을 담은 시 다수 출간",
+      "link": "author.html?id=park"
+    },
+    "library": "library.html?id=3",
+    "museum": {
+      "name": "대전 문학관",
+      "photo": "images/museum_daejeon.jpg",
+      "link": "museum.html?id=daejeon"
+    },
+    "major": [
+      { "id": "301", "title": "대표작 G", "cover": "images/major_g.jpg" }
+    ],
+    "related": [
+      { "id": "401", "title": "연관작 S", "cover": "images/related_s.jpg" }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "겨울의 단편소설",
+    "cover": "images/winter_short.jpg",
+    "genre": "단편소설",
+    "table_summary": {
+      "labels": { "table": "목차", "summary": "줄거리" },
+      "table": "1장 아이러니한 사건\n2장 인간 심리 탐구\n3장 짧은 결말",
+      "summary": "짧지만 강렬한 삶의 아이러니를 담은 단편 소설 모음."
+    },
+    "author": {
+      "name": "최작가",
+      "photo": "images/author_choi.jpg",
+      "bio": "단편소설 작가, 인간 심리 탐구",
+      "link": "author.html?id=choi"
+    },
+    "library": "library.html?id=4",
+    "museum": {
+      "name": "인천 문학관",
+      "photo": "images/museum_incheon.jpg",
+      "link": "museum.html?id=incheon"
+    },
+    "major": [
+      { "id": "401", "title": "대표작 J", "cover": "images/major_j.jpg" }
+    ],
+    "related": [
+      { "id": "501", "title": "연관작 V", "cover": "images/related_v.jpg" }
+    ]
+  }
+]

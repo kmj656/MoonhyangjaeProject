@@ -1,0 +1,98 @@
+// 스크롤버튼
+if (typeof $ !== 'undefined') {
+  $(".upBtn").click(function() {
+    $('html, body').animate({ scrollTop: 0 }, 300);
+  });
+
+  $(".downBtn").click(function() {
+    $('html, body').animate({ scrollTop: $(document).height() }, 300);
+  });
+} else {
+  console.warn("jQuery가 로드되지 않았습니다. upBtn / downBtn 기능이 비활성화됩니다.");
+}
+
+
+
+// 지도 색 바꾸기
+const mapObj = document.getElementById('mapFinal');
+
+mapObj.addEventListener('load', () => {
+  const doc = mapObj.contentDocument;
+  if (!doc) {
+    console.error('지도.svg에 접근할 수 없습니다. (CORS 또는 로드 문제)');
+    return;
+  }
+
+  const gangwon = doc.querySelectorAll('.gangwon');
+  const capital = doc.querySelectorAll('.capital');
+  const chungcheong = doc.querySelectorAll('.chungcheong');
+  const jeolla = doc.querySelectorAll('.jeolla');
+  const gyeongsang = doc.querySelectorAll('.gyeongsang');
+  const jeju = doc.querySelectorAll('.jeju');
+
+  // 현재 페이지 확인
+  const currentPage = window.location.pathname.split('/').pop();
+
+  // 지역과 페이지명 매핑
+  const pageToRegion = {
+    'gangwon.html' : gangwon,
+    'capital.html' : capital,
+    'gyeongsang.html' : gyeongsang,
+    'chungcheong.html' : chungcheong,
+    'jeolla.html' : jeolla
+  };
+
+  // 모든 지역색 회색으로
+  const allRegions = [gangwon, capital, gyeongsang, chungcheong, jeolla, jeju];
+
+  allRegions.forEach(regionGroup => {
+    regionGroup.forEach(el => {
+      el.setAttribute('fill', 'rgb(193, 193, 193)');});
+  });
+
+  // hover로 색깔 바꾸기
+  function addHoverEffect(elements, hoverColor) {
+    elements.forEach(el => {
+      const originalColor = el.getAttribute('fill');
+
+      el.addEventListener('mouseenter', () => {
+        el.style.transition = 'fill 0.1s ease';
+        elements.forEach(e => e.setAttribute('fill', hoverColor));
+      });
+      el.addEventListener('mouseleave', () => {
+        el.style.transition = 'fill 0.1s ease';
+        elements.forEach(e => e.setAttribute('fill', originalColor));
+      });
+    });
+  }
+
+  // 해당하는 페이지는 초록으로 고정 + hover 해제
+  const activeRegion = pageToRegion[currentPage];
+  if (activeRegion) {
+    activeRegion.forEach(el => el.setAttribute('fill', 'rgb(72, 111, 2)'));
+  }
+
+  //hover 이펙트
+  addHoverEffect(gangwon, 'rgb(72, 111, 2)');
+  addHoverEffect(capital, 'rgb(72, 111, 2)');
+  addHoverEffect(gyeongsang, 'rgb(72, 111, 2)');
+  addHoverEffect(chungcheong, 'rgb(72, 111, 2)');
+  addHoverEffect(jeolla, 'rgb(72, 111, 2)');
+
+  // 클릭 시 페이지로 이동
+  function addClickEvent(elements, url) {
+    elements.forEach(el => {
+      el.style.cursor = 'pointer';
+      el.addEventListener('click', () => {
+        window.location.href = url;
+      });
+    });
+  }
+
+  addClickEvent(gangwon, '/html/gangwon.html');
+  addClickEvent(capital, '/html/capital.html');
+  addClickEvent(gyeongsang, '/html/gyeongsang.html');
+  addClickEvent(chungcheong, '/html/chungcheong.html');
+  addClickEvent(jeolla, '/html/jeolla.html');
+
+});
