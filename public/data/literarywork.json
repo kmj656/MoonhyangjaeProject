@@ -121,7 +121,7 @@
  "title": "감정이 있는 심연",
  "year": "1957",
  "preview": "인간 내면에 있는 콤플렉스 현상을 다룬 심리소설이다.",
- "cover": "/images/works/05. 감정이 있는 심연 한무숙.png",
+ "cover": "/images/works/05. 감정이 있는 사연 한무숙.png",
  "link": "literature.html?id=$14",
  "genre": "소설"
 },
@@ -148,7 +148,7 @@
  "title": "국토",
  "year": "1975",
  "preview": "국토애(민족애)와 새 역사의 도래에 대한 소망을 담은 국토서시다.",
- "cover": "/images/works/11. 국토 조태일.png",
+ "cover": "/images/works/11 국토 조태일.png",
  "link": "literature.html?id=$17",
  "genre": "시"
 },
@@ -175,7 +175,7 @@
  "title": "풀꽃은 꺾이지 않는다",
  "year": "1995",
  "preview": "여리고 연약해 보이지만 꺾이지 않는 풀꽃으로 민중의 생명력과 저항을 상징화한 작품이다.",
- "cover": "/images/works/11. 풀꽃은 꺾이지 않는다. 조태일png",
+ "cover": "/images/works/11. 풀꽃은 꺾이지 않는다 조태일png",
  "link": "literature.html?id=$20",
  "genre": "시"
 },
@@ -211,7 +211,7 @@
  "title": "박두진 시 전집(1권)",
  "year": "2017",
  "preview": "해방 직후의 구성원들이 열망하는 공동체의 이상향을 상징적으로 제시하고 있다. 이는 현재의 어둠을 극복해야 가능하며, 그 공동체 속에서 모든 생명체들이 조화롭고 평화롭게 살아가게 될 것이라는 기대가 병렬적인 문장들로 힘 있게 표현되고 있다.",
- "cover": "/images/works/14. 박두진 시 전집 박두진.png",
+ "cover": "/images/works/14. 박두진 시 전집 1 박두진.png",
  "link": "literature.html?id=$25",
  "genre": "시"
 },
@@ -256,7 +256,7 @@
  "title": "소낙비",
  "year": "1935",
  "preview": "삶의 안착을 찾지 못한 식민지시대의 유랑농민의 삶을 해학적으로 다룬 작품이다.",
- "cover": "/images/works/16. 소낙비 김유정.png",
+ "cover": "/images/works/15. 소낙비 김유정.png",
  "link": "literature.html?id=$30",
  "genre": "소설"
 },
@@ -319,7 +319,7 @@
  "title": "산새알 물새알",
  "year": "1962",
  "preview": "이 시는 각기 다른 환경과 특성을 지닌 산새알과 물새알의 모습을 통해, 자연 속 모든 생명체가 지니고 있는 고유한 아름다움과 생명의 탄생이 가져다주는 신비로움, 그리고 자연과의 조화 속에서 피어나는 순수한 동심의 세계를 노래하고 있다.",
- "cover": "/images/works/21. 산새알 물새알 박목월.png",
+ "cover": "/images/works/21. 산새알 물세알 박목월.png",
  "link": "literature.html?id=$37",
  "genre": "시"
 },
@@ -355,7 +355,7 @@
  "title": "사랑에 대한 64가지 믿음",
  "year": "1995",
  "preview": "고통과 아픔 속에서도 희망을 잃지 않는 사랑의 가치와 인생의 모든 고통과 상처를 사랑을 통해 치유하고 극복하는 것이다. 이 책은 사랑의 본질을 성찰하고, 사랑이 없는 삶은 불가능하다는 메시지를 전달한다.",
- "cover": "/images/works/23. 사랑에 대한 64가지 믿음 정호승.png",
+ "cover": "/images/works/23. 정호승 사랑에 대한 64가지 믿음 정호승.png",
  "link": "literature.html?id=$41",
  "genre": "수필"
 },
@@ -409,7 +409,7 @@
  "title": "수탉",
  "year": "1933",
  "preview": "이 작품은 '수탉'이라는 상징을 통해 주인공의 내면을 효과적으로 드러내고 있는 소설이다. 못난 수탉의 처지는 사회에서 제 역할을 하지 못하는 을손의 모습과 겹쳐지며, 수탉을 향한 폭력은 자기혐오의 표출로 이어진다.",
- "cover": "/images/works/24. 수탉 이효석.png",
+ "cover": "/images/works/24.수탉 이효석.png",
  "link": "literature.html?id=$47",
  "genre": "소설"
 },
@@ -427,7 +427,7 @@
  "title": "카인의 후예",
  "year": "1953-1954",
  "preview": "이념 대립이 첨예했던 해방 직후 북한의 토지개혁을 배경으로 인간의 근원적 악(카인의 원죄)과 순수성, 그리고 그로 인해 파멸하는 인간관계를 다룬다.",
- "cover": "/images/works/25. 카인의 후예 황순원.png",
+ "cover": "/images/works/25.카인의 후예 황순원.png",
  "link": "literature.html?id=$49",
  "genre": "소설"
 },
