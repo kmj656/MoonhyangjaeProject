@@ -67,10 +67,17 @@
 
 <!-- 화면의 메인컨텐츠 부분 --> <!-- 내가 쓰는 부분 시작 -->
     <div class="container">
-      <object id="mapFinal" type="image/svg+xml" data="/images/mapFinal.svg"></object>
+      <object id="mapFinal" type="image/svg+xml" data="../images/mapFinal.svg"></object>
     </div>
 
 </div>
+
+<!-- ===== 공통 함수 ===== -->
+    <script>
+      function goHome() {
+        window.location.href = "/index.html"; // ✅ 홈으로 이동
+      }
+    </script>
 
 <!-- ===== JS 파일 연결 ===== -->
 <script src="../js/index.js"></script>

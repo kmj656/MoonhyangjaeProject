@@ -2,44 +2,65 @@
   { "title": "누가 하늘을 보았다 하는가", "author": "신동엽" },
   { "title": "껍데기는 가라", "author": "신동엽" },
   { "title": "신동엽 산문전집", "author": "신동엽" },
-  { "title": "별똥 떨어진 곳", "author": "정지용" },
   { "title": "백록담", "author": "정지용" },
+  { "title": "별똥 떨어진 곳", "author": "정지용" },
   { "title": "꾀꼬리와 국화", "author": "정지용" },
-  { "title": "인간시장", "author": "김홍신" },
-  { "title": "칼날 위의 전쟁", "author": "김홍신" },
-  { "title": "풍객", "author": "김홍신" },
-  { "title": "김홍신의 대발해", "author": "김홍신" },
+  { "title": "인간시장(1-10권)", "author": "김홍신" },
+  { "title": "칼날 위의 전쟁(1-2권)", "author": "김홍신" },
+  { "title": "김홍신의 대발해(1-10권)", "author": "김홍신" },
   { "title": "님의 침묵", "author": "한용운" },
-  { "title": "채근담", "author": "한용운" },
+  { "title": "한용운의 채근담 강의", "author": "한용운" },
   { "title": "나룻배와 행인", "author": "한용운" },
+  
   { "title": "역사는 흐른다", "author": "한무숙" },
   { "title": "감정이 있는 심연", "author": "한무숙" },
   { "title": "생인손", "author": "한무숙" },
-  { "title": "만남", "author": "한무숙" },
+  { "title": "만남(1-2권)", "author": "한무숙" },
+
   { "title": "국토", "author": "조태일" },
   { "title": "가거도", "author": "조태일" },
   { "title": "푸른 하늘과 붉은 황토", "author": "조태일" },
-  { "title": "혼불", "author": "최명희" },
+  { "title": "풀꽃은 꺾이지 않는다", "author": "조태일" },
+
   { "title": "내 노래하고 싶은 것은", "author": "신석정" },
   { "title": "신석정의 시선", "author": "신석정" },
   { "title": "그 먼 나라를 알으십니까", "author": "신석정" },
-  { "title": "박두진 시 전집", "author": "박두진" },
+
+  { "title": "박두진 시 전집 (1권)", "author": "박두진" },
   { "title": "한 권으로 읽는 청록파", "author": "박두진" },
   { "title": "박두진 시선", "author": "박두진" },
+
+  { "title": "동백꽃", "author": "김유정" },
+  { "title": "산골나그네", "author": "김유정" },
+  { "title": "소낙비", "author": "김유정" },
+  { "title": "봄 · 봄", "author": "김유정" },
+
   { "title": "무녀도", "author": "김동리" },
   { "title": "황토기", "author": "김동리" },
   { "title": "등신불", "author": "김동리" },
+
   { "title": "산도화", "author": "박목월" },
   { "title": "경상도의 가랑잎", "author": "박목월" },
   { "title": "산새알 물새알", "author": "박목월" },
+
   { "title": "광야(曠野)", "author": "이육사" },
   { "title": "청포도(靑葡萄)", "author": "이육사" },
   { "title": "광인의 태양", "author": "이육사" },
+
   { "title": "사랑에 대한 64가지 믿음", "author": "정호승" },
   { "title": "외로우니까 사람이다", "author": "정호승" },
   { "title": "내가 사랑하는 사람", "author": "정호승" },
+
   { "title": "메밀꽃 필 무렵", "author": "이효석" },
   { "title": "화분", "author": "이효석" },
   { "title": "노령근해", "author": "이효석" },
-  { "title": "수탉", "author": "이효석" }
-  ]
+  { "title": "수탉", "author": "이효석" },
+
+  { "title": "카인의 후예", "author": "황순원" },
+  { "title": "일월(1-16권)", "author": "황순원" },
+  { "title": "별", "author": "황순원" },
+
+  { "title": "레디메이드인생", "author": "채만식" },
+  { "title": "탁류", "author": "채만식" },
+  { "title": "태평천하", "author": "채만식" }
+]
