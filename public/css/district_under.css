@@ -15,6 +15,10 @@ body{
   background:#fff;
 }
 
+.mainContent {
+  font-family: sans-serif;
+}
+
 
 /* 스크롤버튼 */
 .scroll-buttons {
@@ -74,7 +78,7 @@ body{
   flex-direction: column;
   min-height: 100px;
   overflow-y: auto;
-  height: 300px;
+  height: 400px;
 }
 
 .warp ul {
@@ -167,5 +171,5 @@ body{
 }
 
 .card:hover {
-  background-color: rgb(210, 203, 153);
+  background-color: #e7e9e0;
 }

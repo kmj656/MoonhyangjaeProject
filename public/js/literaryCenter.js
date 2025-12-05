@@ -59,5 +59,3 @@ function setBookCardHeight() {
 window.addEventListener("load", setBookCardHeight);
 
 window.addEventListener("resize", setBookCardHeight);
-
-// 추가한 뒤엔 위에꺼 지워도 됨

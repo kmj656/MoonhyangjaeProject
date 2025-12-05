@@ -55,10 +55,10 @@ mapObj.addEventListener('load', () => {
     });
   }
 
-  addClickEvent(gangwon, '/html/gangwon.html');
-  addClickEvent(capital, '/html/capital.html');
-  addClickEvent(gyeongsang, '/html/gyeongsang.html');
-  addClickEvent(chungcheong, '/html/chungcheong.html');
-  addClickEvent(jeolla, '/html/jeolla.html');
+  addClickEvent(gangwon, 'gangwon.html');
+  addClickEvent(capital, 'capital.html');
+  addClickEvent(gyeongsang, 'gyeongsang.html');
+  addClickEvent(chungcheong, 'chungcheong.html');
+  addClickEvent(jeolla, 'jeolla.html');
 
 });

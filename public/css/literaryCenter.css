@@ -181,6 +181,7 @@ summary::before {
 
 .mainContent h4 {
   font-size: 20px;
+  margin-bottom: 16px;
 }
 
 
@@ -291,9 +292,10 @@ summary::before {
 .Booklist {
   border: 2px solid #dadcd5;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 40px; /* 카드 사이 간격 */
+  grid-template-columns: repeat(4, minmax(150px, 1fr));
+  gap: 40px;
   padding: 20px;
+  justify-content: center;
 }
 
 .book-card {
