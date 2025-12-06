@@ -36,1215 +36,1250 @@
 
 
   {
-    "id": "2",
-    "title": "껍데기는 가라(1967)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "진정하고 순수한 민족의 삶을 추구하고, 허위와 가식이 없는 통일되고 화합된 사회를 염원하는 시다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "1\n서시\n진달래 산천\n아니오\n... 외"
-    },
-    "poem": "껍데기는 가라\n사월도 알맹이만 남고\n껍데기는 가라\n\n껍데기는 가라\n동학년 곰나루의, 그 아우성만 살고\n껍데기는 가라\n\n그리하여, 다시\n껍데기는 가라\n이 곳에선, 두 가슴과 그 곳까지 내논\n\n아사달과 아사녀가\n중립의 초례청 앞에 서서\n부끄럼 빛내며\n맞절할지니\n\n껍데기는 가라\n한라에서 백두까지\n향그러운 흙가슴만 남고\n그, 모오든 쇠붙이는 가라",
-    "author": {
-      "name": "신동엽",
-      "photo": "사진",
-      "bio": "신동엽 시인의 작품 성향은 민족적 리얼리즘을 바탕으로 참여적이고 저항적인 성격을 띠면서도 역사적 상상력과 서정성을 결합한 것이 특징이다. 역사적 질곡 속에서 진정으로 가치 있는 알맹이(순수한 마음)만을 남기고자 하는 바람을 직설적이고 간절하게 표현했으며, '껍데기는 가라'와 같은 작품에서 잘 드러난다.",
-      "link": "author_detail.html?id=신동엽"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=껍데기는+가라&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "신동엽 문학관",
-      "photo": "사진",
-      "link": " shindongyeop.html"
-    },
-    "major": [
-      { "id": "1", "title": "누가 하늘을 보았다 하는가", "cover": "표지" },
-      { "id": "3", "title": "신동엽 산문전집", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r1", "title": "파씨의 입문", "cover": "표지" },
-      { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "표지" },
-      { "id": "r3", "title": "로기완을 만났다", "cover": "표지" }
-    ]
+  "id": "2",
+  "title": "껍데기는 가라(1967)",
+  "cover": "../images/works/02. 껍데기는 가라 신동엽.png",
+  "genre": "시",
+  "theme": "진정하고 순수한 민족의 삶을 추구하고, 허위와 가식이 없는 통일되고 화합된 사회를 염원하는 시다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "1\n서시\n진달래 산천\n아니오\n... 외"
   },
+  "poem": "껍데기는 가라\n사월도 알맹이만 남고\n껍데기는 가라\n\n껍데기는 가라\n동학년 곰나루의, 그 아우성만 살고\n껍데기는 가라\n\n그리하여, 다시\n껍데기는 가라\n이 곳에선, 두 가슴과 그 곳까지 내논\n\n아사달과 아사녀가\n중립의 초례청 앞에 서서\n부끄럼 빛내며\n맞절할지니\n\n껍데기는 가라\n한라에서 백두까지\n향그러운 흙가슴만 남고\n그, 모오든 쇠붙이는 가라",
+  "author": {
+    "name": "신동엽",
+    "photo": "../images/writers/신동엽.png",
+    "bio": "신동엽 시인의 작품 성향은 민족적 리얼리즘을 바탕으로 참여적이고 저항적인 성격을 띠면서도 역사적 상상력과 서정성을 결합한 것이 특징이다. 역사적 질곡 속에서 진정으로 가치 있는 알맹이(순수한 마음)만을 남기고자 하는 바람을 직설적이고 간절하게 표현했으며, '껍데기는 가라'와 같은 작품에서 잘 드러난다.",
+    "link": "author_detail.html?id=신동엽"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=껍데기는+가라&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "신동엽 문학관",
+    "photo": "../images/문학관/신동엽.jpg",
+    "link": " shindongyeop.html"
+  },
+  "major": [
+    { "id": "1", "title": "누가 하늘을 보았다 하는가", "cover": "../images/works/01. 누가 하늘을 보았다 하는가 신동엽.png" },
+    { "id": "3", "title": "신동엽 산문전집", "cover": "../images/works/01. 신동엽 산문전집 신동엽.png" }
+  ],
+  "related": [
+    { "id": "r1", "title": "파씨의 입문", "cover": "../images/연관/01. 파씨의 입문.png" },
+    { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "../images/연관/01. 샌티맨털도 하루이틀.png" },
+    { "id": "r3", "title": "로기완을 만났다", "cover": "../images/연관/01. 로기완을 만났다.png" }
+  ]
+}
+,
 
-  {
-    "id": "3",
-    "title": "신동엽 산문전집(2019)",
-    "cover": "표지",
-    "genre": "수필",
-    "theme": "민족의 운명에 대한 깊은 성찰과 역사에 대한 뜨거운 사랑이 담긴 산문을 총 7부에 걸쳐 시극·오페레타, 평론, 수필, 일기, 편지, 기행, 방송대본의 순으로 수록했다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "시극 「그 입술에 파인 그늘」과 오페레타 「석가탑」을 1부에 포함했다. 시 못지않게 시인의 중요한 작품으로 일컬어져온 글들이다. 2부에는 시인의 시 정신을 보여주는 평론 17편을 담았다. 3부 수필편에는 경수필이라고 불릴 만한 글들을 모으고, 간단한 단상(斷想)들을 따로 분류해 수록했다. ‘서둘고 싶지 않다’ ‘나의 이중성’ ‘어느 날의 오후’ 등의 제목에서 짐작되는 것처럼 시인의 또다른 면모를 흥미롭게 살필 수 있는 산문들이다. 4부에는 1951년부터 1954년까지 쓴 일기들을 모았다. 이어 5부는 부인 인병선 여사와 연애 시절부터 주고받은 편지를, 6부는 1964년 제주도를 여행한 기행문을, 7부는 라디오 방송대본을 묶었다."
-    },
-    "author": {
-      "name": "신동엽",
-      "photo": "사진",
-      "bio": "신동엽 시인의 작품 성향은 민족적 리얼리즘을 바탕으로 참여적이고 저항적인 성격을 띠면서도 역사적 상상력과 서정성을 결합한 것이 특징이다. 역사적 질곡 속에서 진정으로 가치 있는 알맹이(순수한 마음)만을 남기고자 하는 바람을 직설적이고 간절하게 표현했으며, '껍데기는 가라'와 같은 작품에서 잘 드러난다.",
-      "link": "author_detail.html?id=신동엽"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%8B%A0%EB%8F%99%EC%97%BD+%EC%82%B0%EB%AC%B8%EC%A0%84%EC%A7%91&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "신동엽 문학관",
-      "photo": "사진",
-      "link": " shindongyeop.html"
-    },
-    "major": [
-      { "id": "1", "title": "누가 하늘을 보았다 하는가", "cover": "표지" },
-      { "id": "2", "title": "껍데기는 가라", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r1", "title": "파씨의 입문", "cover": "표지" },
-      { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "표지" },
-      { "id": "r3", "title": "로기완을 만났다", "cover": "표지" }
-    ]
+{
+  "id": "3",
+  "title": "신동엽 산문전집(2019)",
+  "cover": "../images/works/01. 신동엽 산문전집 신동엽.png",
+  "genre": "수필",
+  "theme": "민족의 운명에 대한 깊은 성찰과 역사에 대한 뜨거운 사랑이 담긴 산문을 총 7부에 걸쳐 시극·오페레타, 평론, 수필, 일기, 편지, 기행, 방송대본의 순으로 수록했다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "시극 「그 입술에 파인 그늘」과 오페레타 「석가탑」을 1부에 포함했다. 시 못지않게 시인의 중요한 작품으로 일컬어져온 글들이다. 2부에는 시인의 시 정신을 보여주는 평론 17편을 담았다. 3부 수필편에는 경수필이라고 불릴 만한 글들을 모으고, 간단한 단상(斷想)들을 따로 분류해 수록했다. ‘서둘고 싶지 않다’ ‘나의 이중성’ ‘어느 날의 오후’ 등의 제목에서 짐작되는 것처럼 시인의 또다른 면모를 흥미롭게 살필 수 있는 산문들이다. 4부에는 1951년부터 1954년까지 쓴 일기들을 모았다. 이어 5부는 부인 인병선 여사와 연애 시절부터 주고받은 편지를, 6부는 1964년 제주도를 여행한 기행문을, 7부는 라디오 방송대본을 묶었다."
   },
-
-    {
-    "id": "4",
-    "title": "백록담(1941)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "반영론적 관점에서 이 작품은 일제에 의해 정체성을 잃고 살아가는 우리 민족의 서글픔을 간접적으로 드러내면서 우리 민족 고유의 정기가 깃든 한라산 산행은 부정적 현실을 극복하려는 의지를 표현한다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "장수산 1\n장수산 2\n백록담\n비로봉\n... 외"
-    },
-    "poem": "절정에 가까울수록 뻐꾹채꽃 키가 점점 소모된다.\n『한 마루 오르면 허리가 스러지고 다시 한 마루 우에서 모가지가 없고 나중에는 얼굴만 갸옷 내다본다. \n화문(花紋)처럼 판 박힌다.』\n바람이 차기가 함경도 끝과 맞서는 데서\n뻐꾹채 키는 아주 없어지고도 팔월 한철엔 흩어진 성신(星辰:별)처럼 난만하다.\n산그림자 어둑 어둑하면 그러지 않아도 뻐꾹채 꽃밭에서 별들이 켜 든다. 제자리에서 별이 옮긴다.\n나는 여기서 기진했다.\n\n암고란(巖古蘭), 환약같이 어여쁜 열매로 목을 축이고 살아 일어섰다.\n\n백화(白樺) 옆에서 백화가 촉루(해골)가 되기까지 산다.\n내가 죽어 백화처럼 흴 것이 숭 없지 않다.\n\n귀신도 쓸쓸하여 살지 않는 한 모롱이,\n\n바야흐로 해발 육천 척 우에서\n『마.소가 사람을 대수롭게 아니 여기고 산다.\n말이 말끼리 소가 소끼리, 망아지가 어미 소를 송아지가 어미 말을 따르다가 이내 헤어진다』\n\n첫 새끼를 낳노라고 암소가 몹시 혼이 났다.\n얼결에 산길 백 리를 돌아 서귀포로 달아났다.\n물도 마르기 전에 어미를 여읜 송아지는 움매 — 움매 — 울었다.\n말을 보고도 등산객을 보고도 마구 매어 달렸다.\n우리 새끼들도 모색(毛色)이 다른 어미한테 맡길 것을 나는 울었다.\n\n『풍란이 풍기는 향기, 꾀꼬리 서로 부르는 소리, 제주 휘파람새 휘파람 부는 소 리, 돌에 물이 따로 구르는 소리, 먼 데서 바다가 구길 때 솨 — 솨 — 솔소리』,\n물 푸레 동백 떡갈나무 속에서 나는 길을 잘못 들었다가 다시 칡넌출 기어간 흰 돌 박이 고부랑길로 나섰다.\n\n고비 고사리 더덕순 도라지꽃 취 삿갓나물 대풀 석용\n별과 같은 방울을 달은 고산 식물을 새기며 취하며 자며 한다.\n백록담 조촐한 물을 그리어 산맥 우에서 짓는 행렬이 구름보다 장엄하다.\n소나기 놋낱 맞으며 무지개에 말리우며 궁둥이에 꽃물 이겨 붙인 채로 살이 붓는다.\n\n가재도 기지 않는 백록담 푸른 물에 하늘이 돈다.\n불구에 가깝도록 고단한 나의 다리를 돌아 소가 갔다.\n좇겨 온 실구름 일말에도 백록담은 흐리운다.\n나의 얼굴에 한나절 포긴 백록담은 쓸쓸하다.\n나는 깨다 졸다 기도조차 잊었더니라.",
-    "author": {
-      "name": "정지용",
-      "photo": "사진",
-      "bio": "정지용 시의 특징은 감각적이고 회화적인 심상, 절제된 감정과 순수한 우리말 사용, 그리고 모더니즘과 향토적 정서의 조화로 요약할 수 있다. 그는 시각, 청각, 후각, 촉각 등 다양한 감각을 활용하여 구체적이고 생생한 이미지를 만들어내고, 감정을 직접적으로 드러내기보다 절제하며 우리말의 아름다움을 탐구했다. 이러한 특징은 초기 모더니즘 성향부터 전통적인 산수시까지 그의 폭넓은 시 세계를 이루는 핵심이다.",
-      "link": "author_detail.html?id=정지용"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%A0%95%EC%A7%80%EC%9A%A9+%EB%B0%B1%EB%A1%9D%EB%8B%B4&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "정지용 문학관",
-      "photo": "사진",
-      "link": " jeongjiyong.html"
-    },
-    "major": [
-      { "id": "5", "title": "별똥", "cover": "표지" },
-      { "id": "6", "title": "꾀꼬리와 국화", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r4", "title": "봄 편지", "cover": "표지" },
-      { "id": "r5", "title": "고향의 봄", "cover": "표지" },
-      { "id": "r6", "title": "감자꽃", "cover": "표지" }
-    ]
+  "author": {
+    "name": "신동엽",
+    "photo": "../images/writers/신동엽.png",
+    "bio": "신동엽 시인의 작품 성향은 민족적 리얼리즘을 바탕으로 참여적이고 저항적인 성격을 띠면서도 역사적 상상력과 서정성을 결합한 것이 특징이다. 역사적 질곡 속에서 진정으로 가치 있는 알맹이(순수한 마음)만을 남기고자 하는 바람을 직설적이고 간절하게 표현했으며, '껍데기는 가라'와 같은 작품에서 잘 드러난다.",
+    "link": "author_detail.html?id=신동엽"
   },
-
-  {
-    "id": "5",
-    "title": "별똥(1935)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "별똥을 쫓았던 어린 시절의 자기 자신과 그 꿈을 놓아버린 현재의 성인 사이에 거리감을 느끼며, 이루지 못한 소중한 다짐에 대한 그리움과 씁쓸함을 표현한다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "할아버지\n해바라기 씨\n별똥\n홍시\n... 외"
-    },
-    "poem": "별똥 떠러진 곳\n마음해 두었다\n다음날 가보려\n벼르다 벼르다\n인젠 다 자랐오",
-    "author": {
-      "name": "정지용",
-      "photo": "사진",
-      "bio": "정지용 시의 특징은 감각적이고 회화적인 심상, 절제된 감정과 순수한 우리말 사용, 그리고 모더니즘과 향토적 정서의 조화로 요약할 수 있다. 그는 시각, 청각, 후각, 촉각 등 다양한 감각을 활용하여 구체적이고 생생한 이미지를 만들어내고, 감정을 직접적으로 드러내기보다 절제하며 우리말의 아름다움을 탐구했다. 이러한 특징은 초기 모더니즘 성향부터 전통적인  산수시까지 그의 폭넓은 시 세계를 이루는 핵심이다.",
-      "link": "author_detail.html?id=정지용"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%A0%95%EC%A7%80%EC%9A%A9+%EB%B3%84%EB%98%A5+%EB%96%A8%EC%96%B4%EC%A7%84+%EA%B3%B3&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "정지용 문학관",
-      "photo": "사진",
-      "link": " jeongjiyong.html"
-    },
-    "major": [
-      { "id": "4", "title": "백록담", "cover": "표지" },
-      { "id": "6", "title": "꾀꼬리와 국화", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r4", "title": "봄 편지", "cover": "표지" },
-      { "id": "r5", "title": "고향의 봄", "cover": "표지" },
-      { "id": "r6", "title": "감자꽃", "cover": "표지" }
-    ]
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%8B%A0%EB%8F%99%EC%97%BD+%EC%82%B0%EB%AC%B8%EC%A0%84%EC%A7%91&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "신동엽 문학관",
+    "photo": "../images/문학관/신동엽.jpg",
+    "link": " shindongyeop.html"
   },
-
-  {
-    "id": "6",
-    "title": "꾀꼬리와 국화(1937)",
-    "cover": "표지",
-    "genre": "수필",
-    "theme": "계절의 변화와 그에 따른 자연의 정경, 그리고 화자의 내면적 정서의 변화를 섬세하게 묘사한다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "화자는 먼저 꾀꼬리가 울던 봄과 여름의 생동감 넘치는 시절을 회상한다. 시간이 흘러 계절이 바뀌면서 꾀꼬리의 울음은 사라지고, 모든 것이 시들어가는 쓸쓸하고 이우러진 늦가을이 찾아온다. 화자는 활기찬 시절이 사라져 상실감을 느낀다. 하지만 이윽고 시선은 산국화로 향한다. 은은하고 고즈넉한 아름다움을 지닌 황국은 쓸쓸함을 달래주는 위안의 대상이 된다. 화자는 봄, 여름에 대한 그리움을 인정하면서도 가을의 쓸쓸함을 국화가 주는 차분한 아름다움으로 수용하고 달래겠다는 성숙하고 달관적인 태도를 보여주며 글을 마무리한다."
-    },
-    "author": {
-      "name": "정지용",
-      "photo": "사진",
-      "bio": "정지용 시의 특징은 감각적이고 회화적인 심상, 절제된 감정과 순수한 우리말 사용, 그리고 모더니즘과 향토적 정서의 조화로 요약할 수 있다. 그는 시각, 청각, 후각, 촉각 등 다양한 감각을 활용하여 구체적이고 생생한 이미지를 만들어내고, 감정을 직접적으로 드러내기보다 절제하며 우리말의 아름다움을 탐구했다. 이러한 특징은 초기 모더니즘 성향부터 전통적인  산수시까지 그의 폭넓은 시 세계를 이루는 핵심이다.",
-      "link": "author_detail.html?id=정지용"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultEditonList.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%BE%80%EA%BC%AC%EB%A6%AC%EC%99%80+%EA%B5%AD%ED%99%94+%EC%A0%95%EC%A7%80%EC%9A%A9&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=27326829",
-    "museum": {
-      "name": "정지용 문학관",
-      "photo": "사진",
-      "link": " jeongjiyong.html"
-    },
-    "major": [
-      { "id": "4", "title": "백록담", "cover": "표지" },
-      { "id": "5", "title": "별똥", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r4", "title": "봄 편지", "cover": "표지" },
-      { "id": "r5", "title": "고향의 봄", "cover": "표지" },
-      { "id": "r6", "title": "감자꽃", "cover": "표지" }
-    ]
-  },
+  "major": [
+    { "id": "1", "title": "누가 하늘을 보았다 하는가", "cover": "../images/works/01. 누가 하늘을 보았다 하는가 신동엽.png" },
+    { "id": "2", "title": "껍데기는 가라", "cover": "../images/works/01. 껍데기는 가라 신동엽.png" }
+  ],
+  "related": [
+    { "id": "r1", "title": "파씨의 입문", "cover": "../images/연관/01. 파씨의 입문.png" },
+    { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "../images/연관/01. 센티맨털도 하루 이틀.png" },
+    { "id": "r3", "title": "로기완을 만났다", "cover": "../images/연관/01. 로기완을 만났다.png" }
+  ]
+}
+,
 
     {
-    "id": "7",
-    "title": "인간시장(1-10권, 1981)",
-    "cover": " 표지",
-    "genre": "소설",
-    "theme": "1980년대 우리나라 현실에 대한 조롱과 풍자 그리고 속시원한 해결법으로 독자의 가슴을 시원하게 뚫어주었던 김홍신의 연작소설이다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "『인간시장』은 1980년대 ‘인간 시장’이라 불리는 인신매매의 본거지와 창녀촌을 중심으로 당시 사회의 모순을 폭로하면서 시작된다. 이 작품은 주인공 장총찬이 정치권력, 검찰과 경찰, 재벌, 종교집단, 언론 등의 온갖 부패한 세력을 통쾌하게 응징하는 내용을 담고 있다. \n1권: 사설왕국\n2권: 불타는 욕망\n3권: 욕망의 그늘\n4권: 어두운 무대\n... 외"
-    },
-    "author": {
-      "name": "김홍신",
-      "photo": "사진",
-      "bio": "그의 작품 경향은 크게 네 가지로 분류할 수 있다. 첫째는 원체험 공간인 논산을 중심으로 충청권 일대를 배경으로 쓴 고향을 배경으로 한 리얼리즘 작품, 둘째는 서울 등 정치, 경제 중심의 도시 문명사회를 배경으로 이상적인 사회 건설을 위한 사회 현실을 비판한 작품, 셋째는 한 민족의 역사 공간과 유민 공간을 배경으로 쓴 역사와 민족을 반영한 작품, 넷째는 시·공간을 초월한 사랑과 같은 인간의 본질을 추구하는 작품 등이다. 작가는 인간 삶의 다양한 모티프를 통해 우주적 휴머니즘을 실현시키고 있다.",
-      "link": "author_detail.html?id=김홍신"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%9D%B8%EA%B0%84%EC%8B%9C%EC%9E%A5&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "김홍신 문학관",
-      "photo": "사진",
-      "link": "kimhongshin.html"
-    },
-    "major": [
-      { "id": "8", "title": "칼날 위의 전쟁", "cover": "표지" },
-      { "id": "9", "title": "김홍신의 대발해", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r7", "title": "원미동 사람", "cover": "표지" },
-      { "id": "r8", "title": "난장이가 쏘아올린 작은 공", "cover": "표지" },
-      { "id": "r9", "title": "아홉 켤레의 구두로 남은 사내", "cover": "표지" }
-    ]
+  "id": "4",
+  "title": "백록담(1941)",
+  "cover": "../images/works/02. 백록담 정지용.png",
+  "genre": "시",
+  "theme": "반영론적 관점에서 이 작품은 일제에 의해 정체성을 잃고 살아가는 우리 민족의 서글픔을 간접적으로 드러내면서 우리 민족 고유의 정기가 깃든 한라산 산행은 부정적 현실을 극복하려는 의지를 표현한다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "장수산 1\n장수산 2\n백록담\n비로봉\n... 외"
   },
-
-    {
-    "id": "8",
-    "title": "칼날 위의 전쟁(1-2권, 1996)",
-    "cover": " 표지",
-    "genre": "소설",
-    "theme": "「현대 과학의 쌀」이라는 반도체 개발을 둘러싸고 벌어지는 한국과 일본의 갈등, 한국 기업간의 경쟁을 다룬 작품. ",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "공 정권과 S 그룹 회장은 반도체를 개발하기로 합의하고 엄청난 투자를 한다. 미국 등 해외에 있던 세계적 석학들이 속속 국내로 들어오고 연구소가 설립되며 국가의 모든 역량이 총동원된다. 그러나 한국의 반도체 개발을 저지하려는 일본의 방해가 시작되면서 과학자들이 납치, 살해되고 한국의 정보기관들과 일본의 우익ㆍ야쿠자의 대결이 벌어지는데…."
-    },
-    "author": {
-      "name": "김홍신",
-      "photo": "사진",
-      "bio": "그의 작품 경향은 크게 네 가지로 분류할 수 있다. 첫째는 원체험 공간인 논산을 중심으로 충청권 일대를 배경으로 쓴 고향을 배경으로 한 리얼리즘 작품, 둘째는 서울 등 정치, 경제 중심의 도시 문명사회를 배경으로 이상적인 사회 건설을 위한 사회 현실을 비판한 작품, 셋째는 한 민족의 역사 공간과 유민 공간을 배경으로 쓴 역사와 민족을 반영한 작품, 넷째는 시·공간을 초월한 사랑과 같은 인간의 본질을 추구하는 작품 등이다. 작가는 인간 삶의 다양한 모티프를 통해 우주적 휴머니즘을 실현시키고 있다.",
-      "link": "author_detail.html?id=김홍신"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%B9%BC%EB%82%A0+%EC%9C%84%EC%9D%98+%EC%A0%84%EC%9F%81&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "김홍신 문학관",
-      "photo": "사진",
-      "link": "kimhongshin.html"
-    },
-    "major": [
-      { "id": "7", "title": "인간시장", "cover": "표지" },
-      { "id": "9", "title": "김홍신의 대발해", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r7", "title": "원미동 사람", "cover": "표지" },
-      { "id": "r8", "title": "난장이가 쏘아올린 작은 공", "cover": "표지" },
-      { "id": "r9", "title": "아홉 켤레의 구두로 남은 사내", "cover": "표지" }
-    ]
+  "poem": "절정에 가까울수록 뻐꾹채꽃 키가 점점 소모된다.\n『한 마루 오르면 허리가 스러지고 다시 한 마루 우에서 모가지가 없고 나중에는 얼굴만 갸옷 내다본다. \n화문(花紋)처럼 판 박힌다.』\n바람이 차기가 함경도 끝과 맞서는 데서\n뻐꾹채 키는 아주 없어지고도 팔월 한철엔 흩어진 성신(星辰:별)처럼 난만하다.\n산그림자 어둑 어둑하면 그러지 않아도 뻐꾹채 꽃밭에서 별들이 켜 든다. 제자리에서 별이 옮긴다.\n나는 여기서 기진했다.\n\n암고란(巖古蘭), 환약같이 어여쁜 열매로 목을 축이고 살아 일어섰다.\n\n백화(白樺) 옆에서 백화가 촉루(해골)가 되기까지 산다.\n내가 죽어 백화처럼 흴 것이 숭 없지 않다.\n\n귀신도 쓸쓸하여 살지 않는 한 모롱이,\n\n바야흐로 해발 육천 척 우에서\n『마.소가 사람을 대수롭게 아니 여기고 산다.\n말이 말끼리 소가 소끼리, 망아지가 어미 소를 송아지가 어미 말을 따르다가 이내 헤어진다』\n\n첫 새끼를 낳노라고 암소가 몹시 혼이 났다.\n얼결에 산길 백 리를 돌아 서귀포로 달아났다.\n물도 마르기 전에 어미를 여읜 송아지는 움매 — 움매 — 울었다.\n말을 보고도 등산객을 보고도 마구 매어 달렸다.\n우리 새끼들도 모색(毛色)이 다른 어미한테 맡길 것을 나는 울었다.\n\n『풍란이 풍기는 향기, 꾀꼬리 서로 부르는 소리, 제주 휘파람새 휘파람 부는 소 리, 돌에 물이 따로 구르는 소리, 먼 데서 바다가 구길 때 솨 — 솨 — 솔소리』,\n물 푸레 동백 떡갈나무 속에서 나는 길을 잘못 들었다가 다시 칡넌출 기어간 흰 돌 박이 고부랑길로 나섰다.\n\n고비 고사리 더덕순 도라지꽃 취 삿갓나물 대풀 석용\n별과 같은 방울을 달은 고산 식물을 새기며 취하며 자며 한다.\n백록담 조촐한 물을 그리어 산맥 우에서 짓는 행렬이 구름보다 장엄하다.\n소나기 놋낱 맞으며 무지개에 말리우며 궁둥이에 꽃물 이겨 붙인 채로 살이 붓는다.\n\n가재도 기지 않는 백록담 푸른 물에 하늘이 돈다.\n불구에 가깝도록 고단한 나의 다리를 돌아 소가 갔다.\n좇겨 온 실구름 일말에도 백록담은 흐리운다.\n나의 얼굴에 한나절 포긴 백록담은 쓸쓸하다.\n나는 깨다 졸다 기도조차 잊었더니라.",
+  "author": {
+    "name": "정지용",
+    "photo": "../images/writers/정지용.png",
+    "bio": "정지용 시의 특징은 감각적이고 회화적인 심상, 절제된 감정과 순수한 우리말 사용, 그리고 모더니즘과 향토적 정서의 조화로 요약할 수 있다. 그는 시각, 청각, 후각, 촉각 등 다양한 감각을 활용하여 구체적이고 생생한 이미지를 만들어내고, 감정을 직접적으로 드러내기보다 절제하며 우리말의 아름다움을 탐구했다. 이러한 특징은 초기 모더니즘 성향부터 전통적인 산수시까지 그의 폭넓은 시 세계를 이루는 핵심이다.",
+    "link": "author_detail.html?id=정지용"
   },
-    {
-    "id": "9",
-    "title": "김홍신의 대발해(1-10권, 2007)",
-    "cover": " 표지",
-    "genre": "소설",
-    "theme": "발해의 흥망성쇠를 다룬 거대 서사로, 잃어버린 고대 황제국 발해의 역사와 웅혼한 기백을 되살려낸 대하역사소설이다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "고구려 말 당나라와의 전투를 치르며 발해 개국의 씨앗을 싹 틔우는 데서 시작하여 발해 건국, 영토 정벌, 권력 찬탈, 지도층의 타락, 사랑과 배신, 외세의 침입까지 고구려보다 두 배 이상 넓은 대륙을 지배하며 동북아의 중심 국가로 우뚝 솟아올랐으나 끝내 거란국에 멸망하는 발해의 흥망성쇠에 대한 거대 서사를 담고 있다.\n1권: 혈로를 뚫고\n2권: 다시 뜨는 고구려 혼불\n3권: 개국황제 대조영\n4권: 황자의 역심\n... 외"
-    },
-    "author": {
-      "name": "김홍신",
-      "photo": "사진",
-      "bio": "그의 작품 경향은 크게 네 가지로 분류할 수 있다. 첫째는 원체험 공간인 논산을 중심으로 충청권 일대를 배경으로 쓴 고향을 배경으로 한 리얼리즘 작품, 둘째는 서울 등 정치, 경제 중심의 도시 문명사회를 배경으로 이상적인 사회 건설을 위한 사회 현실을 비판한 작품, 셋째는 한 민족의 역사 공간과 유민 공간을 배경으로 쓴 역사와 민족을 반영한 작품, 넷째는 시·공간을 초월한 사랑과 같은 인간의 본질을 추구하는 작품 등이다. 작가는 인간 삶의 다양한 모티프를 통해 우주적 휴머니즘을 실현시키고 있다.",
-      "link": "author_detail.html?id=김홍신"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EA%B9%80%ED%99%8D%EC%8B%A0%EC%9D%98+%EB%8C%80%EB%B0%9C%ED%95%B4+%EA%B9%80%ED%99%8D%EC%8B%A0&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "김홍신 문학관",
-      "photo": "사진",
-      "link": "kimhongshin.html"
-    },
-    "major": [
-      { "id": "7", "title": "인간시장", "cover": "표지" },
-      { "id": "8", "title": "칼날 위의 전쟁", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r7", "title": "원미동 사람", "cover": "표지" },
-      { "id": "r8", "title": "난장이가 쏘아올린 작은 공", "cover": "표지" },
-      { "id": "r9", "title": "아홉 켤레의 구두로 남은 사내", "cover": "표지" }
-    ]
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%A0%95%EC%A7%80%EC%9A%A9+%EB%B0%B1%EB%A1%9D%EB%8B%B4&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "정지용 문학관",
+    "photo": "../images/문학관/정지용.jpg",
+    "link": " jeongjiyong.html"
   },
+  "major": [
+    { "id": "5", "title": "별똥", "cover": "../images/works/02. 별똥 정지용.png" },
+    { "id": "6", "title": "꾀꼬리와 국화", "cover": "../images/works/02. 꾀꼬리와 국화 정지용.png" }
+  ],
+  "related": [
+    { "id": "r4", "title": "봄 편지", "cover": "../images/연관/02. 봄 편지.png" },
+    { "id": "r5", "title": "고향의 봄", "cover": "../images/연관/02. 고향의 봄.png" },
+    { "id": "r6", "title": "감자꽃", "cover": "../images/연관/02. 감자꽃.png" }
+  ]
+}
+,
 
   {
-    "id": "10",
-    "title": "님의 침묵(1926)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "임에 대한 영원한 사랑과 이별 후의 슬픔, 재회에 대한 희망, 잃어버린 조국에 대한 그리움과 희망 등 해석에 따라 다양하게 읽힌다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "님의 침묵\n이별은 미의 창조\n알 수 없어요\n나는 잊고자\n..."
-    },
-    "poem": "님은 갔습니다. 아아 사랑하는 나의 님은 갔습니다.\n푸른 산빛을 깨치고 단풍나무 숲을 향하야 난 적은 길을 걸어서 참어 떨치고 갔습니다.\n황금의 꽃같이 굳고 빛나든 옛 맹서는 차디찬 띠끌이 되야서, 한숨의 미풍에 날어갔습니다.\n날카로운 첫 '키쓰'의 추억은 나의, 운명의 지침을 돌려 놓고, 뒷걸음쳐서, 사러졌습니다.\n나는 향기로운 님의 말소리에 귀먹고, 꽃다운 님의 얼골에 눈멀었습니다.\n사랑도 사람의 일이라, 만날 때에 미리 떠날 것을 염려하고 경계하지 아니한 것은 아니지만, 이별은 뜻밖의 일이 되고 놀란 가슴은 새로운 슬픔에 터집니다.\n그러나 이별을 쓸데없는 눈물의 원천을 만들고 마는 것은 스스로 사랑을 깨치는 것인 줄 아는 까닭에, 걷잡을 수 없는 슬픔의 힘을 옮겨서 새 희망의 정수박이에 들어부었습니다.\n우리는 만날 때에 떠날 것을 염려하는 것과 같이, 떠날 때에 다시 만날 것을 믿습니다.\n아아 님은 갔지마는 나는 님을 보내지 아니하얏습니다.\n제 곡조를 못 이기는 사랑의 노래는 님의 침묵을 휩싸고 돕니다.",
-    "author": {
-      "name": "한용운",
-      "photo": "사진",
-      "bio": "한용운 문학의 특징은 불교사상과 독립사상이 탁월하게 예술적으로 결합된 데서 드러난다. 자유와 평등사상, 민족사상과 민중사상으로 요약되는 불교적 세계관과 독립사상은 한용운 문학의 뼈대이자 피와 살이라고 할 수 있기 때문이다. 말하자면 그의 문학은 불교사상과 독립사상, 문학사상이 삼위일체를 이룬다는 점이 특징이라는 뜻이다.",
-      "link": "author_detail.html?id=한용운"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EB%8B%98%EC%9D%98+%EC%B9%A8%EB%AC%B5&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "백담사 만해문학박물관",
-      "photo": "사진",
-      "link": "hanyongun.html"
-    },
-    "major": [
-      { "id": "11", "title": "채근담", "cover": "표지" },
-      { "id": "12", "title": "나룻배와 행인", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r10", "title": "깃발", "cover": "표지" },
-      { "id": "r11", "title": "모란이 피기까지는", "cover": "표지" },
-      { "id": "r12", "title": "빼앗긴 들에도 봄은 오는가", "cover": "표지" }
-    ]
+  "id": "5",
+  "title": "별똥(1935)",
+  "cover": "../images/works/02. 별똥 정지용.png",
+  "genre": "시",
+  "theme": "별똥을 쫓었더 어린 시절의 자기 자신과 그 꿈을 놓아버린 현재의 성인 사이에 거리감을 느끼며, 이루지 못한 소중한 다짐에 대한 그리움과 씁쓸함을 표현한다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "할아버지\n해바라기 씨\n별똥\n홍시\n... 외"
   },
+  "poem": "별똥 떠러진 곳\n마음해 두었다\n다음날 가보려\n벼르다 벼르다\n인젠 다 자랐오",
+  "author": {
+    "name": "정지용",
+    "photo": "../images/writers/정지용.png",
+    "bio": "정지용 시의 특징은 감각적이고 회화적인 심상, 절제된 감정과 순수한 우리말 사용, 그리고 모더니즘과 향토적 정서의 조화로 요약할 수 있다. 그는 시각, 청각, 후각, 촉각 등 다양한 감각을 활용하여 구체적이고 생생한 이미지를 만들어내고, 감정을 직접적으로 드러내기보다 절제하며 우리말의 아름다움을 탐구했다. 이러한 특징은 초기 모더니즘 성향부터 전통적인  산수시까지 그의 폭넓은 시 세계를 이루는 핵심이다.",
+    "link": "author_detail.html?id=정지용"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%A0%95%EC%A7%80%EC%9A%A9+%EB%B3%84%EB%98%A5+%EB%96%A8%EC%96%B4%EC%A7%84+%EA%B3%B3&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "정지용 문학관",
+    "photo": "../images/문학관/정지용.jpg",
+    "link": " jeongjiyong.html"
+  },
+  "major": [
+    { "id": "4", "title": "백록담", "cover": "../images/works/02. 백록담 정지용.png" },
+    { "id": "6", "title": "꾀꼬리와 국화", "cover": "../images/works/02. 꾀꼬리와 국화 정지용.png" }
+  ],
+  "related": [
+    { "id": "r4", "title": "봄 편지", "cover": "../images/연관/02. 봄 편지.png" },
+    { "id": "r5", "title": "고향의 봄", "cover": "../images/연관/02. 고향의 봄.png" },
+    { "id": "r6", "title": "감자꽃", "cover": "../images/연관/02. 감자꽃.png" }
+  ]
+}
+,
 
-  {
-    "id": "11",
-    "title": "채근담(1915)",
-    "cover": "표지",
-    "genre": "수필",
-    "theme": "권력과 물질에 대한 욕망의 헛됨을 꼬집으며 어떻게 살아가야 할 것인가에 대한 물음을 서문에 제기한다. 그리고 인생을 살아가는데 있어서 이를 슬기롭게 헤쳐 나갈 방향과 인간으로서 지켜야 할 법도, 삶의 목적을 제시해주고 있다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "중국 고전 『채근담』을 한용운이 당시 일제강점기 조선인들을 위해 우리말로 풀이하고 해설한 책이다. 제 1장은 수성修省편으로 자신의 몸과 마음을 수양하고 성찰할 것을 말하고, 제 2장은 응수應酬편으로 모든 사물과 접촉하고 관찰하며 이에 대응할 것을 말한다. 제 3장은 평의評議편으로 토론과 올바른 의결을 통해 행동과 마음의 잘못을 깨우치며 자신의 삶을 되돌아볼 것을 말한다. 제 4장은 한적閒適편으로 자연으로 돌아가 여유로운 삶은 어떠한 것인가를 말한다."
-    },
-    "author": {
-      "name": "한용",
-      "photo": "사진",
-      "bio": "한용운 문학의 특징은 불교사상과 독립사상이 탁월하게 예술적으로 결합된 데서 드러난다. 자유와 평등사상, 민족사상과 민중사상으로 요약되는 불교적 세계관과 독립사상은 한용운 문학의 뼈대이자 피와 살이라고 할 수 있기 때문이다. 말하자면 그의 문학은 불교사상과 독립사상, 문학사상이 삼위일체를 이룬다는 점이 특징이라는 뜻이다.",
-      "link": "author_detail.html?id=한용운"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EC%B1%84%EA%B7%BC%EB%8B%B4+%ED%95%9C%EC%9A%A9%EC%9A%B4&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "백담사 만해문학박물관",
-      "photo": "사진",
-      "link": "hanyongun.html"
-    },
-    "major": [
-      { "id": "10", "title": "님의 침묵", "cover": "표지" },
-      { "id": "12", "title": "나룻배와 행인", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r10", "title": "깃발", "cover": "표지" },
-      { "id": "r11", "title": "모란이 피기까지는", "cover": "표지" },
-      { "id": "r12", "title": "빼앗긴 들에도 봄은 오는가", "cover": "표지" }
-    ]
+ {
+  "id": "6",
+  "title": "꾀꼬리와 국화(1937)",
+  "cover": "../images/works/02. 꾀꼬리와 국화 정지용.png",
+  "genre": "수필",
+  "theme": "계절의 변화와 그에 따른 자연의 정경, 그리고 화자의 내면적 정서의 변화를 섬세하게 묘사한다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "화자는 먼저 꾀꼬리가 울던 봄과 여름의 생동감 넘치는 시절을 회상한다. 시간이 흘러 계절이 바뀌면서 꾀꼬리의 울음은 사라지고, 모든 것이 시들어가는 쓸쓸하고 이우러진 늦가을이 찾아온다. 화자는 활기찬 시절이 사라져 상실감을 느낀다. 하지만 이윽고 시선은 산국화로 향한다. 은은하고 고즈넉한 아름다움을 지닌 황국은 쓸쓸함을 달래주는 위안의 대상이 된다. 화자는 봄, 여름에 대한 그리움을 인정하면서도 가을의 쓸쓸함을 국화가 주는 차분한 아름다움으로 수용하고 달래겠다는 성숙하고 달관적인 태도를 보여주며 글을 마무리한다."
   },
-
-  {
-    "id": "12",
-    "title": "나룻배와 행인(1926)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "주제: 나룻배와 행인의 관계를 통해 님을 향한 희생적이고 헌신적인 사랑을 노래한다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "군말\n고적한 밤\n이별은 미의 창조\n알 수 없어요\n님의 침묵\n... 외"
-    },
-    "poem": "나는 나룻배\n당신은 행인.\n당신은 흙발로 나를 짓밟습니다.\n나는 당신을 안고 물을 건너갑니다.\n나는 당신을 안으면 깊으나 옅으나 급한 여울이나 건너갑니다.\n만일 당신이 아니 오시면 나는 바람을 쐬고 눈비를 맞으며 밤에서 낮까지 당신을 기다리고 있습니다.\n당신은 물만 건너면 나를 돌아보지도 않고 가십니다그려.\n그러나 당신이 언제든지 오실 줄만은 알아요.\n나는 당신을 기다리면서 날마다 날마다 낡아갑니다.\n나는 나룻배\n당신은 행인.",
-    "author": {
-      "name": "한용운",
-      "photo": "사진",
-      "bio": " 한용운 문학의 특징은 불교사상과 독립사상이 탁월하게 예술적으로 결합된 데서 드러난다. 자유와 평등사상, 민족사상과 민중사상으로 요약되는 불교적 세계관과 독립사상은 한용운 문학의 뼈대이자 피와 살이라고 할 수 있기 때문이다. 말하자면 그의 문학은 불교사상과 독립사상, 문학사상이 삼위일체를 이룬다는 점이 특징이라는 뜻이다.",
-      "link": "author_detail.html?id=한용운"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EB%82%98%EB%A3%BB%EB%B0%B0%EC%99%80+%ED%96%89%EC%9D%B8+%ED%95%9C%EC%9A%A9%EC%9A%B4&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "백담사 만해문학박물관",
-      "photo": "사진",
-      "link": "hanyongun.html"
-    },
-    "major": [
-      { "id": "10", "title": "님의 침묵", "cover": "표지" },
-      { "id": "11", "title": "채근담", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r10", "title": "깃발", "cover": "표지" },
-      { "id": "r11", "title": "모란이 피기까지는", "cover": "표지" },
-      { "id": "r12", "title": "빼앗긴 들에도 봄은 오는가", "cover": "표지" }
-    ]
+  "author": {
+    "name": "정지용",
+    "photo": "../images/writers/정지용.png",
+    "bio": "정지용 시의 특징은 감각적이고 회화적인 심상, 절제된 감정과 순수한 우리말 사용, 그리고 모더니즘과 향토적 정서의 조화로 요약할 수 있다. 그는 시각, 청각, 후각, 촉각 등 다양한 감각을 활용하여 구체적이고 생생한 이미지를 만들어내고, 감정을 직접적으로 드러내기보다 절제하며 우리말의 아름다움을 탐구했다. 이러한 특징은 초기 모더니즘 성향부터 전통적인  산수시까지 그의 폭넓은 시 세계를 이루는 핵심이다.",
+    "link": "author_detail.html?id=정지용"
   },
-
-    {
-    "id": "13",
-    "title": "역사는 흐른다(1992)",
-    "cover": " 표지",
-    "genre": "소설",
-    "theme": "우리 민족사에서 수난의 파장이 가장 컸던 조선 왕조의 석양 무렵부터 해방 어간에 이르기까지 조씨 일문의 3대에 걸친 영욕과 현대사의 우여곡절이 안팎을 이루어 때론 참과 거짓, 덕과 욕이 공존하며 살아갔던 민중들에 관한 연대기적 작품이다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "헤이그밀사사건이나 일제의 군대 해산문제, 반상의 갈등에서 기인한 전개 과정 등 뛰어난 감각을 녹여냈다. 전통의 관습을 그대로 지키고 있는 양반 의성 군수였던 조동준 집안과 그 집안의 딸 완구가 시집 간 시댁, 천주교의 신앙을 바탕으로 개화에 눈뜨고 강한 민족성을 지닌 집안, 척왜상소(斥倭上疏)를 하다 원통하게 죽은 참판 이현종 집안의 역사적 부침을 그린다. 두 집안의 대비뿐만 아니라 양반과 노비 간의 대비를 통해 어떻게 운명이 달라지는가를 보여주고 있다."
-    },
-    "author": {
-      "name": "한무숙",
-      "photo": "사진",
-      "bio": "인간 변모의 과정을 여실하게 작품으로 보여주는 당시 보기 드문 작가라고 평가받고 있다. 한무숙 소설가가 활동하던 동시대 여성작가들이 자기 소외를 사랑으로 극복하려는 점에 있어서는 언뜻 비슷한 방향성을 보이지만, 여성의 본능적 성적욕망을 다룬 작가는 거의 없었다. 시대적 배경으로 볼 때 여성이 성을 말한다는 것은 금기시 되는 일 중 하나였다. 한무숙 소설가의 문학적 특징은 당시 본능적 성적 욕망을 다루었다는 점이고, 이런 지점에 머무르지 않고 더 나아가 전통적 제도나 종교적인 왜곡된 편견에서 비롯하는 인간의 모든 욕망을 자기 응시를 통해 치밀하게 보여준 유일한 작가라고 볼 수 있다. 이는 현실인식이나 자기 성찰에 도달하는 존재의 극복을 지향하는 미학적 결과물로 이어진다.",
-      "link": "author_detail.html?id=한무숙"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%97%AD%EC%82%AC%EB%8A%94+%ED%9D%90%EB%A5%B8%EB%8B%A4+%ED%95%9C%EB%AC%B4%EC%88%99&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "한무숙 문학관",
-      "photo": "사진",
-      "link": "hanmoosook.html"
-    },
-    "major": [
-      { "id": "14", "title": "감정이 있는 심연", "cover": "표지" },
-      { "id": "15", "title": "생인손", "cover": "표지" },
-      {"id":"16","title" :"만남", "cover":"표지"}
-    ],
-    "related": [
-      { "id": "r13", "title": "환각의 나비", "cover": "표지" },
-      { "id": "r14", "title": "친밀한 이방인", "cover": "표지" },
-      { "id": "r15", "title": "아주 느린 시간", "cover": "표지" }
-    ]
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultEditonList.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%BE%80%EA%BC%AC%EB%A6%AC%EC%99%80+%EA%B5%AD%ED%99%94+%EC%A0%95%EC%A7%80%EC%9A%A9&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=27326829",
+  "museum": {
+    "name": "정지용 문학관",
+    "photo": "../images/문학관/정지용.jpg",
+    "link": " jeongjiyong.html"
   },
-
-  {
-    "id": "14",
-    "title": "감정이 있는 심연(1957)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": "인간 내면에 있는 콤플렉스 현상을 다룬 심리소설이다.",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "수난 이대\n감정이 있는 심연\n213호 주택\n신화의 단애\n대중관리\n... 외",
-      "summary":"감정이 있는 심연: 이 집안의 최대의 추문은 아리따운 용모를 지녔던 그녀의 작은고모가 행실이 부정해서 욕된 씨를 지으려다가 철창 신세까지 졌다는 사건이다. 과부가 되어 친정살이하는 큰고모는 자기 동생인 작은고모의 죄에 필요 이상으로 가혹하여 집안을 온통 죄의식에 잠기게 한다.\n죄의식에 민감한 기독교 집안에서 이러한 분위기는 마침내 죄의 결과를 보여주어야 한다는 이유로, 열한살 난 전아를 재판정에까지 끌고 가 결국 푸른 죄수복을 입은 작은고모의 모습을 보게 한다."
-    },
-    "author": {
-      "name": "한무숙",
-      "photo": "사진",
-      "bio": "인간 변모의 과정을 여실하게 작품으로 보여주는 당시 보기 드문 작가라고 평가받고 있다. 한무숙 소설가가 활동하던 동시대 여성작가들이 자기 소외를 사랑으로 극복하려는 점에 있어서는 언뜻 비슷한 방향성을 보이지만, 여성의 본능적 성적욕망을 다룬 작가는 거의 없었다. 시대적 배경으로 볼 때 여성이 성을 말한다는 것은 금기시 되는 일 중 하나였다. 한무숙 소설가의 문학적 특징은 당시 본능적 성적 욕망을 다루었다는 점이고, 이런 지점에 머무르지 않고 더 나아가 전통적 제도나 종교적인 왜곡된 편견에서 비롯하는 인간의 모든 욕망을 자기 응시를 통해 치밀하게 보여준 유일한 작가라고 볼 수 있다. 이는 현실인식이나 자기 성찰에 도달하는 존재의 극복을 지향하는 미학적 결과물로 이어진다.",
-      "link": "author_detail.html?id=한무숙"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B0%90%EC%A0%95%EC%9D%B4+%EC%9E%88%EB%8A%94+%EC%8B%AC%EC%97%B0+%ED%95%9C%EB%AC%B4%EC%88%99&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "한무숙 문학관",
-      "photo": "사진",
-      "link": "hanmoosook.html"
-    },
-    "major": [
-      { "id": "13", "title": "역사는 흐른다", "cover": "표지" },
-      { "id": "15", "title": "생인손", "cover": "표지" },
-      {"id":"16","title" :"만남", "cover":"표지"}
-    ],
-    "related": [
-      { "id": "r13", "title": "환각의 나비", "cover": "표지" },
-      { "id": "r14", "title": "친밀한 이방인", "cover": "표지" },
-      { "id": "r15", "title": "아주 느린 시간", "cover": "표지" }
-    ]
+  "major": [
+    { "id": "4", "title": "백록담", "cover": "../images/works/02. 백록담 정지용.png" },
+    { "id": "5", "title": "별똥", "cover": "../images/works/02. 별똥 정지용.png" }
+  ],
+  "related": [
+    { "id": "r4", "title": "봄 편지", "cover": "../images/연관/02. 봄 편지.png" },
+    { "id": "r5", "title": "고향의 봄", "cover": "../images/연관/02. 고향의 봄.png" },
+    { "id": "r6", "title": "감자꽃", "cover": "../images/연관/02. 감자꽃.png" }
+  ]
+}
+,
+{
+  "id": "7",
+  "title": "인간시장(1-10권, 1981)",
+  "cover": "../images/works/03. 인간시장 김홍신.png",
+  "genre": "소설",
+  "theme": "1980년대 우리나라 현실에 대한 조롱과 풍자 그리고 속시원한 해결법으로 독자의 가슴을 시원하게 뚫어주었던 김홍신의 연작소설이다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "『인간시장』은 1980년대 ‘인간 시장’이라 불리는 인신매매의 본거지와 창녀촌을 중심으로 당시 사회의 모순을 폭로하면서 시작된다. 이 작품은 주인공 장총찬이 정치권력, 검찰과 경찰, 재벌, 종교집단, 언론 등의 온갖 부패한 세력을 통쾌하게 응징하는 내용을 담고 있다. \n1권: 사설왕국\n2권: 불타는 욕망\n3권: 욕망의 그늘\n4권: 어두운 무대\n... 외"
   },
-
-  {
-    "id": "15",
-    "title": "생인손(1982)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": "기구한 운명의 주인공 ‘언년이’의 일생을 통해 백 년에 이르는 근대의 역사를 선명하게 다루었다.",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "메밀꽃 필 무렵\n필묵장수\n생인손\n눈길",
-      "summary":"생인손: 주인공 언년이를 신분이라는 운명이 둘러싸고 있고, 그것을 딸에게는 물려주지 않으려 했지만, 새로운 사회를 경험하면서 끝내 그녀의 운명이 딸에게도 이어지는 과정을 보여 주기에 이른다. 작품의 결말은 딸의 운명을 바꾸려 했지만 역설적으로 그 운명을 벗어나지 못하게 한 허무함과 한을 신부에게 고해하며 한숨짓는 것으로 마무리된다."
-    },
-    "author": {
-      "name": "한무숙",
-      "photo": "사진",
-      "bio": "인간 변모의 과정을 여실하게 작품으로 보여주는 당시 보기 드문 작가라고 평가받고 있다. 한무숙 소설가가 활동하던 동시대 여성작가들이 자기 소외를 사랑으로 극복하려는 점에 있어서는 언뜻 비슷한 방향성을 보이지만, 여성의 본능적 성적욕망을 다룬 작가는 거의 없었다. 시대적 배경으로 볼 때 여성이 성을 말한다는 것은 금기시 되는 일 중 하나였다. 한무숙 소설가의 문학적 특징은 당시 본능적 성적 욕망을 다루었다는 점이고, 이런 지점에 머무르지 않고 더 나아가 전통적 제도나 종교적인 왜곡된 편견에서 비롯하는 인간의 모든 욕망을 자기 응시를 통해 치밀하게 보여준 유일한 작가라고 볼 수 있다. 이는 현실인식이나 자기 성찰에 도달하는 존재의 극복을 지향하는 미학적 결과물로 이어진다.",
-      "link": "author_detail.html?id=한무숙"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EC%83%9D%EC%9D%B8%EC%86%90+%ED%95%9C%EB%AC%B4%EC%88%99&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "한무숙 문학관",
-      "photo": "사진",
-      "link": "hanmoosook.html"
-    },
-    "major": [
-      { "id": "13", "title": "역사는 흐른다", "cover": "표지" },
-      { "id": "14", "title": "감정이 있는 심연", "cover": "표지" },
-      {"id":"16","title" :"만남", "cover":"표지"}
-    ],
-    "related": [
-      { "id": "r13", "title": "환각의 나비", "cover": "표지" },
-      { "id": "r14", "title": "친밀한 이방인", "cover": "표지" },
-      { "id": "r15", "title": "아주 느린 시간", "cover": "표지" }
-    ]
+  "author": {
+    "name": "김홍신",
+    "photo": "../images/writers/김홍신.png",
+    "bio": "그의 작품 경향은 크게 네 가지로 분류할 수 있다. 첫째는 원체험 공간인 논산을 중심으로 충청권 일대를 배경으로 쓴 고향을 배경으로 한 리얼리즘 작품, 둘째는 서울 등 정치, 경제 중심의 도시 문명사회를 배경으로 이상적인 사회 건설을 위한 사회 현실을 비판한 작품, 셋째는 한 민족의 역사 공간과 유민 공간을 배경으로 쓴 역사와 민족을 반영한 작품, 넷째는 시·공간을 초월한 사랑과 같은 인간의 본질을 추구하는 작품 등이다. 작가는 인간 삶의 다양한 모티프를 통해 우주적 휴머니즘을 실현시키고 있다.",
+    "link": "author_detail.html?id=김홍신"
   },
-
-    {
-    "id": "16",
-    "title": "만남(1-2권, 1986)",
-    "cover": " 표지",
-    "genre": "소설",
-    "theme": "종교와 국가, 문명의 거대한 틀 속에서 비틀리는 개개인의 고뇌와 한계를 인간애로 승화시켜 받아들이는 따뜻한 시선이 담겨 있는 작품이다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "1986년 대한민국문학상 대상을 수상하고, 미국과 프랑스, 폴란드 등에 번역, 출간되며 주목을 받은 작품. 서학(천주교)이 조선에 처음 들어오던 조선 말기를 배경으로 벌어지는 갈등들을 정약용과 그의 조카 정하상을 중심으로 그려냈다. 유교와 천주교, 동양과 서양이 빚어내는 역사 속 갈등들로 인한 문화적 충돌과 혼란, 화해와 하나되는 과정을 보여준다."
-    },
-    "author": {
-      "name": "한무숙",
-      "photo": "사진",
-      "bio": "인간 변모의 과정을 여실하게 작품으로 보여주는 당시 보기 드문 작가라고 평가받고 있다. 한무숙 소설가가 활동하던 동시대 여성작가들이 자기 소외를 사랑으로 극복하려는 점에 있어서는 언뜻 비슷한 방향성을 보이지만, 여성의 본능적 성적욕망을 다룬 작가는 거의 없었다. 시대적 배경으로 볼 때 여성이 성을 말한다는 것은 금기시 되는 일 중 하나였다. 한무숙 소설가의 문학적 특징은 당시 본능적 성적 욕망을 다루었다는 점이고, 이런 지점에 머무르지 않고 더 나아가 전통적 제도나 종교적인 왜곡된 편견에서 비롯하는 인간의 모든 욕망을 자기 응시를 통해 치밀하게 보여준 유일한 작가라고 볼 수 있다. 이는 현실인식이나 자기 성찰에 도달하는 존재의 극복을 지향하는 미학적 결과물로 이어진다.",
-      "link": "author_detail.html?id=한무숙"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EB%A7%8C%EB%82%A8+%ED%95%9C%EB%AC%B4%EC%88%99&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "한무숙 문학관",
-      "photo": "사진",
-      "link": "hanmoosook.html"
-    },
-    "major": [
-      { "id": "13", "title": "역사는 흐른다", "cover": "표지" },
-      { "id": "14", "title": "감정이 있는 심연", "cover": "표지" },
-      {"id":"15","title" :"생인손", "cover":"표지"}
-    ],
-    "related": [
-      { "id": "r13", "title": "환각의 나비", "cover": "표지" },
-      { "id": "r14", "title": "친밀한 이방인", "cover": "표지" },
-      { "id": "r15", "title": "아주 느린 시간", "cover": "표지" }
-    ]
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%9D%B8%EA%B0%84%EC%8B%9C%EC%9E%A5&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "김홍신 문학관",
+    "photo": "../images/문학관/김홍신.jpg",
+    "link": "kimhongshin.html"
   },
-    {
-    "id": "17",
-    "title": "국토(1975)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "국토애(민족애)와 새 역사의 도래에 대한 소망을 담은 국토서시다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "국토\n서시\n모기를 생각하며\n꿈속에서 보는 눈물\n풀잎·돌멩이\n발바닥 밑에\n바람\n...외"
-    },
-    "poem": "발바닥이 다 닳아 새살이 돋도록 우리는\n우리의 땅을 밟을 수밖에 없는 일이다.\n\n숨결이 다 타올라 새 숨결이 열리도록 우리는\n우리의 하늘 밑을 서성일 수밖에 없는 일이다.\n\n야윈 팔다리일망정 한껏 휘저어\n슬픔도 기쁨도 한껏 가슴으로 맞대며 우리는\n우리의 가락 속을 거닐 수밖에 없는 일이다.\n\n버려진 땅에 돋아난 ㉠풀잎 하나에서부터\n조용히 발버둥치는 ㉡돌멩이 하나에까지\n이름도 없이 빈 벌판 빈 하늘에 뿌려진\n저 혼에까지 저 숨결에까지 닿도록\n\n우리는 우리의 삶을 불 지필 일이다.\n우리는 우리의 숨결을 보탤 일이다.\n\n일렁이는 피와 다 닳아진 살결과\n허연 뼈까지를 통째로 보탤 일이다.",
-    "author": {
-      "name": "조태일",
-      "photo": "사진",
-      "bio": "그의 초기 시는 원시적인 삶에 기반을 둔 상상력에 의하여 삶의 순수성을 보여주는 세계상을 그리는 데 집중되어 있다. 그는 삶에 대한 순결성이 철저하게 파괴된 현실 앞에서 진실을 은폐하려는 기도에 당당히 맞서는 태도를 견지하면서 시를 통해 민중적 연대감을 획득하고자 한다. 1970년대 참여시의 한 성과로 주목되었던 연작시 ｢식칼론｣은 삶의 순결성을 유린하는 제도적인 폭력에 맞서서 시인의 자세와 역사의식을 잘 드러내는 작품이다. 여기서 ‘식칼’은 단순한 싸움의 도구로서만이 아니라 끊임없이 자아를 일깨우며 자극하는 무서운 자기 확인의 도구가 된다. 그리고 모두가 서로를 위해 공유할 수 있는 삶의 공통 수단으로서 그 의미가 확대된다. 시집 『국토』(1975)는 분단 현실의 폭력성과 허구성을 고발하는 비판적인 목소리가 충만해 있는데, 이는 분단을 극복하고 남과 북을 아우르는 건강한 민중성에 기반을 둔 새로운 세계에 대한 열망을 보여주고 있다. 시집 『가거도』(1983)에서는 민중적 삶에 대한 새로운 깨달음을 보여주고, 삶의 내적 충일을 통한 역동성을 발견하고자 주력하고 있다.",
-      "link": "author_detail.html?id=조태일"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B5%AD%ED%86%A0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "조태일시문학기념관",
-      "photo": "사진",
-      "link": "jotaeil.html"
-    },
-    "major": [
-      { "id": "18", "title": "가거도", "cover": "표지" },
-      { "id": "19", "title": "푸른 하늘과 붉은 황토", "cover": "표지" },
-      { "id": "20", "title": "풀꽃은 꺾이지 않는다", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r16", "title": "태백산맥", "cover": "표지" },
-      { "id": "r17", "title": "전환시대의 논리", "cover": "표지" },
-      { "id": "r18", "title": "시장과 전장(", "cover": "표지" }
-    ]
-  },
-
-  {
-    "id": "18",
-    "title": "가거도(1983)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "외딴 섬 가거도를 상징적 공간으로 삼아, 소외된 민중의 삶과 투쟁을 그리면서 역사적으로 연대한 작품이다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "오동도\n우화\n어머니\n통곡\n내가 아는 시인 한 사람은\n...외"
-    },
-    "poem": "너무 멀고 험해서\n오히려 바다같지 않는\n거기\n있는지조차\n없는지조차 모르던 섬\n쓸 만한 인물들을 역정내며\n유배 보내기 즐겼던 그때 높으신 분들도\n이곳까지는\n차마 생각 못했던\n그러나 우리 한민족 무지렁이들은\n가고, 보이니까 가고, 보이니까 또 가서\n마침내 살 만한 곳이라고\n파도로 성 쌓아\n대대로 지켜오며\n후박나무 그늘 아래서\n하느님 부처님 공자님\n당할아버지까지 한 식구로 한데 어우러져\n보라는 듯이 살아오는 땅\n비바람 불면 자고\n비바람 자면 일어나\n파도 밀치며\n바다 밀치며\n한스런 노랫가락 부른다\n산아 산아 회룡산아\n눈이 오면 백두산아\n비가 오면 장내산아\n바람불면 회룡산아\n천산 하산 넘어가면\n부모형제 보련마는\n원수로다 원수로다\n산과 날과 원수로다\n낯선 사람 찾아오면 죄 많은 사람 찾아오면\n태풍 세실을 불러다가\n겁도 주고 달래보고 묶어보고 풀어주는\n바람 바람 바람섬\n파도 파도 파도섬\n길가는 나그네여!\n사월혁명의 선봉이 되어\n반민주 반독재와 불의에 항거하여\n싸우다가 십구일 밤 무참히 떨어진\n십구세의 대한의 꽃봉오리가 여기\n누워 있다고 전해다오\n자식 길러 가르치고\n배운 자식 뭍으로 보내\n나라 걱정, 나라 위해\n목숨도 걸 줄 아는\n멋있는 사람들이 사는\n살 만한 땅",
-    "author": {
-      "name": "조태일",
-      "photo": "사진",
-      "bio": "그의 초기 시는 원시적인 삶에 기반을 둔 상상력에 의하여 삶의 순수성을 보여주는 세계상을 그리는 데 집중되어 있다. 그는 삶에 대한 순결성이 철저하게 파괴된 현실 앞에서 진실을 은폐하려는 기도에 당당히 맞서는 태도를 견지하면서 시를 통해 민중적 연대감을 획득하고자 한다. 1970년대 참여시의 한 성과로 주목되었던 연작시 ｢식칼론｣은 삶의 순결성을 유린하는 제도적인 폭력에 맞서서 시인의 자세와 역사의식을 잘 드러내는 작품이다. 여기서 ‘식칼’은 단순한 싸움의 도구로서만이 아니라 끊임없이 자아를 일깨우며 자극하는 무서운 자기 확인의 도구가 된다. 그리고 모두가 서로를 위해 공유할 수 있는 삶의 공통 수단으로서 그 의미가 확대된다. 시집 『국토』(1975)는 분단 현실의 폭력성과 허구성을 고발하는 비판적인 목소리가 충만해 있는데, 이는 분단을 극복하고 남과 북을 아우르는 건강한 민중성에 기반을 둔 새로운 세계에 대한 열망을 보여주고 있다. 시집 『가거도』(1983)에서는 민중적 삶에 대한 새로운 깨달음을 보여주고, 삶의 내적 충일을 통한 역동성을 발견하고자 주력하고 있다.",
-      "link": "author_detail.html?id=조태일"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B0%80%EA%B1%B0%EB%8F%84&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "조태일시문학기념관",
-      "photo": "사진",
-      "link": "jotaeil.html"
-    },
-    "major": [
-      { "id": "17", "title": "국토", "cover": "표지" },
-      { "id": "19", "title": "푸른 하늘과 붉은 황토", "cover": "표지" },
-      { "id": "20", "title": "풀꽃은 꺾이지 않는다", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r16", "title": "태백산맥", "cover": "표지" },
-      { "id": "r17", "title": "전환시대의 논리", "cover": "표지" },
-      { "id": "r18", "title": "시장과 전장(", "cover": "표지" }
-    ]
-  },
-  {
-    "id": "19",
-    "title": "푸른 하늘과 붉은 황토(2013)",
-    "cover": "표지",
-    "genre": "시",
-    "theme":"'붉은 황토'로 상징되는 조국의 땅과 그 위에서 고통을 겪으면서도 끈질기게 삶을 이어가는 민중들의 강인한 생명력을 찬양한다. 그리고 '푸른 하늘'은 이러한 민족의 삶을 감싸 안는 영원한 이념이나 이상, 또는 희망을 상징하며, 현실의 아픔을 극복할 수 있게 하는 초월적인 가치를 암시한다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "1\n국토서시\n아침선박\n시를 생각하며\n2\n자유가 시인더러\n이쪽과 저쪽\n다시 오월에\n...외"
-    },
-    "poem": "아내와의 모든 접선도 끊어버리고\n말 배우는 어린 새끼들과의 대화도 끊어버리고\n나를 가르친 모든 책으로부터도\n중고가 돼버린 철없는 장남감으로부터도\n멍청한 가구들로부터도 떠나버리자\n아이고 무서워\n아이고 무서워\n그림자를 고요히 고요히만 밟혀주는\n달빛 별빛으로부터도\n무수히 발바닥을 포개보던\n광화문이며 종로며 태령로로부터도\n자유다 평등이다 인권이다 민주다 의무다 국민이다\n어쩌고 하는 한국적 표준말로부터도 떠나버리자\n아이고 무서워\n아이고 무서워\n망우리 근처 푸른 하늘 밑의 풀잎들은\n그렇게 푸르기만 하며\n푸른 하늘 밑의 황토들은\n그렇게 붉기만 하며\n푸른 하늘 밑의 무덤들은\n그렇게 고요히만 누웠냐\n아이고 무서워\n아이고 무서워\n바람 자고 소리 끊겨 고요하기는 해도\n끝간데없는 푸른 하늘은 저리 답답하단다\n푸른 풀들이 흔들리긴 해도\n하늘 밑에 깔린 황토들은 저리 답답하단다",
-    "author": {
-      "name": "조태일",
-      "photo": "사진",
-      "bio": "그의 초기 시는 원시적인 삶에 기반을 둔 상상력에 의하여 삶의 순수성을 보여주는 세계상을 그리는 데 집중되어 있다. 그는 삶에 대한 순결성이 철저하게 파괴된 현실 앞에서 진실을 은폐하려는 기도에 당당히 맞서는 태도를 견지하면서 시를 통해 민중적 연대감을 획득하고자 한다. 1970년대 참여시의 한 성과로 주목되었던 연작시 ｢식칼론｣은 삶의 순결성을 유린하는 제도적인 폭력에 맞서서 시인의 자세와 역사의식을 잘 드러내는 작품이다. 여기서 ‘식칼’은 단순한 싸움의 도구로서만이 아니라 끊임없이 자아를 일깨우며 자극하는 무서운 자기 확인의 도구가 된다. 그리고 모두가 서로를 위해 공유할 수 있는 삶의 공통 수단으로서 그 의미가 확대된다. 시집 『국토』(1975)는 분단 현실의 폭력성과 허구성을 고발하는 비판적인 목소리가 충만해 있는데, 이는 분단을 극복하고 남과 북을 아우르는 건강한 민중성에 기반을 둔 새로운 세계에 대한 열망을 보여주고 있다. 시집 『가거도』(1983)에서는 민중적 삶에 대한 새로운 깨달음을 보여주고, 삶의 내적 충일을 통한 역동성을 발견하고자 주력하고 있다.",
-      "link": "author_detail.html?id=조태일"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%ED%91%B8%EB%A5%B8+%ED%95%98%EB%8A%98%EA%B3%BC+%EB%B6%89%EC%9D%80+%ED%99%A9%ED%86%A0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "조태일시문학기념관",
-      "photo": "사진",
-      "link": "jotaeil.html"
-    },
-    "major": [
-      { "id": "17", "title": "국토", "cover": "표지" },
-      { "id": "18", "title": "가거도", "cover": "표지" },
-      { "id": "20", "title": "풀꽃은 꺾이지 않는다", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r16", "title": "태백산맥", "cover": "표지" },
-      { "id": "r17", "title": "전환시대의 논리", "cover": "표지" },
-      { "id": "r18", "title": "시장과 전장(", "cover": "표지" }
-    ]
-  },
-  {
-    "id": "20",
-    "title": "풀꽃은 꺾이지 않는다(1995)",
-    "cover": "표지",
-    "genre": "시",
-    "theme":" 여리고 연약해 보이지만 꺾이지 않는 풀꽃으로 민중의 생명력과 저항을 상징화한 작품이다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "풀씨\n겨울바다에서\n황홀\n홍시들\n봄이 오는 소리\n...외"
-    },
-    "poem": "사람들은 풀꽃을 꺾는다 하지만\n너무 여리어 결코 꺾이지 않는다\n\n피어날 때 아픈 흔들림으로\n피어 있을 때 다소곳한 몸짓으로\n다만 웃고 있을 뿐\n꺾으려는 손들을 마구 어루만진다\n\n땅속 깊이 여린 사랑을 내리며\n사람들의 메마른 가슴에\n노래되어 흔들릴 뿐\n\n꺾이는 것은\n탐욕스런 손들일 뿐",
-    "author": {
-      "name": "조태일",
-      "photo": "사진",
-      "bio": "그의 초기 시는 원시적인 삶에 기반을 둔 상상력에 의하여 삶의 순수성을 보여주는 세계상을 그리는 데 집중되어 있다. 그는 삶에 대한 순결성이 철저하게 파괴된 현실 앞에서 진실을 은폐하려는 기도에 당당히 맞서는 태도를 견지하면서 시를 통해 민중적 연대감을 획득하고자 한다. 1970년대 참여시의 한 성과로 주목되었던 연작시 ｢식칼론｣은 삶의 순결성을 유린하는 제도적인 폭력에 맞서서 시인의 자세와 역사의식을 잘 드러내는 작품이다. 여기서 ‘식칼’은 단순한 싸움의 도구로서만이 아니라 끊임없이 자아를 일깨우며 자극하는 무서운 자기 확인의 도구가 된다. 그리고 모두가 서로를 위해 공유할 수 있는 삶의 공통 수단으로서 그 의미가 확대된다. 시집 『국토』(1975)는 분단 현실의 폭력성과 허구성을 고발하는 비판적인 목소리가 충만해 있는데, 이는 분단을 극복하고 남과 북을 아우르는 건강한 민중성에 기반을 둔 새로운 세계에 대한 열망을 보여주고 있다. 시집 『가거도』(1983)에서는 민중적 삶에 대한 새로운 깨달음을 보여주고, 삶의 내적 충일을 통한 역동성을 발견하고자 주력하고 있다.",
-      "link": "author_detail.html?id=조태일"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%ED%92%80%EA%BD%83%EC%9D%80+%EA%BA%BE%EC%9D%B4%EC%A7%80+%EC%95%8A%EB%8A%94%EB%8B%A4&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "조태일시문학기념관",
-      "photo": "사진",
-      "link": "jotaeil.html"
-    },
-    "major": [
-      { "id": "17", "title": "국토", "cover": "표지" },
-      { "id": "18", "title": "가거도", "cover": "표지" },
-      { "id": "20", "title": "푸른 하늘과 붉은 황토", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r16", "title": "태백산맥", "cover": "표지" },
-      { "id": "r17", "title": "전환시대의 논리", "cover": "표지" },
-      { "id": "r18", "title": "시장과 전장(", "cover": "표지" }
-    ]
-  },
-    {
-    "id": "22",
-    "title": "내 노래하고 싶은 것은(2007)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "메시지",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "입춘(立春)\n자책저음(自責低吟)\n송뢰(松?)와 더불어\n잔설(殘雪)\n우수만 지나면\n... 외"
-    },
-    "poem": "피 묻은 발자욱이사\n새삼 돌아볼 겨를도 없다.\n아아라한 만첩청산을\n만첩청산을 굽이돌아\n철 철 철 흘러가는\n저 푸른 강물을 보리로다.\n\n가슴 깊이 간직해 둔\n눈물겨웠던 이별 또한\n구름과 더불어 왕래하는\n구김살 없는 저 학두루미의\n학두루미의 노래에 부쳐\n하늘 멀리 보내도 좋으리라.\n\n다만 오는 날을 위하여\n벅찬 설계를 가다듬어야 하거늘\n오염된 문명을 믿을 수는 없다.\n그 문명 속에 허덕일 수도 없다.\n소슬한 솔바람 소리로\n상처 입은 마음을 달래리라.\n\n별들의 참한 이야기\n잇따라 들려오고\n꽃그늘에 오고가는\n너그러운 햇살이 지키는 속에\n내 노래하고 싶은 것은\n우리 부신 꿈과 생시뿐이로다.",
-    "author": {
-      "name": "신석정",
-      "photo": "사진",
-      "bio": "석정 시는 궁극적으로 인간이 자연을 통해 보편적으로 소유하려는 미적 이상향을 추구하는 낙원지향樂園志向의 자아와 식민지 치하에서부터 끊임없이 정반합正反合의 반복적 파도 속에 다져온 시대양심의 구현체로서의 자아가 이루어낸 갈등과 통합의 문법이라 할 수 있다.이는 궁극적으로 한국 시의 자연서정과 현실 참여라는 이이원적 경험을 외롭게 한 몸으로 흡수 통합하려는 시도였으니 선생은 한국시사韓國詩史에 새로운 이정표를 제시한 시인으로 높이 평가받아 마땅하다.\n그의 시작활동은 1924년 4월 19일자 조선일보에 소적이라는 필명으로 〈기우는 해〉를 발표하면서 시작되었다. 그뒤 1931년 「시문학」지에 시 〈선물〉을 발표하여 그 잡지의 동인이 되면서부터 본격적인 작품활동을 전개하였다. 이후 1974년 7월 8일 동아일보에 유고시 「뜰을 그리며」를 남기기까지 장장 반세기의 시력을 지니고 있다. 우리 시문학사에서 이렇게 일생을 오로지 시 창작에만 몰두한 시인은 흔치 않다. 설령 오랜 문단 활동을 지속했다 해도 끝내는 이를 발판으로 권력이나 금력을 탐하는 경우가 없지 않았다. 그러나 선생은 일생을 교육계에 종사하면서 극심한 가난 속에서도 조금도 불의와 타협하지 않고 지조를 지키며 삶을 마감했다.",
-      "link": "author_detail.html?id=신석정"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EB%82%B4+%EB%85%B8%EB%9E%98%ED%95%98%EA%B3%A0+%EC%8B%B6%EC%9D%80+%EA%B2%83%EC%9D%80&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "석정문학관",
-      "photo": "사진",
-      "link": "신석정.html"
-    },
-    "major": [
-      { "id": "23", "title": "신석정의 시선", "cover": "표지" },
-      { "id": "24", "title": "그 먼 나라를 알으십니까", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r19", "title": "신석정 평전 그 먼나라를 알으십니까", "cover": "표지" },
-      { "id": "r20", "title": "신석정 연구 ", "cover": "표지" }
-    ]
-  },
-
-    {
-    "id": "23",
-    "title": "신석정의 시선(2013)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "순수하고 절대적인 존재에 대한 간절한 소망과, 그 부름에 응하여 자연과 하나 되는 삶을 살고자 하는 화자의 초월적 의지를 노래한 시이다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "≪촛불≫\n임께서 부르시면\n그 꿈을 깨우면 어떻게 할까요?\n나의 꿈을 엿보시겠읍니까\n아 그 꿈에서 살고 싶어라\n化石이 되고 싶어\n…외"
-    },
-    "poem": "가을날 노랗게 물들인 은행잎이\n바람에 흔들려 휘날리듯이\n그렇게 가오리다\n임께서 부르시면······\n\n호수에 안개 끼어 자욱한 밤에\n말없이 재 넘는 초승달처럼\n그렇게 가오리다\n임께서 부르시면······\n\n포근히 풀린, 봄 하늘 아래\n굽이굽이 하늘가에 흐르는 물처럼\n그렇게 가오리다\n임께서 부르시면······\n\n파아란 하늘에 백로가 노래하고\n이른봄 잔디밭에 스며드는 햇볕처럼\n그렇게 가오리다\n임께서 부르시면······",
-    "author": {
-      "name": "신석정",
-      "photo": "사진",
-      "bio": "석정 시는 궁극적으로 인간이 자연을 통해 보편적으로 소유하려는 미적 이상향을 추구하는 낙원지향樂園志向의 자아와 식민지 치하에서부터 끊임없이 정반합正反合의 반복적 파도 속에 다져온 시대양심의 구현체로서의 자아가 이루어낸 갈등과 통합의 문법이라 할 수 있다.이는 궁극적으로 한국 시의 자연서정과 현실 참여라는 이이원적 경험을 외롭게 한 몸으로 흡수 통합하려는 시도였으니 선생은 한국시사韓國詩史에 새로운 이정표를 제시한 시인으로 높이 평가받아 마땅하다.\n그의 시작활동은 1924년 4월 19일자 조선일보에 소적이라는 필명으로 〈기우는 해〉를 발표하면서 시작되었다. 그뒤 1931년 「시문학」지에 시 〈선물〉을 발표하여 그 잡지의 동인이 되면서부터 본격적인 작품활동을 전개하였다. 이후 1974년 7월 8일 동아일보에 유고시 「뜰을 그리며」를 남기기까지 장장 반세기의 시력을 지니고 있다. 우리 시문학사에서 이렇게 일생을 오로지 시 창작에만 몰두한 시인은 흔치 않다. 설령 오랜 문단 활동을 지속했다 해도 끝내는 이를 발판으로 권력이나 금력을 탐하는 경우가 없지 않았다. 그러나 선생은 일생을 교육계에 종사하면서 극심한 가난 속에서도 조금도 불의와 타협하지 않고 지조를 지키며 삶을 마감했다.",
-      "link": "author_detail.html?id=신석정"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%8B%A0%EC%84%9D%EC%A0%95%EC%9D%98+%EC%8B%9C%EC%84%A0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "석정문학관",
-      "photo": "사진",
-      "link": "신석정.html"
-    },
-    "major": [
-      { "id": "22", "title": "내 노래하고 싶은 것은", "cover": "표지" },
-      { "id": "24", "title": "그 먼 나라를 알으십니까", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r19", "title": "신석정 평전 그 먼나라를 알으십니까", "cover": "표지" },
-      { "id": "r20", "title": "신석정 연구 ", "cover": "표지" }
-    ]
-  },
-
-  {
-    "id": "24",
-    "title": "그 먼 나라를 알으십니까(1939)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "평화롭고 자연 그대로의 모습을 간직한 '먼 나라'를 그리며, 현실의 고단함 속에서 벗어나고 싶은 소망을 표현한다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "제1부 촛불\n임께서 부르시면\n그 꿈을 깨우면 어떻게 할까요?\n나의 꿈을 엿보시겠습니까\n촐촐한 밤\n화석(化石)이 되고 싶어\n그 먼 나라를 알으십니까\n...외"
-    },
-    "poem": "어머니,\n당신은 그 먼 나라를 알으십니까?\n\n깊은 삼림대(森林帶)를 끼고 돌면\n고요한 호수에 흰 물새 날고,\n좁은 들길에 야장미 열매 붉어,\n\n멀리 노루 새끼 마음 놓고 뛰어다니는\n아무도 살지 않는 그 먼 나라를 알으십니까?\n\n그 나라에 가실 때에는 부디 잊지 마셔요.\n나와 같이 그 나라에 가서 비둘기를 키웁시다.\n\n어머니,\n당신은 그 먼 나라를 알으십니까?\n\n산비탈 넌지시 타고 내려오면\n양지밭에 흰 염소 한가히 풀 뜯고,\n길 솟는 옥수수밭에 해는 저물어 저물어\n먼 바다 물소리 구슬피 들려오는\n아무도 살지 않는 그 먼 나라를 알으십니까?\n\n어머니, 부디 잊지 마세요.\n그때 우리는 어린 양을 몰고 돌아옵시다.\n\n어머니,\n당신은 그 먼 나라를 알으십니까?\n\n오월 하늘에 비둘기 멀리 날고,\n오늘처럼 촐촐히 비가 내리면\n꿩 소리도 유난히 한가롭게 들리리다.\n서리 까마귀 높이 날아 산국화 더욱 곱고\n노오란 은행잎이 한들한들 푸른 하늘에 날리는\n가을이면 어머니! 그 나라에서\n\n양지밭 과수원에 꿀벌이 잉잉거릴 때\n나와 함께 그 새빨간 능금을 또옥똑 따지 않으시렵니까?",
-    "author": {
-      "name": "신석정",
-      "photo": "사진",
-      "bio": "석정 시는 궁극적으로 인간이 자연을 통해 보편적으로 소유하려는 미적 이상향을 추구하는 낙원지향樂園志向의 자아와 식민지 치하에서부터 끊임없이 정반합正反合의 반복적 파도 속에 다져온 시대양심의 구현체로서의 자아가 이루어낸 갈등과 통합의 문법이라 할 수 있다.이는 궁극적으로 한국 시의 자연서정과 현실 참여라는 이이원적 경험을 외롭게 한 몸으로 흡수 통합하려는 시도였으니 선생은 한국시사韓國詩史에 새로운 이정표를 제시한 시인으로 높이 평가받아 마땅하다.\n그의 시작활동은 1924년 4월 19일자 조선일보에 소적이라는 필명으로 〈기우는 해〉를 발표하면서 시작되었다. 그뒤 1931년 「시문학」지에 시 〈선물〉을 발표하여 그 잡지의 동인이 되면서부터 본격적인 작품활동을 전개하였다. 이후 1974년 7월 8일 동아일보에 유고시 「뜰을 그리며」를 남기기까지 장장 반세기의 시력을 지니고 있다. 우리 시문학사에서 이렇게 일생을 오로지 시 창작에만 몰두한 시인은 흔치 않다. 설령 오랜 문단 활동을 지속했다 해도 끝내는 이를 발판으로 권력이나 금력을 탐하는 경우가 없지 않았다. 그러나 선생은 일생을 교육계에 종사하면서 극심한 가난 속에서도 조금도 불의와 타협하지 않고 지조를 지키며 삶을 마감했다.",
-      "link": "author_detail.html?id=신석정"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B7%B8+%EB%A8%BC+%EB%82%98%EB%9D%BC%EB%A5%BC+%EC%95%8C%EC%9C%BC%EC%8B%AD%EB%8B%88%EA%B9%8C&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "석정문학관",
-      "photo": "사진",
-      "link": "신석정.html"
-    },
-    "major": [
-      { "id": "22", "title": "내 노래하고 싶은 것은", "cover": "표지" },
-      { "id": "23", "title": "신석정의 시선", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r19", "title": "신석정 평전 그 먼나라를 알으십니까", "cover": "표지" },
-      { "id": "r20", "title": "신석정 연구 ", "cover": "표지" }
-    ]
-  },
-
-  {
-    "id": "25",
-    "title": "박두진 시 전집 1(2017)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "해방 직후의 구성원들이 열망하는 공동체의 이상향을 상징적으로 제시하고 있다. 이는 현재의 어둠을 극복해야 가능하며, 그 공동체 속에서 모든 생명체들이 조화롭고 평화롭게 살아가게 될 것이라는 기대가 병렬적인 문장들로 힘 있게 표현되고 있다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "해\n墓地頌(묘지송)\n훨훨훨 나래 떨며\n들려 오는 노래 있어\n해의 품으로\n... 외"
-    },
-    "poem": "해야 솟아라, 해야 솟아라, 말갛게 씻은 얼굴 고운 해야 솟아라.\n산 너머 산 너머서 어둠을 살라 먹고, 산 너머서 밤새도록 어둠을 살라 먹고, 이글이글 애띤 얼굴 고운 해야 솟아라.\n\n달밤이 싫여, 달밤이 싫여, 눈물 같은 골짜기에 달밤이 싫여, 아무도 없는 뜰에 달밤이 나는 싫여······.\n\n해야, 고운 해야, 늬가 오면, 늬가사 오면, 나는 나는 청산이 좋아라.\n훨훨훨 깃을 치는 청산이 좋아라.\n청산이 있으면 홀로래도 좋아라.\n\n사슴을 따라 사슴을 따라, 양지로 양지로 사슴을 따라, 사슴을 만나면 사슴과 놀고,\n\n칡범을 따라 칡범을 따라, 칡범을 만나면 칡범과 놀고······.\n\n해야, 고운 해야, 해야 솟아라.\n꿈이 아니래도 너를 만나면, 꽃도 새도 짐승도 한 자리에 앉아, 워어이 워어이 모두 불러 한 자리 앉아, 애띠고 고운 날을 누려 보리라",
-    "author": {
-      "name": "박두진",
-      "photo": "사진",
-      "bio": "1946년 6월, 박두진은 『문장』을 통해 등단한 문우 조지훈 · 박목월과 함께 시집 『청록집』을 발간한다. 박두진은 『청록집』 발간을 계기로 조지훈, 박목월과 함께 ‘청록파’로 불리게 된다. 1946년 『상아탑』에 발표했던 「해」를 표제작으로 삼아 1949년 5월 첫 개인시집 『해』를 발간한다. 일제강점기 후반의 암울한 민족적 현실을 빛의 속성을 지닌 ‘해’를 통해 극복하려는 시적 의지가 보이는 이 시집은 현재까지도 박두진의 대표작으로 꼽힌다.\n전쟁 이후 박두진의 강직한 성정(性情)은 올곧은 지성으로 이어졌다. 이 시기 박두진의 시에서는 왜곡된 현실에 대한 강한 부정과 저항정신, 민족애와 인류애에 헌신하려는 휴머니즘적 정신이 강렬하게 나타난다. 『거미와 성좌』(1961), 『인간밀림』(1963), 『하얀 날개』(1967) 등의 시집은 박두진 시의 중요한 속성 가운데 하나가 준열한 역사의식에 있음을 알려준다.\n1970년대에 접어들면서 수석과 종교를 통해 새로운 시적 시도를 모색한다. 그의 시세계는 『수석열전』(1973)과 『속 · 수석열전』(1976)에 이르러 자연 · 인간 · 신을 노래하리라 다짐하던 자신의 시적 목표를 성취한다. 박두진의 시는 예술화된 자연으로서의 ‘수석’을 중심으로 자연스럽게 신앙 세계의 묘사로 이어진다. 박두진은 『사도행전』(1973), 『고산식물』(1973) 등의 시집을 펴내며 종교적 색채를 드러낸다.",
-      "link": "author_detail.html?id=박두진"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EB%B0%95%EB%91%90%EC%A7%84+%EC%8B%9C+%EC%A0%84%EC%A7%91&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "박두진 문학관",
-      "photo": "사진",
-      "link": "parkdujin.html"
-    },
-    "major": [
-      { "id": "26", "title": "한 권으로 읽는 청록파", "cover": "표지" },
-      { "id": "27", "title": "박두진 시선", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r21", "title": "모란이 피기까지는", "cover": "표지" },
-      { "id": "r22", "title": "박두진의 상상력 연구", "cover": "표지" },
-      { "id": "r23", "title": "박목월, 박두진 시에 나타난 효사상", "cover": "표지" }
-    ]
-  },
+  "major": [
+    { "id": "8", "title": "칼날 위의 전쟁", "cover": "../images/works/03. 칼날 위의 전쟁 김홍신.png" },
+    { "id": "9", "title": "김홍신의 대발해", "cover": "../images/works/03. 김홍신의 대발해 김홍신.png" }
+  ],
+  "related": [
+    { "id": "r7", "title": "원미동 사람", "cover": "../images/연관/03. 원미동 사람.png" },
+    { "id": "r8", "title": "난장이가 쏘아올린 작은 공", "cover": "../images/연관/03. 난장이가 쏘아올린 작은 공.png" },
+    { "id": "r9", "title": "아홉 켤레의 구두로 남은 사내", "cover": "../images/연관/03. 아홉 켤레의 구두로 남은 사내.png" }
+  ]
+}
+,
 
    {
-    "id": "26",
-    "title": "한 권으로 읽는 청록파(2023)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "해방된 조국에서 같은 문학적 경향을 보여주는 세 사람의 시인이 풀어낸 39편의 시를 통해 우리의 말과 문화, 그리고 자연의 아름다움을 한껏 보여주고 있다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "박두진\n\n향현(香峴)\n묘지송(墓地頌)\n도봉(道峯)\n별\n…\n외"
-    },
-    "poem": "아랫도리 다박솔 깔린 산(山) 너머, 큰 산 그 너멋 산 안 보이어, 내 마음 둥둥 구름을 타다.\n\n우뚝 솟은 산, 묵중히 엎드린 산, 골골이 장송(長松) 들어섰고, 머루 다래 넝쿨 바위 엉서리에 얽혔고, 샅샅이 떡갈나무 억새풀 우거진 데, 너구리, 여우, 사슴, 산토끼, 오소리, 도마뱀, 능구리 등 실로 무수한 짐승을 지니인.\n\n산, 산, 산들! 누거 만 년(累巨萬年) 너희들 침묵이 흠뻑 지리함 직하매.\n\n산이여! 장차 너희 솟아난 봉우리에 엎드린 마루에, 확확 치밀어 오를 화염(火焰)을 내 기다려도 좋으랴?\n\n핏내를 잊은 여우 이리 등속이 사슴 토끼와 더불어 싸릿순, 칡순을 찾아 함께 즐거이 뛰는 날을 믿고 길이 기다려도 좋으랴?",
-    "author": {
-      "name": "박두진",
-      "photo": "사진",
-      "bio": "1946년 6월, 박두진은 『문장』을 통해 등단한 문우 조지훈 · 박목월과 함께 시집 『청록집』을 발간한다. 박두진은 『청록집』 발간을 계기로 조지훈, 박목월과 함께 ‘청록파’로 불리게 된다. 1946년 『상아탑』에 발표했던 「해」를 표제작으로 삼아 1949년 5월 첫 개인시집 『해』를 발간한다. 일제강점기 후반의 암울한 민족적 현실을 빛의 속성을 지닌 ‘해’를 통해 극복하려는 시적 의지가 보이는 이 시집은 현재까지도 박두진의 대표작으로 꼽힌다.\n전쟁 이후 박두진의 강직한 성정(性情)은 올곧은 지성으로 이어졌다. 이 시기 박두진의 시에서는 왜곡된 현실에 대한 강한 부정과 저항정신, 민족애와 인류애에 헌신하려는 휴머니즘적 정신이 강렬하게 나타난다. 『거미와 성좌』(1961), 『인간밀림』(1963), 『하얀 날개』(1967) 등의 시집은 박두진 시의 중요한 속성 가운데 하나가 준열한 역사의식에 있음을 알려준다.\n1970년대에 접어들면서 수석과 종교를 통해 새로운 시적 시도를 모색한다. 그의 시세계는 『수석열전』(1973)과 『속 · 수석열전』(1976)에 이르러 자연 · 인간 · 신을 노래하리라 다짐하던 자신의 시적 목표를 성취한다. 박두진의 시는 예술화된 자연으로서의 ‘수석’을 중심으로 자연스럽게 신앙 세계의 묘사로 이어진다. 박두진은 『사도행전』(1973), 『고산식물』(1973) 등의 시집을 펴내며 종교적 색채를 드러낸다.",
-      "link": "author_detail.html?id=박두진"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%ED%95%9C%EA%B6%8C%EC%9C%BC%EB%A1%9C+%EC%9D%BD%EB%8A%94+%EC%B2%AD%EB%A1%9D%ED%8C%8C&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "박두진 문학관",
-      "photo": "사진",
-      "link": "parkdujin.html"
-    },
-    "major": [
-      { "id": "25", "title": "박두진 시 전집 1", "cover": "표지" },
-      { "id": "27", "title": "박두진 시선", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r21", "title": "모란이 피기까지는", "cover": "표지" },
-      { "id": "r22", "title": "박두진의 상상력 연구", "cover": "표지" },
-      { "id": "r23", "title": "박목월, 박두진 시에 나타난 효사상", "cover": "표지" }
-    ]
+  "id": "8",
+  "title": "칼날 위의 전쟁(1-2권, 1996)",
+  "cover": "../images/works/03. 칼날 위의 전쟁 김홍신.png",
+  "genre": "소설",
+  "theme": "「현대 과학의 쌀」이라는 반도체 개발을 둘러싸고 벌어지는 한국과 일본의 갈등, 한국 기업간의 경쟁을 다룬 작품. ",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "공 정권과 S 그룹 회장은 반도체를 개발하기로 합의하고 엄청난 투자를 한다. 미국 등 해외에 있던 세계적 석학들이 속속 국내로 들어오고 연구소가 설립되며 국가의 모든 역량이 총동원된다. 그러나 한국의 반도체 개발을 저지하려는 일본의 방해가 시작되면서 과학자들이 납치, 살해되고 한국의 정보기관들과 일본의 우익ㆍ야쿠자의 대결이 벌어지는데…."
   },
+  "author": {
+    "name": "김홍신",
+    "photo": "../images/writers/김홍신.png",
+    "bio": "그의 작품 경향은 크게 네 가지로 분류할 수 있다. 첫째는 원체험 공간인 논산을 중심으로 충청권 일대를 배경으로 쓴 고향을 배경으로 한 리얼리즘 작품, 둘째는 서울 등 정치, 경제 중심의 도시 문명사회를 배경으로 이상적인 사회 건설을 위한 사회 현실을 비판한 작품, 셋째는 한 민족의 역사 공간과 유민 공간을 배경으로 쓴 역사와 민족을 반영한 작품, 넷째는 시·공간을 초월한 사랑과 같은 인간의 본질을 추구하는 작품 등이다. 작가는 인간 삶의 다양한 모티프를 통해 우주적 휴머니즘을 실현시키고 있다.",
+    "link": "author_detail.html?id=김홍신"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%B9%BC%EB%82%A0+%EC%9C%84%EC%9D%98+%EC%A0%84%EC%9F%81&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "김홍신 문학관",
+    "photo": "../images/문학관/김홍신.jpg",
+    "link": "kimhongshin.html"
+  },
+  "major": [
+    { "id": "7", "title": "인간시장", "cover": "../images/works/03. 인간시장 김홍신.png" },
+    { "id": "9", "title": "김홍신의 대발해", "cover": "../images/works/03. 김홍신의 대발해 김홍신.png" }
+  ],
+  "related": [
+    { "id": "r7", "title": "원미동 사람", "cover": "../images/연관/03. 원미동 사람.png" },
+    { "id": "r8", "title": "난장이가 쏘아올린 작은 공", "cover": "../images/연관/03. 난장이가 쏘아올린 작은 공.png" },
+    { "id": "r9", "title": "아홉 켤레의 구두로 남은 사내", "cover": "../images/연관/03. 아홉 켤레의 구두로 남은 사내.png" }
+  ]
+}
+,
+   {
+  "id": "9",
+  "title": "김홍신의 대발해(1-10권, 2007)",
+  "cover": "../images/works/03. 김홍신의 대발해 김홍신.png",
+  "genre": "소설",
+  "theme": "발해의 흥망성쇠를 다룬 거대 서사로, 잃어버린 고대 황제국 발해의 역사와 웅혼한 기백을 되살려낸 대하역사소설이다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "고구려 말 당나라와의 전투를 치르며 발해 개국의 씨앗을 싹 틔우는 데서 시작하여 발해 건국, 영토 정벌, 권력 찬탈, 지도층의 타락, 사랑과 배신, 외세의 침입까지 고구려보다 두 배 이상 넓은 대륙을 지배하며 동북아의 중심 국가로 우뚝 솟아올랐으나 끝내 거란국에 멸망하는 발해의 흥망성쇠에 대한 거대 서사를 담고 있다.\n1권: 혈로를 뚫고\n2권: 다시 뜨는 고구려 혼불\n3권: 개국황제 대조영\n4권: 황자의 역심\n... 외"
+  },
+  "author": {
+    "name": "김홍신",
+    "photo": "../images/writers/김홍신.png",
+    "bio": "그의 작품 경향은 크게 네 가지로 분류할 수 있다. 첫째는 원체험 공간인 논산을 중심으로 충청권 일대를 배경으로 쓴 고향을 배경으로 한 리얼리즘 작품, 둘째는 서울 등 정치, 경제 중심의 도시 문명사회를 배경으로 이상적인 사회 건설을 위한 사회 현실을 비판한 작품, 셋째는 한 민족의 역사 공간과 유민 공간을 배경으로 쓴 역사와 민족을 반영한 작품, 넷째는 시·공간을 초월한 사랑과 같은 인간의 본질을 추구하는 작품 등이다. 작가는 인간 삶의 다양한 모티프를 통해 우주적 휴머니즘을 실현시키고 있다.",
+    "link": "author_detail.html?id=김홍신"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EA%B9%80%ED%99%8D%EC%8B%A0%EC%9D%98+%EB%8C%80%EB%B0%9C%ED%95%B4+%EA%B9%80%ED%99%8D%EC%8B%A0&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "김홍신 문학관",
+    "photo": "../images/문학관/김홍신.jpg",
+    "link": "kimhongshin.html"
+  },
+  "major": [
+    { "id": "7", "title": "인간시장", "cover": "../images/works/03. 인간시장 김홍신.png" },
+    { "id": "8", "title": "칼날 위의 전쟁", "cover": "../images/works/03. 칼날 위의 전쟁 김홍신.png" }
+  ],
+  "related": [
+    { "id": "r7", "title": "원미동 사람", "cover": "../images/연관/03. 원미동 사람.png" },
+    { "id": "r8", "title": "난장이가 쏘아올린 작은 공", "cover": "../images/연관/03. 난장이가 쏘아올린 작은 공.png" },
+    { "id": "r9", "title": "아홉 켤레의 구두로 남은 사내", "cover": "../images/연관/03. 아홉 켤레의 구두로 남은 사내.png" }
+  ]
+}
+,
 
-     {
-    "id": "27",
-    "title": "박두진 시선",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "『박두진 시선』은 초판본을 수정 없이 그대로 타이핑해서 수록하고, 초판본을 구하지 못한 작품은 원전에 가장 근접한 것을 사용하였다. 저본에 실린 표기를 그대로 살렸고, 오기가 분명한 경우만 바로잡았다. 단, 띄어쓰기는 읽기 편하게 현대의 표기법에 맞춰 고쳤다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "해\n墓地頌\n해의 품으로\n香靑山道\n雪岳賦\n별\n...외"
-    },
-    "poem": "아아 아득히 내 첩첩한 산길 왔더니라. 인기척 끊이고 새도 짐승도 있지 않은 한낮 그 화안한 골길을 다만 아득히 나는 머언 생각에 잠기여 왔더이라\n\n백화 앙상한 사이를 바람에 백엽 같이 불리우며 물소리에 흰 돌되어 씻기우며 나는 총총히 외롬도 잊고 왔더니라\n\n살다가 오래여 삭은 장목들 흰 팔 벌이고 서 있고 풍운에 깍이어 날선 봉우리 훌훌훌 창천에 흰구름 날리며 섰더니라\n\n쏴아 - 한종일내 - 쉬지 않고 부는 물소리 안은 바람소리 ... 구월 고운 낙엽은 날리여 푸른 담위에 흐르르르 낙화 같이 지더니라.\n\n어젯밤 잠자던 동해안 어촌 그 검푸른 밤하늘에 나는 장엄히 뿌리어진 허다한 바다의별드르이 보았느니.\n\n이제 나의 이 오늘밤 산장에도 얼어 붙는 바람 속 우러르는 나의 하늘에 별들은 쓸리며 다시 꽃과 같이 난만 하여라.",
-    "author": {
-      "name": "박두진",
-      "photo": "사진",
-      "bio": "1946년 6월, 박두진은 『문장』을 통해 등단한 문우 조지훈 · 박목월과 함께 시집 『청록집』을 발간한다. 박두진은 『청록집』 발간을 계기로 조지훈, 박목월과 함께 ‘청록파’로 불리게 된다. 1946년 『상아탑』에 발표했던 「해」를 표제작으로 삼아 1949년 5월 첫 개인시집 『해』를 발간한다. 일제강점기 후반의 암울한 민족적 현실을 빛의 속성을 지닌 ‘해’를 통해 극복하려는 시적 의지가 보이는 이 시집은 현재까지도 박두진의 대표작으로 꼽힌다.\n전쟁 이후 박두진의 강직한 성정(性情)은 올곧은 지성으로 이어졌다. 이 시기 박두진의 시에서는 왜곡된 현실에 대한 강한 부정과 저항정신, 민족애와 인류애에 헌신하려는 휴머니즘적 정신이 강렬하게 나타난다. 『거미와 성좌』(1961), 『인간밀림』(1963), 『하얀 날개』(1967) 등의 시집은 박두진 시의 중요한 속성 가운데 하나가 준열한 역사의식에 있음을 알려준다.\n1970년대에 접어들면서 수석과 종교를 통해 새로운 시적 시도를 모색한다. 그의 시세계는 『수석열전』(1973)과 『속 · 수석열전』(1976)에 이르러 자연 · 인간 · 신을 노래하리라 다짐하던 자신의 시적 목표를 성취한다. 박두진의 시는 예술화된 자연으로서의 ‘수석’을 중심으로 자연스럽게 신앙 세계의 묘사로 이어진다. 박두진은 『사도행전』(1973), 『고산식물』(1973) 등의 시집을 펴내며 종교적 색채를 드러낸다.",
-      "link": "author_detail.html?id=박두진"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EB%B0%95%EB%91%90%EC%A7%84+%EC%8B%9C%EC%84%A0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
-    "museum": {
-      "name": "박두진 문학관",
-      "photo": "사진",
-      "link": "parkdujin.html"
-    },
-    "major": [
-      { "id": "25", "title": "박두진 시 전집 1", "cover": "표지" },
-      { "id": "27", "title": "한 권으로 읽는 청록파", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r21", "title": "모란이 피기까지는", "cover": "표지" },
-      { "id": "r22", "title": "박두진의 상상력 연구", "cover": "표지" },
-      { "id": "r23", "title": "박목월, 박두진 시에 나타난 효사상", "cover": "표지" }
-    ]
+ {
+  "id": "10",
+  "title": "님의 침묵(1926)",
+  "cover": "../images/works/04. 님의 침묵 한용운.png",
+  "genre": "시",
+  "theme": "임에 대한 영원한 사랑과 이별 후의 슬픔, 재회에 대한 희망, 잃어버린 조국에 대한 그리움과 희망 등 해석에 따라 다양하게 읽힌다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "님의 침묵\n이별은 미의 창조\n알 수 없어요\n나는 잊고자\n..."
   },
-
-    {
-    "id": "28",
-    "title": "동백꽃(1936)",
-    "cover": "표지",
-    "genre": "소설",
-    "theme": "향토색 짙은 농촌의 배경 속에서 인생의 봄을 맞이하여 성장하여가는 충동적인 사춘기 소년과 소녀의 애정을 해학적으로 그린 작품이다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "작품의 주인공이면서 서술자인 ‘나’는 순박하다 못하여 어수룩한 소년이다. 이에 비하여 점순은 활달하고 말괄량이 같은 소녀로서, 소년의 아버지가 소작을 든 마름의 딸이다.\n소년에게 관심을 둔 점순은 구운 감자를 주면서 접근하지만, 뜻을 알아차리지 못한 소년은 그것을 거절한다. 무안당한 점순은 드디어 자기 집 수탉과 소년의 집 수탉을 싸움 붙이면서 여러 차례 약을 올린다. 점순네 닭이 힘이 세어 소년의 집 닭이 늘 지게 되자, 화가 난 소년은 닭에게 고추장까지 먹이지만 별 효과가 없다. 어느 날 점순은 호드기를 불며 닭싸움을 붙이고 소년이 산에서 내려오기를 기다린다. 화가 난 소년이 작대기로 점순네 닭을 때려 죽였으나, 마름집 위세를 생각하고 당황하여 울게 된다. 이 때 점순은 소년에게 자기 말을 들으면 일러바치지 않겠다고 약속하고, 둘은 부둥켜안은 채 한창 흐드러지게 핀 동백꽃 속으로 폭 파묻혀버린다"
-    },
-    "author": {
-      "name": "김유정",
-      "photo": "사진",
-      "bio": "그의 작품의 성향은 크게 세가지로 나눌 수 있다. 먼저, 그는 실감나는 농촌소설을 썼다. 당시의 농민의 고단한 삶이 작품 속에 그대로 배어있다. 둘째, 김유정의 작품은 우리 전통 마당극이나 탈춤, 판소리 등에서 만나는 어조와 해학적인 웃음처럼 우스운 말이나 행동을 통하여 대상의 결함과 비리를 드러낸다. 그러나 풍자극이 대상과 대립하여 비꼬는 방법을 쓰는 반면에, 김유정의 해학은 이런 맥을 같이 하면서도 대상을 한층 넓고 깊게 통찰하면서 동정적으로 감싸 주는 방법을 사용한다. 감칠맛 나는 속어, 비어와 눙치는 어법으로 당시 농촌의 만무방과 도시 따라지들의 슬픈 이야기를 천연덕스럽게 판소리처럼 들려준다. 셋째, 유난히 김유정의 작품에는 아리랑이 많이 등장한다. 그래서 그는 아리랑의 작가라고도 할 수 있다.",
-      "link": "author_detail.html?id=김유정"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keywordType5=isbn&keywordType6=UB&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP&titleType=equal&title=동백꽃&author=김유정&ufKey=",
-    "museum": {
-      "name": "김유정문학촌",
-      "photo": "사진",
-      "link": "kimyoujeung.html"
-    },
-    "major": [
-      { "id": "29", "title": "산골나그네", "cover": "표지" },
-      { "id": "30", "title": "소낙비", "cover": "표지" },
-      { "id": "31", "title": "봄봄", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r24", "title": "김유정", "cover": "표지" },
-      { "id": "r25", "title": "몽실언니", "cover": "표지" },
-      { "id": "r26", "title": "태평천하", "cover": "표지" }
-    ]
+  "poem": "님은 갔습니다. 아아 사랑하는 나의 님은 갔습니다.\n푸른 산빛을 깨치고 단풍나무 숲을 향하야 난 적은 길을 걸어서 참어 떨치고 갔습니다.\n황금의 꽃같이 굳고 빛나든 옛 맹서는 차디찬 띠끌이 되야서, 한숨의 미풍에 날어갔습니다.\n날카로운 첫 '키쓰'의 추억은 나의, 운명의 지침을 돌려 놓고, 뒷걸음쳐서, 사러졌습니다.\n나는 향기로운 님의 말소리에 귀먹고, 꽃다운 님의 얼골에 눈멀었습니다.\n사랑도 사람의 일이라, 만날 때에 미리 떠날 것을 염려하고 경계하지 아니한 것은 아니지만, 이별은 뜻밖의 일이 되고 놀란 가슴은 새로운 슬픔에 터집니다.\n그러나 이별을 쓸데없는 눈물의 원천을 만들고 마는 것은 스스로 사랑을 깨치는 것인 줄 아는 까닭에, 걷잡을 수 없는 슬픔의 힘을 옮겨서 새 희망의 정수박이에 들어부었습니다.\n우리는 만날 때에 떠날 것을 염려하는 것과 같이, 떠날 때에 다시 만날 것을 믿습니다.\n아아 님은 갔지마는 나는 님을 보내지 아니하얏습니다.\n제 곡조를 못 이기는 사랑의 노래는 님의 침묵을 휩싸고 돕니다.",
+  "author": {
+    "name": "한용운",
+    "photo": "../images/writers/한용운.png",
+    "bio": "한용운 문학의 특징은 불교사상과 독립사상이 탁월하게 예술적으로 결합된 데서 드러난다. 자유와 평등사상, 민족사상과 민중사상으로 요약되는 불교적 세계관과 독립사상은 한용운 문학의 뼈대이자 피와 살이라고 할 수 있기 때문이다. 말하자면 그의 문학은 불교사상과 독립사상, 문학사상이 삼위일체를 이룬다는 점이 특징이라는 뜻이다.",
+    "link": "author_detail.html?id=한용운"
   },
-
-  {
-    "id": "29",
-    "title": "산골나그네(1933)",
-    "cover": "표지",
-    "genre": "소설",
-    "theme": "향토색 짙은 농촌의 배경 속에서 인생의 봄을 맞이하여 성장하여가는 충동적인 사춘기 소년과 소녀의 애정을 해학적으로 그린 작품이다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "어느 늦은 가을밤 산골의 허름한 주막에 한 나그네가 찾아온다. 초라한 모습의 여인은 주막 여주인에게 하룻밤만 묵게 해 달라고 부탁한다. 묵묵한 나그네는 남편 없고 몸 붙일 곳 없다는 것만을 간단히 이야기한다. 며칠째 술손님도 없이 외로운 여주인은 다음날 떠나겠다는 나그네를 붙든다. 집 지켜주는 셈치고 함께 있자는 온정이었다. 그런데 그날 밤 술꾼들이 주막에 몰려든다. 동네에 여주인이 ‘젊은 갈보’를 사 왔다고 소문이 난 것이다. 여주인은 나그네에게 오늘 하루만 술을 팔아달라고 부탁하고, 나그네는 순순히 승낙한다. 덕분에 모처럼 여주인은 큰돈을 만진다. 함께 생활하며 지켜 본 나그네는 나이에 어울리지 않게 외양은 시들어 가지만, 부지런하고 사랑스러운 데가 있다. 여주인은 나그네를 딸처럼 여기며, 며느리로도 욕심낸다. 옷가지도 빌려주고 밤에도 품에 안아 재우며 정이 든다. 아들 덕돌이도 여주인이 집을 비운 사이 나그네에게 추근거리고, 결국 나그네는 덕돌이와 혼인한다. 여주인은 은비녀와 은가락지를 며느리가 된 나그네에게 선물한다. 그러나 혼인한 다음날 밤 나그네는 덕돌이가 잠든 틈을 타 그가 아끼는 옷을 훔쳐 도망간다. 은비녀를 그대로 두고 간 며느리가 도둑일 리 없다며 여주인은 필시 무슨 병폐가 생겼으리라 생각한다. 같은 시간, 마을을 빠져나온 나그네는 물방앗간에 숨어 있던 병든 남자를 찾아가, 그에게 덕돌의 옷을 입히고 부축해 길을 떠난다. 멀리 뒤에서 나그네를 찾는 덕돌의 목소리와 늑대 소리가 어수선하게 들려온다."
-    },
-    "author": {
-      "name": "김유정",
-      "photo": "사진",
-      "bio": "그의 작품의 성향은 크게 세가지로 나눌 수 있다. 먼저, 그는 실감나는 농촌소설을 썼다. 당시의 농민의 고단한 삶이 작품 속에 그대로 배어있다. 둘째, 김유정의 작품은 우리 전통 마당극이나 탈춤, 판소리 등에서 만나는 어조와 해학적인 웃음처럼 우스운 말이나 행동을 통하여 대상의 결함과 비리를 드러낸다. 그러나 풍자극이 대상과 대립하여 비꼬는 방법을 쓰는 반면에, 김유정의 해학은 이런 맥을 같이 하면서도 대상을 한층 넓고 깊게 통찰하면서 동정적으로 감싸 주는 방법을 사용한다. 감칠맛 나는 속어, 비어와 눙치는 어법으로 당시 농촌의 만무방과 도시 따라지들의 슬픈 이야기를 천연덕스럽게 판소리처럼 들려준다. 셋째, 유난히 김유정의 작품에는 아리랑이 많이 등장한다. 그래서 그는 아리랑의 작가라고도 할 수 있다.",
-      "link": "author_detail.html?id=김유정"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keywordType5=isbn&keywordType6=UB&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP&titleType=equal&title=산골나그네&author=김유정&ufKey=",
-    "museum": {
-      "name": "김유정문학촌",
-      "photo": "사진",
-      "link": "kimyoujeung.html"
-    },
-    "major": [
-      { "id": "28", "title": "동백꽃", "cover": "표지" },
-      { "id": "30", "title": "소낙비", "cover": "표지" },
-      { "id": "31", "title": "봄봄", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r24", "title": "김유정", "cover": "표지" },
-      { "id": "r25", "title": "몽실언니", "cover": "표지" },
-      { "id": "r26", "title": "태평천하", "cover": "표지" }
-    ]
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EB%8B%98%EC%9D%98+%EC%B9%A8%EB%AC%B5&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "백담사 만해문학박물관",
+    "photo": "../images/문학관/백담사 만해문학박물관.jpg",
+    "link": "hanyongun.html"
   },
-
-    {
-    "id": "30",
-    "title": "소낙비(1935)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": "삶의 안착을 찾지 못한 식민지시대의 유랑농민의 삶을 해학적으로 다룬 작품이다.",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "이 책을 읽는 분에게\n소낙비\n산골\n금(金) 따는 콩밭\n봄봄\n땡볕\n산골 나그네\n동백꽃\n안해\n슬픈 이야기\n봄과 따라지\n정조(貞操)\n가을\n따라지\n노다지\n솥\n연보\n저자약력",
-      "summary":"소낙비: 흉작과 빚쟁이의 위협 때문에 야간도주를 한 춘호는 아무리 떠돌아다녀도 살길을 찾을 수 없게 되자, 노름판에 뛰어들 생각을 한다. 그러나 밑천 2원이 없어 울화가 치민 춘호는 아내를 때리며 돈을 구해오라고 한다. 매를 맞고 뛰쳐나온 춘호의 처는 돈을 구할 방도를 생각하다가 마침 마을 부자인 이주사의 눈에 들어 팔자를 고친 쇠돌 어멈네 집으로 향한다. 가다가 소낙비를 만나 밤나무 밑에서 피하던 중 문득 아무도 없는 쇠돌 어멈집에 이주사가 들어가는 것을 보고, 따라 들어가 몸을 맡기고는 다음날 2원을 받기로 한다. 다음날, 춘호는 2원을 얻어서 빚도 갚고 서울로 가서 아내와 함께 안락한 생활을 할 수 있으리라는 희망에 아내를 곱게 치장시켜 이주사에게로 보낸다."
-    },
-    "author": {
-      "name": "김유정",
-      "photo": "사진",
-      "bio": "그의 작품의 성향은 크게 세가지로 나눌 수 있다. 먼저, 그는 실감나는 농촌소설을 썼다. 당시의 농민의 고단한 삶이 작품 속에 그대로 배어있다. 둘째, 김유정의 작품은 우리 전통 마당극이나 탈춤, 판소리 등에서 만나는 어조와 해학적인 웃음처럼 우스운 말이나 행동을 통하여 대상의 결함과 비리를 드러낸다. 그러나 풍자극이 대상과 대립하여 비꼬는 방법을 쓰는 반면에, 김유정의 해학은 이런 맥을 같이 하면서도 대상을 한층 넓고 깊게 통찰하면서 동정적으로 감싸 주는 방법을 사용한다. 감칠맛 나는 속어, 비어와 눙치는 어법으로 당시 농촌의 만무방과 도시 따라지들의 슬픈 이야기를 천연덕스럽게 판소리처럼 들려준다. 셋째, 유난히 김유정의 작품에는 아리랑이 많이 등장한다. 그래서 그는 아리랑의 작가라고도 할 수 있다.",
-      "link": "author_detail.html?id=김유정"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keywordType5=isbn&keywordType6=UB&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP&titleType=equal&title=소낙비&author=김유정&ufKey=",
-    "museum": {
-      "name": "김유정문학촌",
-      "photo": "사진",
-      "link": "kimyoujeung.html"
-    },
-    "major": [
-      { "id": "28", "title": "동백꽃", "cover": "표지" },
-      { "id": "29", "title": "산골나그네", "cover": "표지" },
-      { "id": "31", "title": "봄봄", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r24", "title": "김유정", "cover": "표지" },
-      { "id": "r25", "title": "몽실언니", "cover": "표지" },
-      { "id": "r26", "title": "태평천하", "cover": "표지" }
-    ]
-  },
+  "major": [
+    { "id": "11", "title": "채근담", "cover": "../images/works/04. 채근담 한용운.png" },
+    { "id": "12", "title": "나룻배와 행인", "cover": "../images/works/04. 나룻배와 행인 한용운.png" }
+  ],
+  "related": [
+    { "id": "r10", "title": "깃발", "cover": "../images/연관/04. 깃발.png" },
+    { "id": "r11", "title": "모란이 피기까지는", "cover": "../images/연관/04. 모란이 피기까지는.png" },
+    { "id": "r12", "title": "빼앗긴 들에도 봄은 오는가", "cover": "../images/연관/04. 빼앗긴 들에도 봄은 오는가.png" }
+  ]
+}
+,
 
   {
-    "id": "31",
-    "title": "봄봄(1935)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": " 우직하고 바보스러운 인물과 순진한 사람의 노동력을 교묘히 착취하는 인물로, 등장인물을 향한 독자들의 기대감과 실제 등장인물을 조종하면서 소설가가 만들어내는 행위간의 마찰과 간극에서 벌어지는 희화화된 인간관계를 다룬 작품이다.",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "봄봄\n동백꽃\n땡볕\n만무방\n따라지\n금 따는 콩밭",
-      "summary":"봄봄: 작품의 서술자이면서 주인공인 ‘나’는 3년을 훨씬 넘도록 봉필이라는 마름의 딸 점순이와 혼인하기 위하여 돈 한 푼 안 받고 데릴사위로서 약정된 머슴노릇을 한다. ‘나’는 어서 빨리 점순이와 혼인을 하고 싶으나, 그럼으로써 노동력이 손실될까 우려하는 봉필의 욕심 때문에 그 소망은 번번이 좌절된다. 봉필의 상투적인 이유는 점순이가 채 자라지 않았기 때문이라는 것이다. 순진하고 우직한 ‘나’는 내심으로 얼른 점순이의 키가 커주기를 빌기도 하고, 태업을 부리기도 한다. 그러나 봉필의 교묘한 농간에 의하여 언제나 일방적으로 패배한다. 그러던 어느 날, 친구의 부추김과 점순이의 묘한 반응에 자극을 받은 ‘나’는 관격(關格: 체하여 먹지도 못하고 대소변도 못 보는 위급한 병)을 빙자한 결정적인 태업으로 시위를 벌인다. 역시 결과는 봉필의 공갈과 매질로 이어지지만 ‘나’는 이번에는 지지 않고 결사적으로 장인의 급소를 붙잡고 늘어진다. 그런데 이 때, 성례 요구를 종용했고 내 편을 들어주리라 믿었던 점순이가 장인 편에 서서 자신을 비난하는 바람에 ‘나’는 맥이 모두 빠져버린다."
-    },
-    "author": {
-      "name": "김유정",
-      "photo": "사진",
-      "bio": "그의 작품의 성향은 크게 세가지로 나눌 수 있다. 먼저, 그는 실감나는 농촌소설을 썼다. 당시의 농민의 고단한 삶이 작품 속에 그대로 배어있다. 둘째, 김유정의 작품은 우리 전통 마당극이나 탈춤, 판소리 등에서 만나는 어조와 해학적인 웃음처럼 우스운 말이나 행동을 통하여 대상의 결함과 비리를 드러낸다. 그러나 풍자극이 대상과 대립하여 비꼬는 방법을 쓰는 반면에, 김유정의 해학은 이런 맥을 같이 하면서도 대상을 한층 넓고 깊게 통찰하면서 동정적으로 감싸 주는 방법을 사용한다. 감칠맛 나는 속어, 비어와 눙치는 어법으로 당시 농촌의 만무방과 도시 따라지들의 슬픈 이야기를 천연덕스럽게 판소리처럼 들려준다. 셋째, 유난히 김유정의 작품에는 아리랑이 많이 등장한다. 그래서 그는 아리랑의 작가라고도 할 수 있다.",
-      "link": "author_detail.html?id=김유정"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keywordType5=isbn&keywordType6=UB&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP&titleType=equal&title=봄봄&author=김유정&ufKey=",
-    "museum": {
-      "name": "김유정문학촌",
-      "photo": "사진",
-      "link": "kimyoujeung.html"
-    },
-    "major": [
-      { "id": "28", "title": "동백꽃", "cover": "표지" },
-      { "id": "29", "title": "산골나그네", "cover": "표지" },
-      { "id": "30", "title": "소낙비", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r24", "title": "김유정", "cover": "표지" },
-      { "id": "r25", "title": "몽실언니", "cover": "표지" },
-      { "id": "r26", "title": "태평천하", "cover": "표지" }
-    ]
+  "id": "11",
+  "title": "채근담(1915)",
+  "cover": "../images/works/04. 채근담 한용운.png",
+  "genre": "수필",
+  "theme": "권력과 물질에 대한 욕망의 헛됨을 꼬집으며 어떻게 살아가야 할 것인가에 대한 물음을 서문에 제기한다. 그리고 인생을 살아가는데 있어서 이를 슬기롭게 헤쳐 나갈 방향과 인간으로서 지켜야 할 법도, 삶의 목적을 제시해주고 있다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "중국 고전 『채근담』을 한용운이 당시 일제강점기 조선인들을 위해 우리말로 풀이하고 해설한 책이다. 제 1장은 수성修省편으로 자신의 몸과 마음을 수양하고 성찰할 것을 말하고, 제 2장은 응수應酬편으로 모든 사물과 접촉하고 관찰하며 이에 대응할 것을 말한다. 제 3장은 평의評議편으로 토론과 올바른 의결을 통해 행동과 마음의 잘못을 깨우치며 자신의 삶을 되돌아볼 것을 말한다. 제 4장은 한적閒適편으로 자연으로 돌아가 여유로운 삶은 어떠한 것인가를 말한다."
   },
+  "author": {
+    "name": "한용운",
+    "photo": "../images/writers/한용운.png",
+    "bio": "한용운 문학의 특징은 불교사상과 독립사상이 탁월하게 예술적으로 결합된 데서 드러난다. 자유와 평등사상, 민족사상과 민중사상으로 요약되는 불교적 세계관과 독립사상은 한용운 문학의 뼈대이자 피와 살이라고 할 수 있기 때문이다. 말하자면 그의 문학은 불교사상과 독립사상, 문학사상이 삼위일체를 이룬다는 점이 특징이라는 뜻이다.",
+    "link": "author_detail.html?id=한용운"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EC%B1%84%EA%B7%BC%EB%8B%B4+%ED%95%9C%EC%9A%A9%EC%9A%B4&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "백담사 만해문학박물관",
+    "photo": "../images/문학관/백담사 만해문학박물관.jpg",
+    "link": "hanyongun.html"
+  },
+  "major": [
+    { "id": "10", "title": "님의 침묵", "cover": "../images/works/04. 님의 침묵 한용운.png" },
+    { "id": "12", "title": "나룻배와 행인", "cover": "../images/works/04. 나룻배와 행인 한용운.png" }
+  ],
+  "related": [
+    { "id": "r10", "title": "깃발", "cover": "../images/연관/04. 깃발.png" },
+    { "id": "r11", "title": "모란이 피기까지는", "cover": "../images/연관/04. 모란이 피기까지는.png" },
+    { "id": "r12", "title": "빼앗긴 들에도 봄은 오는가", "cover": "../images/연관/04. 빼앗긴 들에도 봄은 오는가.png" }
+  ]
+}
+,
 
   {
-    "id": "32",
-    "title": "무녀도(1936)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": "전통 토속 신앙과 서양 기독교 신앙의 대립 속에서 변해가는 시대에 소멸해가는 것을 지키려는 인간의 비극적인 운명이다. 또한 무속 신앙과 기독교 신앙의 갈등으로 인한 혈육 간의 비극적인 파국을 다루고 있다.",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "발간사\n무녀도\n황토기\n역마\n... 외",
-      "summary":"무녀도: 전체의 구성은 김동리 소설에서 흔히 보이는 액자구조로서, 이야기 속에 또 하나의 이야기가 담겨져, 이중(二重)의 허구화현상(虛構化現象), 즉 내부 이야기에 대한 호기심 유발과 그것의 인증기능(認證機能)을 하고 있다. 한편, 내부 이야기도 모화와 욱이의 극적인 갈등이 중심을 이루면서 발단-전개-절정-대단원의 견고한 짜임을 보여준다."
-    },
-    "author": {
-      "name": "김동리",
-      "photo": "사진",
-      "bio": "작가 김동리의 작품 성향은 민족적이고 토착적인 소재를 바탕으로 인간 본질을 깊이 탐구하는 순수문학을 지향한다. 주요 특징으로는 무속, 기독교, 불교 등 전통적이고 종교적인 요소를 다루며, 설화적, 역사적, 현실적 세계를 넘나들고, 인간의 생명과 원형질적 정수를 탐구하는 작품 세계를 보인다. 소설작품에서는 우파의 정치적 관점을 적극적으로 투영시키는 작품을 발표하는 경향을 보이기도 했다.",
-      "link": "author_detail.html?id=김동리"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=%EB%AC%B8%ED%95%99%5E%EB%AC%B8%ED%95%99&facetLang=&keywordType1=total&keyword1=%EB%AC%B4%EB%85%80%EB%8F%84&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22910537&bibPageSize=10&bibPageNum=2&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=41632",
-    "museum": {
-      "name": "동리목월 문학관",
-      "photo": "사진",
-      "link": "동리목월.html"
-    },
-    "major": [
-      { "id": "33", "title": "황토기", "cover": "표지" },
-      { "id": "34", "title": "등신불", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r27", "title": "갯마을", "cover": "표지" },
-      { "id": "r28", "title": "동백꽃", "cover": "표지" }
-    ]
+  "id": "12",
+  "title": "나룻배와 행인(1926)",
+  "cover": "../images/works/04. 나룻배와 행인 한용운.png",
+  "genre": "시",
+  "theme": "주제: 나룻배와 행인의 관계를 통해 님을 향한 희생적이고 헌신적인 사랑을 노래한다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "군말\n고적한 밤\n이별은 미의 창조\n알 수 없어요\n님의 침묵\n... 외"
   },
+  "poem": "나는 나룻배\n당신은 행인.\n당신은 흙발로 나를 짓밟습니다.\n나는 당신을 안고 물을 건너갑니다.\n나는 당신을 안으면 깊으나 옅으나 급한 여울이나 건너갑니다.\n만일 당신이 아니 오시면 나는 바람을 쐬고 눈비를 맞으며 밤에서 낮까지 당신을 기다리고 있습니다.\n당신은 물만 건너면 나를 돌아보지도 않고 가십니다그려.\n그러나 당신이 언제든지 오실 줄만은 알아요.\n나는 당신을 기다리면서 날마다 날마다 낡아갑니다.\n나는 나룻배\n당신은 행인.",
+  "author": {
+    "name": "한용운",
+    "photo": "../images/writers/한용운.png",
+    "bio": " 한용운 문학의 특징은 불교사상과 독립사상이 탁월하게 예술적으로 결합된 데서 드러난다. 자유와 평등사상, 민족사상과 민중사상으로 요약되는 불교적 세계관과 독립사상은 한용운 문학의 뼈대이자 피와 살이라고 할 수 있기 때문이다. 말하자면 그의 문학은 불교사상과 독립사상, 문학사상이 삼위일체를 이룬다는 점이 특징이라는 뜻이다.",
+    "link": "author_detail.html?id=한용운"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EB%82%98%EB%A3%BB%EB%B0%B0%EC%99%80+%ED%96%89%EC%9D%B8+%ED%95%9C%EC%9A%A9%EC%9A%B4&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "백담사 만해문학박물관",
+    "photo": "../images/문학관/한용운.jpg",
+    "link": "hanyongun.html"
+  },
+  "major": [
+    { "id": "10", "title": "님의 침묵", "cover": "../images/works/04. 님의 침묵 한용운.png" },
+    { "id": "11", "title": "채근담", "cover": "../images/works/04. 채근담 한용운.png" }
+  ],
+  "related": [
+    { "id": "r10", "title": "깃발", "cover": "../images/연관/04. 깃발.png" },
+    { "id": "r11", "title": "모란이 피기까지는", "cover": "../images/연관/04. 모란이 피기까지는.png" },
+    { "id": "r12", "title": "빼앗긴 들에도 봄은 오는가", "cover": "../images/연관/04. 빼앗긴 들에도 봄은 오는가.png" }
+  ]
+}
+,
+
+{
+  "id": "13",
+  "title": "역사는 흐른다(1992)",
+  "cover": "../images/works/05. 역사는 흐른다 한무숙.png",
+  "genre": "소설",
+  "theme": "우리 민족사에서 수난의 파장이 가장 컸던 조선 왕조의 석양 무렵부터 해방 어간에 이르기까지 조씨 일문의 3대에 걸친 영욕과 현대사의 우여곡절이 안팎을 이루어 때론 참과 거짓, 덕과 욕이 공존하며 살아갔던 민중들에 관한 연대기적 작품이다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "헤이그밀사사건이나 일제의 군대 해산문제, 반상의 갈등에서 기인한 전개 과정 등 뛰어난 감각을 녹여냈다. 전통의 관습을 그대로 지키고 있는 양반 의성 군수였던 조동준 집안과 그 집안의 딸 완구가 시집 간 시댁, 천주교의 신앙을 바탕으로 개화에 눈뜨고 강한 민족성을 지닌 집안, 척왜상소(斥倭上疏)를 하다 원통하게 죽은 참판 이현종 집안의 역사적 부침을 그린다. 두 집안의 대비뿐만 아니라 양반과 노비 간의 대비를 통해 어떻게 운명이 달라지는가를 보여주고 있다."
+  },
+  "author": {
+    "name": "한무숙",
+    "photo": "../images/writers/한무숙.png",
+    "bio": "인간 변모의 과정을 여실하게 작품으로 보여주는 당시 보기 드문 작가라고 평가받고 있다. 한무숙 소설가가 활동하던 동시대 여성작가들이 자기 소외를 사랑으로 극복하려는 점에 있어서는 언뜻 비슷한 방향성을 보이지만, 여성의 본능적 성적욕망을 다룬 작가는 거의 없었다. 시대적 배경으로 볼 때 여성이 성을 말한다는 것은 금기시 되는 일 중 하나였다. 한무숙 소설가의 문학적 특징은 당시 본능적 성적 욕망을 다루었다는 점이고, 이런 지점에 머무르지 않고 더 나아가 전통적 제도나 종교적인 왜곡된 편견에서 비롯하는 인간의 모든 욕망을 자기 응시를 통해 치밀하게 보여준 유일한 작가라고 볼 수 있다. 이는 현실인식이나 자기 성찰에 도달하는 존재의 극복을 지향하는 미학적 결과물로 이어진다.",
+    "link": "author_detail.html?id=한무숙"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%97%AD%EC%82%AC%EB%8A%94+%ED%9D%90%EB%A5%B8%EB%8B%A4+%ED%95%9C%EB%AC%B4%EC%88%99&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "한무숙 문학관",
+    "photo": "../images/문학관/한무숙 문학관.jpg",
+    "link": "hanmoosook.html"
+  },
+  "major": [
+    { "id": "14", "title": "감정이 있는 심연", "cover": "../images/works/05. 감정이 있는 심연 한무숙.png" },
+    { "id": "15", "title": "생인손", "cover": "../images/works/05. 생인손 한무숙.png" },
+    { "id": "16", "title": "만남", "cover": "../images/works/05. 만남 한무숙.png" }
+  ],
+  "related": [
+    { "id": "r13", "title": "환각의 나비", "cover": "../images/연관/05. 환각의 나비.png" },
+    { "id": "r14", "title": "친밀한 이방인", "cover": "../images/연관/05. 친밀한 이방인.png" },
+    { "id": "r15", "title": "아주 느린 시간", "cover": "../images/연관/05. 아주 느린 시간.png" }
+  ]
+}
+,
+
+ {
+  "id": "14",
+  "title": "감정이 있는 심연(1957)",
+  "cover": "../images/works/05. 감정이 있는 심연 한무숙.png",
+  "genre": "단편소설",
+  "theme": "인간 내면에 있는 콤플렉스 현상을 다룬 심리소설이다.",
+  "table_summary": {
+    "labels": { "table": "목차", "summary": "줄거리" },
+    "table": "수난 이대\n감정이 있는 심연\n213호 주택\n신화의 단애\n대중관리\n... 외",
+    "summary": "감정이 있는 심연: 이 집안의 최대의 추문은 아리따운 용모를 지녔던 그녀의 작은고모가 행실이 부정해서 욕된 씨를 지으려다가 철창 신세까지 졌다는 사건이다. 과부가 되어 친정살이하는 큰고모는 자기 동생인 작은고모의 죄에 필요 이상으로 가혹하여 집안을 온통 죄의식에 잠기게 한다.\n죄의식에 민감한 기독교 집안에서 이러한 분위기는 마침내 죄의 결과를 보여주어야 한다는 이유로, 열한살 난 전아를 재판정에까지 끌고 가 결국 푸른 죄수복을 입은 작은고모의 모습을 보게 한다."
+  },
+  "author": {
+    "name": "한무숙",
+    "photo": "../images/writers/한무숙.png",
+    "bio": "인간 변모의 과정을 여실하게 작품으로 보여주는 당시 보기 드문 작가라고 평가받고 있다. 한무숙 소설가가 활동하던 동시대 여성작가들이 자기 소외를 사랑으로 극복하려는 점에 있어서는 언뜻 비슷한 방향성을 보이지만, 여성의 본능적 성적욕망을 다룬 작가는 거의 없었다. 시대적 배경으로 볼 때 여성이 성을 말한다는 것은 금기시 되는 일 중 하나였다. 한무숙 소설가의 문학적 특징은 당시 본능적 성적 욕망을 다루었다는 점이고, 이런 지점에 머무르지 않고 더 나아가 전통적 제도나 종교적인 왜곡된 편견에서 비롯하는 인간의 모든 욕망을 자기 응시를 통해 치밀하게 보여준 유일한 작가라고 볼 수 있다. 이는 현실인식이나 자기 성찰에 도달하는 존재의 극복을 지향하는 미학적 결과물로 이어진다.",
+    "link": "author_detail.html?id=한무숙"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B0%90%EC%A0%95%EC%9D%B4+%EC%9E%88%EB%8A%94+%EC%8B%AC%EC%97%B0+%ED%95%9C%EB%AC%B4%EC%88%99&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "한무숙 문학관",
+    "photo": "../images/문학관/한무숙.jpg",
+    "link": "hanmoosook.html"
+  },
+  "major": [
+    { "id": "13", "title": "역사는 흐른다", "cover": "../images/works/05. 역사는 흐른다 한무숙.png" },
+    { "id": "15", "title": "생인손", "cover": "../images/works/05. 생인손 한무숙.png" },
+    { "id": "16", "title": "만남", "cover": "../images/works/05. 만남 한무숙.png" }
+  ],
+  "related": [
+    { "id": "r13", "title": "환각의 나비", "cover": "../images/연관/05. 환각의 나비.png" },
+    { "id": "r14", "title": "친밀한 이방인", "cover": "../images/연관/05. 친밀한 이방인.png" },
+    { "id": "r15", "title": "아주 느린 시간", "cover": "../images/연관/05. 아주 느린 시간.png" }
+  ]
+}
+,
+
+ {
+  "id": "15",
+  "title": "생인손(1982)",
+  "cover": "../images/works/05. 생인손 한무숙.png",
+  "genre": "단편소설",
+  "theme": "기구한 운명의 주인공 ‘언년이’의 일생을 통해 백 년에 이르는 근대의 역사를 선명하게 다루었다.",
+  "table_summary": {
+    "labels": { "table": "목차", "summary": "줄거리" },
+    "table": "메밀꽃 필 무렵\n필묵장수\n생인손\n눈길",
+    "summary": "생인손: 주인공 언년이를 신분이라는 운명이 둘러싸고 있고, 그것을 딸에게는 물려주지 않으려 했지만, 새로운 사회를 경험하면서 끝내 그녀의 운명이 딸에게도 이어지는 과정을 보여 주기에 이른다. 작품의 결말은 딸의 운명을 바꾸려 했지만 역설적으로 그 운명을 벗어나지 못하게 한 허무함과 한을 신부에게 고해하며 한숨짓는 것으로 마무리된다."
+  },
+  "author": {
+    "name": "한무숙",
+    "photo": "../images/writers/한무숙.png",
+    "bio": "인간 변모의 과정을 여실하게 작품으로 보여주는 당시 보기 드문 작가라고 평가받고 있다. 한무숙 소설가가 활동하던 동시대 여성작가들이 자기 소외를 사랑으로 극복하려는 점에 있어서는 언뜻 비슷한 방향성을 보이지만, 여성의 본능적 성적욕망을 다룬 작가는 거의 없었다. 시대적 배경으로 볼 때 여성이 성을 말한다는 것은 금기시 되는 일 중 하나였다. 한무숙 소설가의 문학적 특징은 당시 본능적 성적 욕망을 다루었다는 점이고, 이런 지점에 머무르지 않고 더 나아가 전통적 제도나 종교적인 왜곡된 편견에서 비롯하는 인간의 모든 욕망을 자기 응시를 통해 치밀하게 보여준 유일한 작가라고 볼 수 있다. 이는 현실인식이나 자기 성찰에 도달하는 존재의 극복을 지향하는 미학적 결과물로 이어진다.",
+    "link": "author_detail.html?id=한무숙"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EC%83%9D%EC%9D%B8%EC%86%90+%ED%95%9C%EB%AC%B4%EC%88%99&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "한무숙 문학관",
+    "photo": "../images/문학관/한무숙.jpg",
+    "link": "/html/hanmoosook.html"
+  },
+  "major": [
+    { "id": "13", "title": "역사는 흐른다", "cover": "../images/works/05. 역사는 흐른다 한무숙.png" },
+    { "id": "14", "title": "감정이 있는 심연", "cover": "../images/works/05. 감정이 있는 심연 한무숙.png" },
+    { "id": "16", "title": "만남", "cover": "../images/works/05. 만남 한무숙.png" }
+  ],
+  "related": [
+    { "id": "r13", "title": "환각의 나비", "cover": "../images/연관/05. 환각의 나비.png" },
+    { "id": "r14", "title": "친밀한 이방인", "cover": "../images/연관/05. 친밀한 이방인.png" },
+    { "id": "r15", "title": "아주 느린 시간", "cover": "../images/연관/05. 아주 느린 시간.png" }
+  ]
+}
+,
+
+{
+  "id": "16",
+  "title": "만남(1-2권, 1986)",
+  "cover": "../images/works/05. 만남 한무숙.png",
+  "genre": "소설",
+  "theme": "종교와 국가, 문명의 거대한 틀 속에서 비틀리는 개개인의 고뇌와 한계를 인간애로 승화시켜 받아들이는 따뜻한 시선이 담겨 있는 작품이다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "1986년 대한민국문학상 대상을 수상하고, 미국과 프랑스, 폴란드 등에 번역, 출간되며 주목을 받은 작품. 서학(천주교)이 조선에 처음 들어오던 조선 말기를 배경으로 벌어지는 갈등들을 정약용과 그의 조카 정하상을 중심으로 그려냈다. 유교와 천주교, 동양과 서양이 빚어내는 역사 속 갈등들로 인한 문화적 충돌과 혼란, 화해와 하나되는 과정을 보여준다."
+  },
+  "author": {
+    "name": "한무숙",
+    "photo": "../images/writers/한무숙.png",
+    "bio": "인간 변모의 과정을 여실하게 작품으로 보여주는 당시 보기 드문 작가라고 평가받고 있다. 한무숙 소설가가 활동하던 동시대 여성작가들이 자기 소외를 사랑으로 극복하려는 점에 있어서는 언뜻 비슷한 방향성을 보이지만, 여성의 본능적 성적욕망을 다룬 작가는 거의 없었다. 시대적 배경으로 볼 때 여성이 성을 말한다는 것은 금기시 되는 일 중 하나였다. 한무숙 소설가의 문학적 특징은 당시 본능적 성적 욕망을 다루었다는 점이고, 이런 지점에 머무르지 않고 더 나아가 전통적 제도나 종교적인 왜곡된 편견에서 비롯하는 인간의 모든 욕망을 자기 응시를 통해 치밀하게 보여준 유일한 작가라고 볼 수 있다. 이는 현실인식이나 자기 성찰에 도달하는 존재의 극복을 지향하는 미학적 결과물로 이어진다.",
+    "link": "author_detail.html?id=한무숙"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EB%A7%8C%EB%82%A8+%ED%95%9C%EB%AC%B4%EC%88%99&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "한무숙 문학관",
+    "photo": "../images/문학관/한무숙.jpg",
+    "link": "/html/hanmoosook.html"
+  },
+  "major": [
+    { "id": "13", "title": "역사는 흐른다", "cover": "../images/works/05. 역사는 흐른다 한무숙.png" },
+    { "id": "14", "title": "감정이 있는 심연", "cover": "../images/works/05. 감정이 있는 심연 한무숙.png" },
+    { "id": "15", "title": "생인손", "cover": "../images/works/05. 생인손 한무숙.png" }
+  ],
+  "related": [
+    { "id": "r13", "title": "환각의 나비", "cover": "../images/연관/05. 환각의 나비.png" },
+    { "id": "r14", "title": "친밀한 이방인", "cover": "../images/연관/05. 친밀한 이방인.png" },
+    { "id": "r15", "title": "아주 느린 시간", "cover": "../images/연관/05. 아주 느린 시간.png" }
+  ]
+}
+,
+ {
+  "id": "17",
+  "title": "국토(1975)",
+  "cover": "../images/works/11. 국토 조태일.png",
+  "genre": "시",
+  "theme": "국토애(민족애)와 새 역사의 도래에 대한 소망을 담은 국토서시다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "국토\n서시\n모기를 생각하며\n꿈속에서 보는 눈물\n풀잎·돌멩이\n발바닥 밑에\n바람\n...외"
+  },
+  "poem": "발바닥이 다 닳아 새살이 돋도록 우리는\n우리의 땅을 밟을 수밖에 없는 일이다.\n\n숨결이 다 타올라 새 숨결이 열리도록 우리는\n우리의 하늘 밑을 서성일 수밖에 없는 일이다.\n\n야윈 팔다리일망정 한껏 휘저어\n슬픔도 기쁨도 한껏 가슴으로 맞대며 우리는\n우리의 가락 속을 거닐 수밖에 없는 일이다.\n\n버려진 땅에 돋아난 ㉠풀잎 하나에서부터\n조용히 발버둥치는 ㉡돌멩이 하나에까지\n이름도 없이 빈 벌판 빈 하늘에 뿌려진\n저 혼에까지 저 숨결에까지 닿도록\n\n우리는 우리의 삶을 불 지필 일이다.\n우리는 우리의 숨결을 보탤 일이다.\n\n일렁이는 피와 다 닳아진 살결과\n허연 뼈까지를 통째로 보탤 일이다.",
+  "author": {
+    "name": "조태일",
+    "photo": "../images/writers/조태일.png",
+    "bio": "그의 초기 시는 원시적인 삶에 기반을 둔 상상력에 의하여 삶의 순수성을 보여주는 세계상을 그리는 데 집중되어 있다. 그는 삶에 대한 순결성이 철저하게 파괴된 현실 앞에서 진실을 은폐하려는 기도에 당당히 맞서는 태도를 견지하면서 시를 통해 민중적 연대감을 획득하고자 한다. 1970년대 참여시의 한 성과로 주목되었던 연작시 ｢식칼론｣은 삶의 순결성을 유린하는 제도적인 폭력에 맞서서 시인의 자세와 역사의식을 잘 드러내는 작품이다. 여기서 ‘식칼’은 단순한 싸움의 도구로서만이 아니라 끊임없이 자아를 일깨우며 자극하는 무서운 자기 확인의 도구가 된다. 그리고 모두가 서로를 위해 공유할 수 있는 삶의 공통 수단으로서 그 의미가 확대된다. 시집 『국토』(1975)는 분단 현실의 폭력성과 허구성을 고발하는 비판적인 목소리가 충만해 있는데, 이는 분단을 극복하고 남과 북을 아우르는 건강한 민중성에 기반을 둔 새로운 세계에 대한 열망을 보여주고 있다. 시집 『가거도』(1983)에서는 민중적 삶에 대한 새로운 깨달음을 보여주고, 삶의 내적 충일을 통한 역동성을 발견하고자 주력하고 있다.",
+    "link": "author_detail.html?id=조태일"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B5%AD%ED%86%A0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "조태일시문학기념관",
+    "photo": "../images/문학관/조태일.jpg",
+    "link": "/html/jotaeil.html"
+  },
+  "major": [
+    { "id": "18", "title": "가거도", "cover": "../images/works/11. 가거도 조태일.png" },
+    { "id": "19", "title": "푸른 하늘과 붉은 황토", "cover": "../images/works/11. 푸른 하늘과 붉은 황토 조태일.png" },
+    { "id": "20", "title": "풀꽃은 꺾이지 않는다", "cover": "../images/works/11. 풀꽃은 꺾이지 않는다 조태일.png" }
+  ],
+  "related": [
+    { "id": "r16", "title": "태백산맥", "cover": "../images/연관/11. 태백산맥.png" },
+    { "id": "r17", "title": "전환시대의 논리", "cover": "../images/연관/11. 전환시대의 논리.png" },
+    { "id": "r18", "title": "시장과 전장", "cover": "../images/연관/11. 시장과 전장.png" }
+  ]
+}
+,
+
+{
+  "id": "18",
+  "title": "가거도(1983)",
+  "cover": "../images/works/11. 가거도 조태일.png",
+  "genre": "시",
+  "theme": "외딴 섬 가거도를 상징적 공간으로 삼아, 소외된 민중의 삶과 투쟁을 그리면서 역사적으로 연대한 작품이다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "오동도\n우화\n어머니\n통곡\n내가 아는 시인 한 사람은\n...외"
+  },
+  "poem": "너무 멀고 험해서\n오히려 바다같지 않는\n거기\n있는지조차\n없는지조차 모르던 섬\n쓸 만한 인물들을 역정내며\n유배 보내기 즐겼던 그때 높으신 분들도\n이곳까지는\n차마 생각 못했던\n그러나 우리 한민족 무지렁이들은\n가고, 보이니까 가고, 보이니까 또 가서\n마침내 살 만한 곳이라고\n파도로 성 쌓아\n대대로 지켜오며\n후박나무 그늘 아래서\n하느님 부처님 공자님\n당할아버지까지 한 식구로 한데 어우러져\n보라는 듯이 살아오는 땅\n비바람 불면 자고\n비바람 자면 일어나\n파도 밀치며\n바다 밀치며\n한스런 노랫가락 부른다\n산아 산아 회룡산아\n눈이 오면 백두산아\n비가 오면 장내산아\n바람불면 회룡산아\n천산 하산 넘어가면\n부모형제 보련마는\n원수로다 원수로다\n산과 날과 원수로다\n낯선 사람 찾아오면 죄 많은 사람 찾아오면\n태풍 세실을 불러다가\n겁도 주고 달래보고 묶어보고 풀어주는\n바람 바람 바람섬\n파도 파도 파도섬\n길가는 나그네여!\n사월혁명의 선봉이 되어\n반민주 반독재와 불의에 항거하여\n싸우다가 십구일 밤 무참히 떨어진\n십구세의 대한의 꽃봉오리가 여기\n누워 있다고 전해다오\n자식 길러 가르치고\n배운 자식 뭍으로 보내\n나라 걱정, 나라 위해\n목숨도 걸 줄 아는\n멋있는 사람들이 사는\n살 만한 땅",
+  "author": {
+    "name": "조태일",
+    "photo": "../images/writers/조태일.png",
+    "bio": "그의 초기 시는 원시적인 삶에 기반을 둔 상상력에 의하여 삶의 순수성을 보여주는 세계상을 그리는 데 집중되어 있다. 그는 삶에 대한 순결성이 철저하게 파괴된 현실 앞에서 진실을 은폐하려는 기도에 당당히 맞서는 태도를 견지하면서 시를 통해 민중적 연대감을 획득하고자 한다. 1970년대 참여시의 한 성과로 주목되었던 연작시 ｢식칼론｣은 삶의 순결성을 유린하는 제도적인 폭력에 맞서서 시인의 자세와 역사의식을 잘 드러내는 작품이다. 여기서 ‘식칼’은 단순한 싸움의 도구로서만이 아니라 끊임없이 자아를 일깨우며 자극하는 무서운 자기 확인의 도구가 된다. 그리고 모두가 서로를 위해 공유할 수 있는 삶의 공통 수단으로서 그 의미가 확대된다. 시집 『국토』(1975)는 분단 현실의 폭력성과 허구성을 고발하는 비판적인 목소리가 충만해 있는데, 이는 분단을 극복하고 남과 북을 아우르는 건강한 민중성에 기반을 둔 새로운 세계에 대한 열망을 보여주고 있다. 시집 『가거도』(1983)에서는 민중적 삶에 대한 새로운 깨달음을 보여주고, 삶의 내적 충일을 통한 역동성을 발견하고자 주력하고 있다.",
+    "link": "author_detail.html?id=조태일"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B0%80%EA%B1%B0%EB%8F%84&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "조태일시문학기념관",
+    "photo": "../images/문학관/조태일.jpg",
+    "link": "/html/jotaeil.html"
+  },
+  "major": [
+    { "id": "17", "title": "국토", "cover": "../images/works/11. 국토 조태일.png" },
+    { "id": "19", "title": "푸른 하늘과 붉은 황토", "cover": "../images/works/11. 푸른 하늘과 붉은 황토 조태일.png" },
+    { "id": "20", "title": "풀꽃은 꺾이지 않는다", "cover": "../images/works/11. 풀꽃은 꺾이지 않는다 조태일.png" }
+  ],
+  "related": [
+    { "id": "r16", "title": "태백산맥", "cover": "../images/연관/11. 태백산맥.png" },
+    { "id": "r17", "title": "전환시대의 논리", "cover": "../images/연관/11. 전환시대의 논리.png" },
+    { "id": "r18", "title": "시장과 전장(", "cover": "../images/연관/11. 시장과 전장(.png" }
+  ]
+}
+,
+ {
+  "id": "19",
+  "title": "푸른 하늘과 붉은 황토(2013)",
+  "cover": "../images/works/11. 푸른 하늘과 붉은 황토 조태일.png",
+  "genre": "시",
+  "theme": "'붉은 황토'로 상징되는 조국의 땅과 그 위에서 고통을 겪으면서도 끈질기게 삶을 이어가는 민중들의 강인한 생명력을 찬양한다. 그리고 '푸른 하늘'은 이러한 민족의 삶을 감싸 안는 영원한 이념이나 이상, 또는 희망을 상징하며, 현실의 아픔을 극복할 수 있게 하는 초월적인 가치를 암시한다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "1\n국토서시\n아침선박\n시를 생각하며\n2\n자유가 시인더러\n이쪽과 저쪽\n다시 오월에\n...외"
+  },
+  "poem": "아내와의 모든 접선도 끊어버리고\n말 배우는 어린 새끼들과의 대화도 끊어버리고\n나를 가르친 모든 책으로부터도\n중고가 돼버린 철없는 장난감으로부터도\n멍청한 가구들로부터도 떠나버리자\n아이고 무서워\n아이고 무서워\n그림자를 고요히 고요히만 밟혀주는\n달빛 별빛으로부터도\n무수히 발바닥을 포개보던\n광화문이며 종로며 태령로로부터도\n자유다 평등이다 인권이다 민주다 의무다 국민이다\n어쩌고 하는 한국적 표준말로부터도 떠나버리자\n아이고 무서워\n아이고 무서워\n망우리 근처 푸른 하늘 밑의 풀잎들은\n그렇게 푸르기만 하며\n푸른 하늘 밑의 황토들은\n그렇게 붉기만 하며\n푸른 하늘 밑의 무덤들은\n그렇게 고요히만 누웠냐\n아이고 무서워\n아이고 무서워\n바람 자고 소리 끊겨 고요하기는 해도\n끝간데없는 푸른 하늘은 저리 답답하단다\n푸른 풀들이 흔들리긴 해도\n하늘 밑에 깔린 황토들은 저리 답답하단다",
+  "author": {
+    "name": "조태일",
+    "photo": "../images/writers/조태일.png",
+    "bio": "그의 초기 시는 원시적인 삶에 기반을 둔 상상력에 의하여 삶의 순수성을 보여주는 세계상을 그리는 데 집중되어 있다. 그는 삶에 대한 순결성이 철저하게 파괴된 현실 앞에서 진실을 은폐하려는 기도에 당당히 맞서는 태도를 견지하면서 시를 통해 민중적 연대감을 획득하고자 한다. 1970년대 참여시의 한 성과로 주목되었던 연작시 ｢식칼론｣은 삶의 순결성을 유린하는 제도적인 폭력에 맞서서 시인의 자세와 역사의식을 잘 드러내는 작품이다. 여기서 ‘식칼’은 단순한 싸움의 도구로서만이 아니라 끊임없이 자아를 일깨우며 자극하는 무서운 자기 확인의 도구가 된다. 그리고 모두가 서로를 위해 공유할 수 있는 삶의 공통 수단으로서 그 의미가 확대된다. 시집 『국토』(1975)는 분단 현실의 폭력성과 허구성을 고발하는 비판적인 목소리가 충만해 있는데, 이는 분단을 극복하고 남과 북을 아우르는 건강한 민중성에 기반을 둔 새로운 세계에 대한 열망을 보여주고 있다. 시집 『가거도』(1983)에서는 민중적 삶에 대한 새로운 깨달음을 보여주고, 삶의 내적 충일을 통한 역동성을 발견하고자 주력하고 있다.",
+    "link": "author_detail.html?id=조태일"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%ED%91%B8%EB%A5%B8+%ED%95%98%EB%8A%98%EA%B3%BC+%EB%B6%89%EC%9D%80+%ED%99%A9%ED%86%A0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "조태일시문학기념관",
+    "photo": "../images/문학관/조태일.jpg",
+    "link": "/html/jotaeil.html"
+  },
+  "major": [
+    { "id": "17", "title": "국토", "cover": "../images/works/11. 국토 조태일.png" },
+    { "id": "18", "title": "가거도", "cover": "../images/works/11. 가거도 조태일.png" },
+    { "id": "20", "title": "풀꽃은 꺾이지 않는다", "cover": "../images/works/11. 풀꽃은 꺾이지 않는다 조태일.png" }
+  ],
+  "related": [
+    { "id": "r16", "title": "태백산맥", "cover": "../images/연관/11. 태백산맥.png" },
+    { "id": "r17", "title": "전환시대의 논리", "cover": "../images/연관/11. 전환시대의 논리.png" },
+    { "id": "r18", "title": "시장과 전장(", "cover": "../images/연관/11. 시장과 전장(.png" }
+  ]
+}
+,
+{
+  "id": "20",
+  "title": "풀꽃은 꺾이지 않는다(1995)",
+  "cover": "../images/works/11. 풀꽃은 꺾이지 않는다 조태일.png",
+  "genre": "시",
+  "theme": "여리고 연약해 보이지만 꺾이지 않는 풀꽃으로 민중의 생명력과 저항을 상징화한 작품이다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "풀씨\n겨울바다에서\n황홀\n홍시들\n봄이 오는 소리\n...외"
+  },
+  "poem": "사람들은 풀꽃을 꺾는다 하지만\n너무 여리어 결코 꺾이지 않는다\n\n피어날 때 아픈 흔들림으로\n피어 있을 때 다소곳한 몸짓으로\n다만 웃고 있을 뿐\n꺾으려는 손들을 마구 어루만진다\n\n땅속 깊이 여린 사랑을 내리며\n사람들의 며마른 가슴에\n노래되어 흔들릴 뿐\n\n꺾이는 것은\n탐욕스런 손들일 뿐",
+  "author": {
+    "name": "조태일",
+    "photo": "../images/writers/조태일.png",
+    "bio": "그의 초기 시는 원시적인 삶에 기반을 둔 상상력에 의하여 삶의 순수성을 보여주는 세계상을 그리는 데 집중되어 있다. 그는 삶에 대한 순결성이 철저하게 파괴된 현실 앞에서 진실을 은폐하려는 기도에 당당히 맞서는 태도를 견지하면서 시를 통해 민중적 연대감을 획득하고자 한다. 1970년대 참여시의 한 성과로 주목되었던 연작시 ｢식칼론｣은 삶의 순결성을 유린하는 제도적인 폭력에 맞서서 시인의 자세와 역사의식을 잘 드러내는 작품이다. 여기서 ‘식칼’은 단순한 싸움의 도구로서만이 아니라 끊임없이 자아를 일깨우며 자극하는 무서운 자기 확인의 도구가 된다. 그리고 모두가 서로를 위해 공유할 수 있는 삶의 공통 수단으로서 그 의미가 확대된다. 시집 『국토』(1975)는 분단 현실의 폭력성과 허구성을 고발하는 비판적인 목소리가 충만해 있는데, 이는 분단을 극복하고 남과 북을 아우르는 건강한 민중성에 기반을 둔 새로운 세계에 대한 열망을 보여주고 있다. 시집 『가거도』(1983)에서는 민중적 삶에 대한 새로운 깨달음을 보여주고, 삶의 내적 충일을 통한 역동성을 발견하고자 주력하고 있다.",
+    "link": "author_detail.html?id=조태일"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%ED%92%80%EA%BD%83%EC%9D%80+%EA%BA%BE%EC%9D%B4%EC%A7%80+%EC%95%8A%EB%8A%94%EB%8B%A4&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "조태일시문학기념관",
+    "photo": "../images/문학관/조태일.jpg",
+    "link": "/html/jotaeil.html"
+  },
+  "major": [
+    { "id": "17", "title": "국토", "cover": "../images/works/11. 국토 조태일.png" },
+    { "id": "18", "title": "가거도", "cover": "../images/works/11. 가거도 조태일.png" },
+    { "id": "19", "title": "푸른 하늘과 붉은 황토", "cover": "../images/works/11. 푸른 하늘과 붉은 황토 조태일.png" }
+  ],
+  "related": [
+    { "id": "r16", "title": "태백산맥", "cover": "../images/연관/11. 태백산맥.png" },
+    { "id": "r17", "title": "전환시대의 논리", "cover": "../images/연관/11. 전환시대의 논리.png" },
+    { "id": "r18", "title": "시장과 전장(", "cover": "../images/연관/11. 시장과 전장(.png" }
+  ]
+}
+,
+{
+  "id": "22",
+  "title": "내 노래하고 싶은 것은(2007)",
+  "cover": "../images/works/13. 내 노래하고 싶은 것은 신석정.png",
+  "genre": "시",
+  "theme": "메시지",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "입춘(立春)\n자책저음(自責低吟)\n송뢰(松牢)와 더불어\n잔설(殘雪)\n우수만 지나면\n... 외"
+  },
+  "poem": "피 묻은 발자욱이사\n새삼 돌아볼 겨를도 없다.\n아아라한 만첩청산을\n만첩청산을 굽이돌아\n철 철 철 흘러가는\n저 푸른 강물을 보리로다.\n\n가슴 깊이 간직해 둔\n눈물겨웠던 이별 또한\n구름과 더불어 왕래하는\n구김살 없는 저 학두루미의\n학두루미의 노래에 부쳐\n하늘 멀리 보내도 좋으리라.\n\n다만 오는 날을 위하여\n벅찬 설계를 가다듬어야 하거늘\n오염된 문명을 믿을 수는 없다.\n그 문명 속에 허덕일 수도 없다.\n소슬한 솔바람 소리로\n상처 입은 마음을 달래리라.\n\n별들의 참한 이야기\n잇따라 들려오고\n꽃그늘에 오고가는\n너그러운 햇살이 지키는 속에\n내 노래하고 싶은 것은\n우리 부신 꿈과 생시뿐이로다.",
+  "author": {
+    "name": "신석정",
+    "photo": "../images/writers/신석정.png",
+    "bio": "석정 시는 궁극적으로 인간이 자연을 통해 보편적으로 소유하려는 미적 이상향을 추구하는 낙원지향樂園志向의 자아와 식민지 치하에서부터 끊임없이 정반합正反合의 반복적 파도 속에 다져온 시대양심의 구현체로서의 자아가 이루어낸 갈등과 통합의 문법이라 할 수 있다.이는 궁극적으로 한국 시의 자연서정과 현실 참여라는 이이원적 경험을 외롭게 한 몸으로 흡수 통합하려는 시도였으니 선생은 한국시사韓國詩史에 새로운 이정표를 제시한 시인으로 높이 평가받아 마땅하다.",
+    "link": "author_detail.html?id=신석정"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EB%82%B4+%EB%85%B8%EB%9E%98%ED%95%98%EA%B3%A0+%EC%8B%B6%EC%9D%80+%EA%B2%83%EC%9D%80&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "석정문학관",
+    "photo": "../images/문학관/신석정.jpg",
+    "link": "/html/신석정.html"
+  },
+  "major": [
+    { "id": "23", "title": "신석정의 시선", "cover": "../images/works/13. 신석정의 시선 신석정.png" },
+    { "id": "24", "title": "그 먼 나라를 알으십니까", "cover": "../images/works/13. 그 먼 나라를 알으십니까 신석정.png" }
+  ],
+  "related": [
+    { "id": "r19", "title": "신석정 평전 그 먼나라를 알으십니까", "cover": "../images/연관/13. 신석정 평전 그 먼나라를 알으십니까.png" },
+    { "id": "r20", "title": "신석정 연구", "cover": "../images/연관/13. 신석정 연구.png" }
+  ]
+}
+,
+
+ {
+  "id": "23",
+  "title": "신석정의 시선(2013)",
+  "cover": "../images/works/13. 신석정의 시선 신석정.png",
+  "genre": "시",
+  "theme": "순수하고 절대적인 존재에 대한 간절한 소망과, 그 부름에 응하여 자연과 하나 되는 삶을 살고자 하는 화자의 초월적 의지를 노래한 시이다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "≪촛불≫\n임께서 부르시면\n그 꿈을 깨우면 어떻게 할까요?\n나의 꿈을 엿보시겠읍니까\n아 그 꿈에서 살고 싶어라\n化石이 되고 싶어\n…외"
+  },
+  "poem": "가을날 노랗게 물들인 은행잎이\n바람에 흔들려 휘날리듯이\n그렇게 가오리다\n임께서 부르시면······\n\n호수에 안개 끼어 자욱한 밤에\n말없이 재 넘는 초승달처럼\n그렇게 가오리다\n임께서 부르시면······\n\n포근히 풀린, 봄 하늘 아래\n굽이굽이 하늘가에 흐르는 물처럼\n그렇게 가오리다\n임께서 부르시면······\n\n파아란 하늘에 백로가 노래하고\n이른봄 잔디밭에 스며드는 햇볕처럼\n그렇게 가오리다\n임께서 부르시면······",
+  "author": {
+    "name": "신석정",
+    "photo": "../images/writers/신석정.png",
+    "bio": "석정 시는 궁극적으로 인간이 자연을 통해 보편적으로 소유하려는 미적 이상향을 추구하는 낙원지향樂園志向의 자아와 식민지 치하에서부터 끊임없이 정반합正反合의 반복적 파도 속에 다져온 시대양심의 구현체로서의 자아가 이루어낸 갈등과 통합의 문법이라 할 수 있다.",
+    "link": "/html/author_detail.html?id=신석정"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%8B%A0%EC%84%9D%EC%A0%95%EC%9D%98+%EC%8B%9C%EC%84%A0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
+  "museum": {
+    "name": "석정문학관",
+    "photo": "../images/문학관/신석정.jpg",
+    "link": "/html/신석정.html"
+  },
+  "major": [
+    { "id": "22", "title": "내 노래하고 싶은 것은", "cover": "../images/works/13. 내 노래하고 싶은 것은 신석정.png" },
+    { "id": "24", "title": "그 먼 나라를 알으십니까", "cover": "../images/works/13. 그 먼 나라를 알으십니까 신석정.png" }
+  ],
+  "related": [
+    { "id": "r19", "title": "신석정 평전 그 먼나라를 알으십니까", "cover": "../images/연관/13. 신석정 평전 그 먼나라를 알으십니까.png" },
+    { "id": "r20", "title": "신석정 연구", "cover": "../images/연관/13. 신석정 연구.png" }
+  ]
+}
+,
+
+{
+  "id": "24",
+  "title": "그 먼 나라를 알으십니까(1939)",
+  "cover": "../images/works/13. 그 먼 나라를 알으십니까 신석정.png",
+  "genre": "시",
+  "theme": "평화롭고 자연 그대로의 모습을 간직한 '먼 나라'를 그리며, 현실의 고단함 속에서 벗어나고 싶은 소망을 표현한다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "제1부 촛불\n임께서 부르시면\n그 꿈을 깨우면 어떻게 할까요?\n나의 꿈을 엿보시겠습니까\n촐촐한 밤\n化石이 되고 싶어\n그 먼 나라를 알으십니까\n...외"
+  },
+  "poem": "어머니,\n당신은 그 먼 나라를 알으십니까?\n\n깊은 삼림대(森林帶)를 끼고 돌면\n고요한 호수에 흰 물새 날고,\n좁은 들길에 야장미 열매 붉어,\n\n멀리 노루 새끼 마음 놓고 뛰어다니는\n아무도 살지 않는 그 먼 나라를 알으십니까?\n\n그 나라에 가실 때에는 부디 잊지 마셔요.\n나와 같이 그 나라에 가서 비둘기를 키웁시다.\n\n어머니,\n당신은 그 먼 나라를 알으십니까?\n\n산비탈 넌지시 타고 내려오면\n양지밭에 흰 염소 한가히 풀 뜯고,\n길 솟는 옥수수밭에 해는 저물어 저물어\n먼 바다 물소리 구슬피 들려오는\n아무도 살지 않는 그 먼 나라를 알으십니까?\n\n어머니, 부디 잊지 마세요.\n그때 우리는 어린 양을 몰고 돌아옵시다.\n\n어머니,\n당신은 그 먼 나라를 알으십니까?\n\n오월 하늘에 비둘기 멀리 날고,\n오늘처럼 촐촐히 비가 내리면\n꿩 소리도 유난히 한가롭게 들리리다.\n서리 까마귀 높이 날아 산국화 더욱 곱고\n노오란 은행잎이 한들한들 푸른 하늘에 날리는\n가을이면 어머니! 그 나라에서\n\n양지밭 과수원에 꿀벌이 잉잉거릴 때\n나와 함께 그 새빨간 능금을 또옥똑 따지 않으시렵니까?",
+  "author": {
+    "name": "신석정",
+    "photo": "../images/writers/신석정.png",
+    "bio": "석정 시는 궁극적으로 인간이 자연을 통해 보편적으로 소유하려는 미적 이상향을 추구하는 낙원지향의 자아와 시대양심의 구현체로서의 자아가 이루어낸 갈등과 통합의 문법이라 할 수 있다.",
+    "link": "/html/author_detail.html?id=신석정"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&pageNum=1&pageSize=15&keywordType1=total&keyword1=%EA%B7%B8+%EB%A8%BC+%EB%82%98%EB%9D%BC%EB%A5%BC+%EC%95%8C%EC%9C%BC%EC%8B%AD%EB%8B%88%EA%B9%8C",
+  "museum": {
+    "name": "석정문학관",
+    "photo": "../images/문학관/신석정.jpg",
+    "link": "/html/신석정.html"
+  },
+  "major": [
+    { "id": "22", "title": "내 노래하고 싶은 것은", "cover": "../images/works/13. 내 노래하고 싶은 것은 신석정.png" },
+    { "id": "23", "title": "신석정의 시선", "cover": "../images/works/13. 신석정의 시선 신석정.png" }
+  ],
+  "related": [
+    { "id": "r19", "title": "신석정 평전 그 먼나라를 알으십니까", "cover": "../images/연관/13. 신석정 평전 그 먼나라를 알으십니까.png" },
+    { "id": "r20", "title": "신석정 연구", "cover": "../images/연관/13. 신석정 연구.png" }
+  ]
+}
+,
+
+ {
+  "id": "25",
+  "title": "박두진 시 전집 1(2017)",
+  "cover": "../images/works/14. 박두진 시 전집 1 박두진.png",
+  "genre": "시",
+  "theme": "해방 직후의 구성원들이 열망하는 공동체의 이상향을 상징적으로 제시하고 있다. 이는 현재의 어둠을 극복해야 가능하며, 그 공동체 속에서 모든 생명체들이 조화롭고 평화롭게 살아가게 될 것이라는 기대가 병렬적인 문장들로 힘 있게 표현되고 있다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "해\n墓地頌(묘지송)\n훨훨훨 나래 떨며\n들려 오는 노래 있어\n해의 품으로\n... 외"
+  },
+  "poem": "해야 솟아라, 해야 솟아라, 말갛게 씻은 얼굴 고운 해야 솟아라.\n산 너머 산 너머서 어둠을 살라 먹고, 산 너머서 밤새도록 어둠을 살라 먹고, 이글이글 애띤 얼굴 고운 해야 솟아라.\n\n달밤이 싫여, 달밤이 싫여, 눈물 같은 골짜기에 달밤이 싫여, 아무도 없는 뜰에 달밤이 나는 싫여······.\n\n해야, 고운 해야, 늬가 오면, 늬가사 오면, 나는 나는 청산이 좋아라.\n훨훨훨 깃을 치는 청산이 좋아라.\n청산이 있으면 홀로래도 좋아라.\n\n사슴을 따라 사슴을 따라, 양지로 양지로 사슴을 따라, 사슴을 만나면 사슴과 놀고,\n\n칡범을 따라 칡범을 따라, 칡범을 만나면 칡범과 놀고······.\n\n해야, 고운 해야, 해야 솟아라.\n꿈이 아니래도 너를 만나면, 꽃도 새도 짐승도 한 자리에 앉아, 워어이 워어이 모두 불러 한 자리 앉아, 애띠고 고운 날을 누려 보리라",
+  "author": {
+    "name": "박두진",
+    "photo": "../images/writers/박두진.png",
+    "bio": "박두진은 조지훈, 박목월과 함께 '청록파'로 불리며 광복 이후 민족 재생과 신생의 의지를 시로써 강하게 표현하였다. 초기에는 해와 빛의 상징을 통해 민족적 암흑을 극복하려는 의지를 보였으며 이후에는 역사의식, 휴머니즘, 자연과 신앙의 세계를 심화시켜 독자적인 시세계를 구축하였다.",
+    "link": "/html/author_detail.html?id=박두진"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&pageNum=1&pageSize=15&keywordType1=total&keyword1=%EB%B0%95%EB%91%90%EC%A7%84+%EC%8B%9C+%EC%A0%84%EC%A7%91",
+  "museum": {
+    "name": "박두진 문학관",
+    "photo": "../images/문학관/박두진.jpg",
+    "link": "/html/parkdujin.html"
+  },
+  "major": [
+    { "id": "26", "title": "한 권으로 읽는 청록파", "cover": "../images/works/14. 한 권으로 읽는 청록파 박두진.png" },
+    { "id": "27", "title": "박두진 시선", "cover": "../images/works/14. 박두진 시선 박두진.png" }
+  ],
+  "related": [
+    { "id": "r21", "title": "모란이 피기까지는", "cover": "../images/연관/14. 모란이 피기까지는.png" },
+    { "id": "r22", "title": "박두진의 상상력 연구", "cover": "../images/연관/14. 박두진의 상상력 연구.png" },
+    { "id": "r23", "title": "박목월, 박두진 시에 나타난 효사상", "cover": "../images/연관/14. 박목월 박두진 시 효사상.png" }
+  ]
+}
+,
+
+{
+  "id": "26",
+  "title": "한 권으로 읽는 청록파(2023)",
+  "cover": "../images/works/14. 한 권으로 읽는 청록파 박두진.png",
+  "genre": "시",
+  "theme": "해방된 조국에서 같은 문학적 경향을 보여주는 세 사람의 시인이 풀어낸 39편의 시를 통해 우리의 말과 문화, 그리고 자연의 아름다움을 한껏 보여주고 있다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "박두진\n향현(香峴)\n묘지송(墓地頌)\n도봉(道峯)\n별\n…외"
+  },
+  "poem": "아랫도리 다박솔 깔린 산너머, 큰 산 그 너멋 산 안 보이어, 내 마음 둥둥 구름을 타다.\n\n우뚝 솟은 산, 묵중히 엎드린 산, 골골이 장송 들어섰고, 머루 다래 넝쿨 바위 엉서리에 얽혔고,\n너구리, 여우, 사슴, 산토끼, 오소리, 도마뱀, 능구리 등 실로 무수한 짐승을 지닌.\n\n산, 산, 산들! 누거 만 년 너희들 침묵이 흠뻑 지리함 직하매.\n\n산이여! 장차 너희 솟아난 봉우리에 엎드린 마루에, 확확 치밀어 오를 화염을 내 기다려도 좋으랴?\n\n핏내를 잊은 여우 이리 등속이 사슴 토끼와 더불어 싸릿순, 칡순을 찾아 함께 즐거이 뛰는 날을 믿고 길이 기다려도 좋으랴?",
+  "author": {
+    "name": "박두진",
+    "photo": "../images/writers/박두진.png",
+    "bio": "박두진은 조지훈, 박목월과 함께 ‘청록파’로 불리며, 광복 이후 민족 재생과 신생의 의지를 시로써 강하게 표현하였다. 초기에는 해와 빛의 상징을 통해 민족적 암흑을 극복하려는 의지를 보였으며 이후에는 역사의식, 휴머니즘, 자연과 신앙의 세계를 심화시켜 독자적인 시세계를 구축하였다.",
+    "link": "/html/author_detail.html?id=박두진"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&pageNum=1&pageSize=15&keywordType1=total&keyword1=%ED%95%9C%EA%B6%8C%EC%9C%BC%EB%A1%9C+%EC%9D%BD%EB%8A%94+%EC%B2%AD%EB%A1%9D%ED%8C%8C",
+  "museum": {
+    "name": "박두진 문학관",
+    "photo": "../images/문학관/박두진.jpg",
+    "link": "/html/parkdujin.html"
+  },
+  "major": [
+    { "id": "25", "title": "박두진 시 전집 1", "cover": "../images/works/14. 박두진 시 전집 1 박두진.png" },
+    { "id": "27", "title": "박두진 시선", "cover": "../images/works/14. 박두진 시선 박두진.png" }
+  ],
+  "related": [
+    { "id": "r21", "title": "모란이 피기까지는", "cover": "../images/연관/14. 모란이 피기까지는.png" },
+    { "id": "r22", "title": "박두진의 상상력 연구", "cover": "../images/연관/14. 박두진의 상상력 연구.png" },
+    { "id": "r23", "title": "박목월, 박두진 시에 나타난 효사상", "cover": "../images/연관/14. 박목월 박두진 시 효사상.png" }
+  ]
+}
+,
+
+{
+  "id": "27",
+  "title": "박두진 시선",
+  "cover": "../images/works/14. 박두진 시선 박두진.png",
+  "genre": "시",
+  "theme": "『박두진 시선』은 초판본을 바탕으로 구성되었으며, 본래 표기를 최대한 유지하면서도 읽기 편한 현대어 표기를 일부 적용하였다. 시인의 대표작을 통해 자연과 민족, 신앙의 세계를 함께 조망할 수 있는 작품집이다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "해\n묘지송\n해의 품으로\n향청산도\n설악부\n별\n...외"
+  },
+  "poem": "아아 아득히 내 첩첩한 산길 왔더니라.\n인기척 끊기고 새도 짐승도 있지 않은 한낮 그 화안한 골길을\n다만 아득히 나는 머언 생각에 잠기어 왔더이라.\n\n백화 앙상한 사이를 바람에 백엽 같이 불리우며\n물소리에 흰 돌되어 씻기우며\n나는 총총히 외롬도 잊고 왔더니라.\n\n살다가 오래여 삭은 장목들 흰 팔 벌이고 서 있고\n풍운에 깎이어 날선 봉우리 흰구름 날리며 섰더니라.\n\n쏴아— 쉬지 않고 부는 물소리 안은 바람소리...\n구월 고운 낙엽은 날리어 푸른 담 위에 낙화 같이 지더니라.\n\n어젯밤 동해안 어촌 검푸른 밤하늘에\n나는 장엄히 뿌리어진 허다한 바다의 별들을 보았느니.\n\n이제 오늘밤 이 산장에도 얼어붙는 바람 속\n우러르는 나의 하늘에 별들은 쓸리며 다시 꽃같이 난만하여라.",
+  "author": {
+    "name": "박두진",
+    "photo": "../images/writers/박두진.png",
+    "bio": "박두진은 조지훈, 박목월과 함께 ‘청록파’로 불리며 민족 재생과 광복기의 정신을 ‘해’와 ‘빛’의 상징을 통해 구현한 시인이다. 이후 역사적 현실 인식과 휴머니즘, 신앙 세계를 심화시켜 독자적 서정 세계를 개척하였다.",
+    "link": "/html/author_detail.html?id=박두진"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&pageNum=1&pageSize=15&keywordType1=total&keyword1=%EB%B0%95%EB%91%90%EC%A7%84+%EC%8B%9C%EC%84%A0",
+  "museum": {
+    "name": "박두진 문학관",
+    "photo": "../images/문학관/박두진.jpg",
+    "link": "/html/parkdujin.html"
+  },
+  "major": [
+    { "id": "25", "title": "박두진 시 전집 1", "cover": "../images/works/14. 박두진 시 전집 1 박두진.png" },
+    { "id": "26", "title": "한 권으로 읽는 청록파", "cover": "../images/works/14. 한 권으로 읽는 청록파 박두진.png" }
+  ],
+  "related": [
+    { "id": "r21", "title": "모란이 피기까지는", "cover": "../images/연관/14. 모란이 피기까지는.png" },
+    { "id": "r22", "title": "박두진의 상상력 연구", "cover": "../images/연관/14. 박두진의 상상력 연구.png" },
+    { "id": "r23", "title": "박목월, 박두진 시에 나타난 효사상", "cover": "../images/연관/14. 박목월 박두진 시 효사상.png" }
+  ]
+}
+,
+
+{
+  "id": "28",
+  "title": "동백꽃(1936)",
+  "cover": "../images/works/15. 동백꽃 김유정.png",
+  "genre": "소설",
+  "theme": "사춘기 소년과 소녀가 닭싸움과 장난을 통해 티격태격하면서도 서로에 대한 호감을 드러내는 모습을 해학적으로 그린 성장 연애담이다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "‘나’는 순박하고 어수룩한 소년이며, 점순이는 활달하고 짓궂은 소녀이다. 점순이는 구운 감자를 건네며 소년에게 호감을 표현하지만, 소년은 그 뜻을 눈치채지 못해 거절한다. 점순은 닭싸움을 시키는 등 소년을 자극하며 관심을 끌고자 한다. 어느 날 소년은 분을 참지 못해 점순네 닭을 쳐 죽이게 되고, 마름집 딸인 점순에게 들켜 크게 당황한다. 그러나 점순은 소년에게 다가와 비밀을 지켜줄 테니 자기 말을 들으라며 다정하게 감싸안고, 두 사람은 활짝 핀 동백꽃 속으로 파묻히며 서로의 마음을 확인한다."
+  },
+  "author": {
+    "name": "김유정",
+    "photo": "../images/writers/김유정.png",
+    "bio": "김유정은 해학적인 언어와 향토적 배경을 바탕으로 농촌 민중의 비애를 따뜻한 시선으로 그려낸 작가이다. 속어, 비어, 풍자성을 활용한 생동감 있는 문체로 '아리랑의 작가'라 불리며 한국 단편소설 문학에 중요한 업적을 남겼다.",
+    "link": "/html/author_detail.html?id=김유정"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&pageNum=1&pageSize=15&keywordType1=total&title=동백꽃&author=김유정",
+  "museum": {
+    "name": "김유정문학촌",
+    "photo": "../images/문학관/김유정.jpg",
+    "link": "/html/kimyoujeong.html"
+  },
+  "major": [
+    { "id": "29", "title": "산골나그네", "cover": "../images/works/15. 산골나그네 김유정.png" },
+    { "id": "30", "title": "소낙비", "cover": "../images/works/15. 소낙비 김유정.png" },
+    { "id": "31", "title": "봄봄", "cover": "../images/works/15. 봄봄 김유정.png" }
+  ],
+  "related": [
+    { "id": "r24", "title": "김유정", "cover": "../images/연관/15. 김유정 관련.png" },
+    { "id": "r25", "title": "몽실언니", "cover": "../images/연관/15. 몽실언니.png" },
+    { "id": "r26", "title": "태평천하", "cover": "../images/연관/15. 태평천하.png" }
+  ]
+}
+,
+
+{
+  "id": "29",
+  "title": "산골나그네(1933)",
+  "cover": "../images/works/15. 산골나그네 김유정.png",
+  "genre": "소설",
+  "theme": "향토색 짙은 농촌의 배경 속에서 인생의 봄을 맞이하여 성장하여가는 충동적인 사춘기 소년과 소녀의 애정을 해학적으로 그린 작품이다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "어느 늦은 가을밤 산골의 허름한 주막에 한 나그네가 찾아온다. 초라한 모습의 여인은 주막 여주인에게 하룻밤만 묵게 해 달라고 부탁한다. 묵묵한 나그네는 남편 없고 몸 붙일 곳 없다는 것만을 간단히 이야기한다. 며칠째 술손님도 없이 외로운 여주인은 다음날 떠나겠다는 나그네를 붙든다. 집 지켜주는 셈치고 함께 있자는 온정이었다. 그런데 그날 밤 술꾼들이 주막에 몰려든다. 동네에 여주인이 ‘젊은 갈보’를 사 왔다고 소문이 난 것이다. 여주인은 나그네에게 오늘 하루만 술을 팔아달라고 부탁하고, 나그네는 순순히 승낙한다. 덕분에 모처럼 여주인은 큰돈을 만진다. 함께 생활하며 지켜 본 나그네는 나이에 어울리지 않게 외양은 시들어 가지만, 부지런하고 사랑스러운 데가 있다. 여주인은 나그네를 딸처럼 여기며, 며느리로도 욕심낸다. 옷가지도 빌려주고 밤에도 품에 안아 재우며 정이 든다. 아들 덕돌이도 여주인이 집을 비운 사이 나그네에게 추근거리고, 결국 나그네는 덕돌이와 혼인한다. 여주인은 은비녀와 은가락지를 며느리가 된 나그네에게 선물한다. 그러나 혼인한 다음날 밤 나그네는 덕돌이가 잠든 틈을 타 그가 아끼는 옷을 훔쳐 도망간다. 은비녀를 그대로 두고 간 며느리가 도둑일 리 없다며 여주인은 필시 무슨 병폐가 생겼으리라 생각한다. 같은 시간, 마을을 빠져나온 나그네는 물방앗간에 숨어 있던 병든 남자를 찾아가, 그에게 덕돌의 옷을 입히고 부축해 길을 떠난다. 멀리 뒤에서 나그네를 찾는 덕돌의 목소리와 늑대 소리가 어수선하게 들려온다."
+  },
+  "author": {
+    "name": "김유정",
+    "photo": "../images/writers/김유정.png",
+    "bio": "그의 작품의 성향은 크게 세가지로 나눌 수 있다. 먼저, 그는 실감나는 농촌소설을 썼다. 당시의 농민의 고단한 삶이 작품 속에 그대로 배어있다. 둘째, 김유정의 작품은 우리 전통 마당극이나 탈춤, 판소리 등에서 만나는 어조와 해학적인 웃음처럼 우스운 말이나 행동을 통하여 대상의 결함과 비리를 드러낸다. 그러나 풍자극이 대상과 대립하여 비꼬는 방법을 쓰는 반면에, 김유정의 해학은 이런 맥을 같이 하면서도 대상을 한층 넓고 깊게 통찰하면서 동정적으로 감싸 주는 방법을 사용한다. 감칠맛 나는 속어, 비어와 눙치는 어법으로 당시 농촌의 만무방과 도시 따라지들의 슬픈 이야기를 천연덕스럽게 판소리처럼 들려준다. 셋째, 유난히 김유정의 작품에는 아리랑이 많이 등장한다. 그래서 그는 아리랑의 작가라고도 할 수 있다.",
+    "link": "/html/author_detail.html?id=김유정"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keywordType5=isbn&keywordType6=UB&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP&titleType=equal&title=산골나그네&author=김유정&ufKey=",
+  "museum": {
+    "name": "김유정문학촌",
+    "photo": "../images/문학관/김유정.jpg",
+    "link": "/html/kimyoujeung.html"
+  },
+  "major": [
+    { "id": "28", "title": "동백꽃", "cover": "../images/works/15. 동백꽃 김유정.png" },
+    { "id": "30", "title": "소낙비", "cover": "../images/works/15. 소낙비 김유정.png" },
+    { "id": "31", "title": "봄봄", "cover": "../images/works/15. 봄봄 김유정.png" }
+  ],
+  "related": [
+    { "id": "r24", "title": "김유정", "cover": "../images/연관/15. 김유정.png" },
+    { "id": "r25", "title": "몽실언니", "cover": "../images/연관/15. 몽실언니.png" },
+    { "id": "r26", "title": "태평천하", "cover": "../images/연관/15. 태평천하.png" }
+  ]
+}
+,
+
+ {
+  "id": "30",
+  "title": "소낙비(1935)",
+  "cover": "../images/works/15. 소낙비 김유정.png",
+  "genre": "단편소설",
+  "theme": "삶의 안착을 찾지 못한 식민지시대의 유랑농민의 삶을 해학적으로 다룬 작품이다.",
+  "table_summary": {
+    "labels": { "table": "목차", "summary": "줄거리" },
+    "table": "이 책을 읽는 분에게\n소낙비\n산골\n금(金) 따는 콩밭\n봄봄\n땡볕\n산골 나그네\n동백꽃\n안해\n슬픈 이야기\n봄과 따라지\n정조(貞操)\n가을\n따라지\n노다지\n솥\n연보\n저자약력",
+    "summary": "소낙비: 흉작과 빚쟁이의 위협 때문에 야간도주를 한 춘호는 아무리 떠돌아다녀도 살길을 찾을 수 없게 되자, 노름판에 뛰어들 생각을 한다. 그러나 밑천 2원이 없어 울화가 치민 춘호는 아내를 때리며 돈을 구해오라고 한다. 매를 맞고 뛰쳐나온 춘호의 처는 돈을 구할 방도를 생각하다가 마침 마을 부자인 이주사의 눈에 들어 팔자를 고친 쇠돌 어멈네 집으로 향한다. 가다가 소낙비를 만나 밤나무 밑에서 피하던 중 문득 아무도 없는 쇠돌 어멈집에 이주사가 들어가는 것을 보고, 따라 들어가 몸을 맡기고는 다음날 2원을 받기로 한다. 다음날, 춘호는 2원을 얻어서 빚도 갚고 서울로 가서 아내와 함께 안락한 생활을 할 수 있으리라는 희망에 아내를 곱게 치장시켜 이주사에게로 보낸다."
+  },
+  "author": {
+    "name": "김유정",
+    "photo": "../images/writers/김유정.png",
+    "bio": "그의 작품의 성향은 크게 세가지로 나눌 수 있다. 먼저, 그는 실감나는 농촌소설을 썼다. 당시의 농민의 고단한 삶이 작품 속에 그대로 배어있다. 둘째, 김유정의 작품은 우리 전통 마당극이나 탈춤, 판소리 등에서 만나는 어조와 해학적인 웃음처럼 우스운 말이나 행동을 통하여 대상의 결함과 비리를 드러낸다. 그러나 풍자극이 대상과 대립하여 비꼬는 방법을 쓰는 반면에, 김유정의 해학은 이런 맥을 같이 하면서도 대상을 한층 넓고 깊게 통찰하면서 동정적으로 감싸 주는 방법을 사용한다. 감칠맛 나는 속어, 비어와 눙치는 어법으로 당시 농촌의 만무방과 도시 따라지들의 슬픈 이야기를 천연덕스럽게 판소리처럼 들려준다. 셋째, 유난히 김유정의 작품에는 아리랑이 많이 등장한다. 그래서 그는 아리랑의 작가라고도 할 수 있다.",
+    "link": "/html/author_detail.html?id=김유정"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keywordType5=isbn&keywordType6=UB&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP&titleType=equal&title=소낙비&author=김유정&ufKey=",
+  "museum": {
+    "name": "김유정문학촌",
+    "photo": "../images/문학관/김유정.jpg",
+    "link": "/html/kimyoujeung.html"
+  },
+  "major": [
+    { "id": "28", "title": "동백꽃", "cover": "../images/works/15. 동백꽃 김유정.png" },
+    { "id": "29", "title": "산골나그네", "cover": "../images/works/15. 산골나그네 김유정.png" },
+    { "id": "31", "title": "봄봄", "cover": "../images/works/15. 봄봄 김유정.png" }
+  ],
+  "related": [
+    { "id": "r24", "title": "김유정", "cover": "../images/연관/15. 김유정.png" },
+    { "id": "r25", "title": "몽실언니", "cover": "../images/연관/15. 몽실언니.png" },
+    { "id": "r26", "title": "태평천하", "cover": "../images/연관/15. 태평천하.png" }
+  ]
+}
+,
+
+{
+  "id": "31",
+  "title": "봄봄(1935)",
+  "cover": "../images/works/15. 봄봄 김유정.png",
+  "genre": "단편소설",
+  "theme": " 우직하고 바보스러운 인물과 순진한 사람의 노동력을 교묘히 착취하는 인물로, 등장인물을 향한 독자들의 기대감과 실제 등장인물을 조종하면서 소설가가 만들어내는 행위간의 마찰과 간극에서 벌어지는 희화화된 인간관계를 다룬 작품이다.",
+  "table_summary": {
+    "labels": { "table": "목차", "summary": "줄거리" },
+    "table": "봄봄\n동백꽃\n땡볕\n만무방\n따라지\n금 따는 콩밭",
+    "summary": "봄봄: 작품의 서술자이면서 주인공인 ‘나’는 3년을 훨씬 넘도록 봉필이라는 마름의 딸 점순이와 혼인하기 위하여 돈 한 푼 안 받고 데릴사위로서 약정된 머슴노릇을 한다. ‘나’는 어서 빨리 점순이와 혼인을 하고 싶으나, 그럼으로써 노동력이 손실될까 우려하는 봉필의 욕심 때문에 그 소망은 번번이 좌절된다. 봉필의 상투적인 이유는 점순이가 채 자라지 않았기 때문이라는 것이다. 순진하고 우직한 ‘나’는 내심으로 얼른 점순이의 키가 커주기를 빌기도 하고, 태업을 부리기도 한다. 그러나 봉필의 교묘한 농간에 의하여 언제나 일방적으로 패배한다. 그러던 어느 날, 친구의 부추김과 점순이의 묘한 반응에 자극을 받은 ‘나’는 관격(關格: 체하여 먹지도 못하고 대소변도 못 보는 위급한 병)을 빙자한 결정적인 태업으로 시위를 벌인다. 역시 결과는 봉필의 공갈과 매질로 이어지지만 ‘나’는 이번에는 지지 않고 결사적으로 장인의 급소를 붙잡고 늘어진다. 그런데 이 때, 성례 요구를 종용했고 내 편을 들어주리라 믿었던 점순이가 장인 편에 서서 자신을 비난하는 바람에 ‘나’는 맥이 모두 빠져버린다."
+  },
+  "author": {
+    "name": "김유정",
+    "photo": "../images/writers/김유정.png",
+    "bio": "그의 작품의 성향은 크게 세가지로 나눌 수 있다. 먼저, 그는 실감나는 농촌소설을 썼다. 당시의 농민의 고단한 삶이 작품 속에 그대로 배어있다. 둘째, 김유정의 작품은 우리 전통 마당극이나 탈춤, 판소리 등에서 만나는 어조와 해학적인 웃음처럼 우스운 말이나 행동을 통하여 대상의 결함과 비리를 드러낸다. 그러나 풍자극이 대상과 대립하여 비꼬는 방법을 쓰는 반면에, 김유정의 해학은 이런 맥을 같이 하면서도 대상을 한층 넓고 깊게 통찰하면서 동정적으로 감싸 주는 방법을 사용한다. 감칠맛 나는 속어, 비어와 눙치는 어법으로 당시 농촌의 만무방과 도시 따라지들의 슬픈 이야기를 천연덕스럽게 판소리처럼 들려준다. 셋째, 유난히 김유정의 작품에는 아리랑이 많이 등장한다. 그래서 그는 아리랑의 작가라고도 할 수 있다.",
+    "link": "/html/author_detail.html?id=김유정"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keywordType5=isbn&keywordType6=UB&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP&titleType=equal&title=봄봄&author=김유정&ufKey=",
+  "museum": {
+    "name": "김유정문학촌",
+    "photo": "../images/문학관/김유정.jpg",
+    "link": "/html/kimyoujeung.html"
+  },
+  "major": [
+    { "id": "28", "title": "동백꽃", "cover": "../images/works/15. 동백꽃 김유정.png" },
+    { "id": "29", "title": "산골나그네", "cover": "../images/works/15. 산골나그네 김유정.png" },
+    { "id": "30", "title": "소낙비", "cover": "../images/works/15. 소낙비 김유정.png" }
+  ],
+  "related": [
+    { "id": "r24", "title": "김유정", "cover": "../images/연관/15. 김유정.png" },
+    { "id": "r25", "title": "몽실언니", "cover": "../images/연관/15. 몽실언니.png" },
+    { "id": "r26", "title": "태평천하", "cover": "../images/연관/15. 태평천하.png" }
+  ]
+}
+,
 
   {
-    "id": "33",
-    "title": "황토기(1939)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": "황토골에 얽힌 설화와 더불어, '억쇠'와 '득보'라는 두 인물의 삶을 통해 가혹한 운명, 인간 본연의 원초적인 고뇌와 한을 보여준다. 또한, 억압적인 현실 속에서 구원받지 못하고 저주받은 피의 상속성, 그리고 삶의 허무함과 같은 김동리 문학의 주요 특징을 담고 있다.",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "발간사\n무녀도\n황토기\n역마\n... 외",
-      "summary":"황토기: 작품 초두에는 용이 등천의 기회를 놓치고 굴러 떨어져 흘린 피요, 혈을 찔려 맥이 끊어진 산이 흘린 피로 이루어졌다는 상룡설(傷龍說) 및 절맥설(絶脈說)의 황토골 유래로써, 추락과 저주 및 거세의 함축적 의미를 제시한다. 이러한 전락과 하강 및 거세의 숙명을 상속받은 황토골에서 억쇠와 득보라는 두 사람의 장사가 무모한 힘겨룸을 벌인다."
-    },
-    "author": {
-      "name": "김동리",
-      "photo": "사진",
-      "bio": "작가 김동리의 작품 성향은 민족적이고 토착적인 소재를 바탕으로 인간 본질을 깊이 탐구하는 순수문학을 지향한다. 주요 특징으로는 무속, 기독교, 불교 등 전통적이고 종교적인 요소를 다루며, 설화적, 역사적, 현실적 세계를 넘나들고, 인간의 생명과 원형질적 정수를 탐구하는 작품 세계를 보인다. 소설작품에서는 우파의 정치적 관점을 적극적으로 투영시키는 작품을 발표하는 경향을 보이기도 했다.",
-      "link": "author_detail.html?id=김동리"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%ED%99%A9%ED%86%A0%EA%B8%B0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22944726&bibPageSize=50&bibPageNum=1&bibEdit=&bibSortField=pub_year&bibSortOrder=asc&publishFormCode=BO&bibKey=163012175",
-    "museum": {
-      "name": "동리목월 문학관",
-      "photo": "사진",
-      "link": "동리목월.html"
-    },
-    "major": [
-      { "id": "32", "title": "무녀도", "cover": "표지" },
-      { "id": "34", "title": "등신불", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r27", "title": "갯마을", "cover": "표지" },
-      { "id": "r28", "title": "동백꽃", "cover": "표지" }
-    ]
+  "id": "32",
+  "title": "무녀도(1936)",
+  "cover": "../images/works/21. 무녀도 김동리.png",
+  "genre": "단편소설",
+  "theme": "전통 토속 신앙과 서양 기독교 신앙의 대립 속에서 변해가는 시대에 소멸해가는 것을 지키려는 인간의 비극적인 운명이다. 또한 무속 신앙과 기독교 신앙의 갈등으로 인한 혈육 간의 비극적인 파국을 다루고 있다.",
+  "table_summary": {
+    "labels": { "table": "목차", "summary":"줄거리" },
+    "table": "발간사\n무녀도\n황토기\n역마\n... 외",
+    "summary": "무녀도: 전체의 구성은 김동리 소설에서 흔히 보이는 액자구조로서, 이야기 속에 또 하나의 이야기가 담겨져, 이중(二重)의 허구화현상(虛構化現象), 즉 내부 이야기에 대한 호기심 유발과 그것의 인증기능(認證機能)을 하고 있다. 한편, 내부 이야기도 모화와 욱이의 극적인 갈등이 중심을 이루면서 발단-전개-절정-대단원의 견고한 짜임을 보여준다."
   },
-
-  {
-    "id": "34",
-    "title": "등신불(1961)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": "인간의 번민과 고통의 종교적 승화, 그리고 존재의 본질 탐구한 작품이다. 어머니의 죄업을 대신 씻기 위해 자신의 몸을 태워 부처님께 공양 올리는 등신불 설화를 통해, 현실의 고통에서 벗어나고자 하는 인간의 구원 의지를 불교적 이념과 결합하여 심오하게 그린다.",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "등신불\n무녀도\n역마\n... 외",
-      "summary":"등신불: '나'는 정원사를 찾게 된 연유를 밝힘. 학병인 '나'는 진기수 씨의 도움으로 탈출해 정원사에 도착함. 정원사의 금불각에 모셔진 등신불을 본 '나'는 충격을 받음. 청운의 이야기를 들은 '나'는 등신불에 대해 의문을 가짐. 원혜 대사가 만적의 기록을 읽게 하고 그에 대한 이야기를 들려줌. 원혜 대사는 소신공양과 '나'가 한 단지 행위의 유사성을 은근히 빗댐."
-    },
-    "author": {
-      "name": "김동리",
-      "photo": "사진",
-      "bio": "작가 김동리의 작품 성향은 민족적이고 토착적인 소재를 바탕으로 인간 본질을 깊이 탐구하는 순수문학을 지향한다. 주요 특징으로는 무속, 기독교, 불교 등 전통적이고 종교적인 요소를 다루며, 설화적, 역사적, 현실적 세계를 넘나들고, 인간의 생명과 원형질적 정수를 탐구하는 작품 세계를 보인다. 소설작품에서는 우파의 정치적 관점을 적극적으로 투영시키는 작품을 발표하는 경향을 보이기도 했다.",
-      "link": "author_detail.html?id=김동리"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EB%93%B1%EC%8B%A0%EB%B6%88&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22968460&bibPageSize=100&bibPageNum=1&bibEdit=&bibSortField=pub_year&bibSortOrder=asc&publishFormCode=BO&bibKey=185354021",
-    "museum": {
-      "name": "동리목월 문학관",
-      "photo": "사진",
-      "link": "동리목월.html"
-    },
-    "major": [
-      { "id": "32", "title": "무녀도", "cover": "표지" },
-      { "id": "33", "title": "황토기", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r27", "title": "갯마을", "cover": "표지" },
-      { "id": "r28", "title": "동백꽃", "cover": "표지" }
-    ]
-  },  
-
-  {
-    "id": "35",
-    "title": "산도화(1968)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "보랏빛 구강산의 고요함 속에서 산도화 두어 송이가 절제된 아름다움을 드러낸다. 세속을 떠난 그곳에서 봄눈 녹은 옥 같은 시냇물에 암사슴이 평화롭게 발을 씻는, 티 없이 맑고 고결한 이상 세계를 동양화처럼 그려낸 시다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "구강산\n청노루\n나그네\n산도화\n산색\n... 외"
-    },
-    "poem": "산은\n구강산\n보랏빛 석산\n\n산도화\n두어 송이\n송이 버는데\n\n봄눈 녹아 흐르는\n옥 같은\n물에\n\n사슴은\n암사슴\n발을 씻는다",
-    "author": {
-      "name": "박목월",
-      "photo": "사진",
-      "bio": "동심의 소박성, 민요풍, 향토성이 조화를 이룬 자연친화적인 작품을 발표하여 특유의 전통적 시풍을 이룩하고자 했던 작가이며, 삶과 죽음의 관계를 보다 여유 있게 바라보고자 하는 정신적 달관의 자세를 보여주고 있다.",
-      "link": "author_detail.html?id=박목월"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B2%BD%EC%83%81%EB%8F%84%EC%9D%98+%EA%B0%80%EB%9E%91%EC%9E%8E&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=23876583&bibPageSize=10&bibPageNum=1&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=1559289",
-    "museum": {
-      "name": "동리목월 문학관",
-      "photo": "사진",
-      "link": "동리목월.html"
-    },
-    "major": [
-      { "id": "36", "title": "경상도의 가랑잎", "cover": "표지" },
-      { "id": "37", "title": "산새알 물새알", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r29", "title": "강아지똥", "cover": "표지" },
-      { "id": "r30", "title": "남신의주 유동 박시봉방", "cover": "표지" }
-    ]
+  "author": {
+    "name": "김동리",
+    "photo": "../images/writers/김동리.png",
+    "bio": "작가 김동리의 작품 성향은 민족적이고 토착적인 소재를 바탕으로 인간 본질을 깊이 탐구하는 순수문학을 지향한다. 주요 특징으로는 무속, 기독교, 불교 등 전통적이고 종교적인 요소를 다루며, 설화적, 역사적, 현실적 세계를 넘나들고, 인간의 생명과 원형질적 정수를 탐구하는 작품 세계를 보인다. 소설작품에서는 우파의 정치적 관점을 적극적으로 투영시키는 작품을 발표하는 경향을 보이기도 했다.",
+    "link": "/html/author_detail.html?id=김동리"
   },
-
-  {
-    "id": "36",
-    "title": "경상도의 가랑잎(1968)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "고통스러운 현실을 강인한 생명력이나 모성적 포용력으로 극복하려는 의지가 담겨있다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "蘭艸 잎새\n壁\n隕石\n落書\n春分\n無題\n... 외"
-    },
-    "poem": "그만 일로 이 사람아.\n죄면할 게 뭐고.\n누구나\n눈 감으면 뫼로 간데이.\n돈, 돈 하지만\n돈이 뭐게.\n돈 가지고\n옛 情 살 줄 아나.\n그만 일로\n訟事할 건 또 뭐고.\n쑥 나거던\n쑥국 끓이고\n햇죽순 돋으면\n죽순 안주 삼아\n한 잔 얼근하게 하기만 하면\n세상에 안 풀릴게\n뭐 있노.\n사람 살면\n百年 살 건가 萬年을 살 건가.\n그러지 말재이.\n후끈후끈 아랫목 같이 살아도\n다 못 사는 사람 평생\n니 와 모르노.",
-    "author": {
-      "name": "박목월",
-      "photo": "사진",
-      "bio": "동심의 소박성, 민요풍, 향토성이 조화를 이룬 자연친화적인 작품을 발표하여 특유의 전통적 시풍을 이룩하고자 했던 작가이며, 삶과 죽음의 관계를 보다 여유 있게 바라보고자 하는 정신적 달관의 자세를 보여주고 있다.",
-      "link": "author_detail.html?id=박목월"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B2%BD%EC%83%81%EB%8F%84%EC%9D%98+%EA%B0%80%EB%9E%91%EC%9E%8E&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=23876583&bibPageSize=10&bibPageNum=1&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=1559289",
-    "museum": {
-      "name": "동리목월 문학관",
-      "photo": "사진",
-      "link": "동리목월.html"
-    },
-    "major": [
-      { "id": "35", "title": "산도화", "cover": "표지" },
-      { "id": "37", "title": "산새알 물새알", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r29", "title": "강아지똥", "cover": "표지" },
-      { "id": "r30", "title": "남신의주 유동 박시봉방", "cover": "표지" }
-    ]
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=%EB%AC%B8%ED%95%99%5E%EB%AC%B8%ED%95%99&facetLang=&keywordType1=total&keyword1=%EB%AC%B4%EB%85%80%EB%8F%84&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22910537&bibPageSize=10&bibPageNum=2&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=41632",
+  "museum": {
+    "name": "동리목월 문학관",
+    "photo": "../images/문학관/김동리.jpg",
+    "link": "/html/동리목월.html"
   },
+  "major": [
+    { "id": "33", "title": "황토기", "cover": "../images/works/21. 황토기 김동리.png" },
+    { "id": "34", "title": "등신불", "cover": "../images/works/21. 등신불 김동리.png" }
+  ],
+  "related": [
+    { "id": "r27", "title": "갯마을", "cover": "../images/연관/21. 갯마을.png" },
+    { "id": "r28", "title": "동백꽃", "cover": "../images/연관/21. 동백꽃.png" }
+  ]
+}
+,
 
-  {
-    "id": "37",
-    "title": "산새알 물새알(1962)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "이 시는 각기 다른 환경과 특성을 지닌 산새알과 물새알의 모습을 통해, 자연 속 모든 생명체가 지니고 있는 고유한 아름다움과 생명의 탄생이 가져다주는 신비로움, 그리고 자연과의 조화 속에서 피어나는 순수한 동심의 세계를 노래하고 있다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "제1부 다람다람 다람쥐\n다람다람 다람쥐\n얼룩 송아지\n이야깃길\n토끼와 귀\n토끼 길\n토끼 방아 찧는 노래\n가랑비\n눈과 당나귀\n여우비\n... 외"
-    },
-    "poem": "물새는\n물새래서 바닷가 모래밭에\n알을 낳는다.\n보얗게 하얀\n물새알.\n\n산새는\n산새래서 잎 수풀 둥지 안에\n알을 낳는다.\n알락달락 얼룩진\n산새알.\n\n물새알은\n간간하고 짭짜름한\n미역냄새\n\n바람냄새\n\n산새알은\n달콤하고 향긋한\n풀꽃냄새\n이슬냄새\n\n물새알은\n물새알이래서\n아아 날개쭉지 하얀\n물새가 된다.\n\n산새알은\n산새알이래서\n머리꼭지에 빨강 댕기를 드린\n산새가 된다.",
-    "author": {
-      "name": "박목월",
-      "photo": "사진",
-      "bio": "동심의 소박성, 민요풍, 향토성이 조화를 이룬 자연친화적인 작품을 발표하여 특유의 전통적 시풍을 이룩하고자 했던 작가이며, 삶과 죽음의 관계를 보다 여유 있게 바라보고자 하는 정신적 달관의 자세를 보여주고 있다.",
-      "link": "author_detail.html?id=박목월"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%82%B0%EC%83%88%EC%95%8C+%EB%AC%BC%EC%83%88%EC%95%8C&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=24080455&bibPageSize=10&bibPageNum=1&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=20238048",
-    "museum": {
-      "name": "동리목월 문학관",
-      "photo": "사진",
-      "link": "동리목월.html"
-    },
-    "major": [
-      { "id": "35", "title": "산도화", "cover": "표지" },
-      { "id": "36", "title": "경상도의 가랑잎", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r29", "title": "강아지똥", "cover": "표지" },
-      { "id": "r30", "title": "남신의주 유동 박시봉방", "cover": "표지" }
-    ]
+{
+  "id": "33",
+  "title": "황토기(1939)",
+  "cover": "../images/works/21. 황토기 김동리.png",
+  "genre": "단편소설",
+  "theme": "황토골에 얽힌 설화와 더불어, '억쇠'와 '득보'라는 두 인물의 삶을 통해 가혹한 운명, 인간 본연의 원초적인 고뇌와 한을 보여준다. 또한, 억압적인 현실 속에서 구원받지 못하고 저주받은 피의 상속성, 그리고 삶의 허무함과 같은 김동리 문학의 주요 특징을 담고 있다.",
+  "table_summary": {
+    "labels": { "table": "목차", "summary":"줄거리" },
+    "table": "발간사\n무녀도\n황토기\n역마\n... 외",
+    "summary": "황토기: 작품 초두에는 용이 등천의 기회를 놓치고 굴러 떨어져 흘린 피요, 혈을 찔려 맥이 끊어진 산이 흘린 피로 이루어졌다는 상룡설(傷龍說) 및 절맥설(絶脈說)의 황토골 유래로써, 추락과 저주 및 거세의 함축적 의미를 제시한다. 이러한 전락과 하강 및 거세의 숙명을 상속받은 황토골에서 억쇠와 득보라는 두 사람의 장사가 무모한 힘겨룸을 벌인다."
   },
+  "author": {
+    "name": "김동리",
+    "photo": "../images/writers/김동리.png",
+    "bio": "작가 김동리의 작품 성향은 민족적이고 토착적인 소재를 바탕으로 인간 본질을 깊이 탐구하는 순수문학을 지향한다. 주요 특징으로는 무속, 기독교, 불교 등 전통적이고 종교적인 요소를 다루며, 설화적, 역사적, 현실적 세계를 넘나들고, 인간의 생명과 원형질적 정수를 탐구하는 작품 세계를 보인다. 소설작품에서는 우파의 정치적 관점을 적극적으로 투영시키는 작품을 발표하는 경향을 보이기도 했다.",
+    "link": "/html/author_detail.html?id=김동리"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%ED%99%A9%ED%86%A0%EA%B8%B0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22944726&bibPageSize=50&bibPageNum=1&bibEdit=&bibSortField=pub_year&bibSortOrder=asc&publishFormCode=BO&bibKey=163012175",
+  "museum": {
+    "name": "동리목월 문학관",
+    "photo": "../images/문학관/김동리.jpg",
+    "link": "/html/동리목월.html"
+  },
+  "major": [
+    { "id": "32", "title": "무녀도", "cover": "../images/works/21. 무녀도 김동리.png" },
+    { "id": "34", "title": "등신불", "cover": "../images/works/21. 등신불 김동리.png" }
+  ],
+  "related": [
+    { "id": "r27", "title": "갯마을", "cover": "../images/연관/21. 갯마을.png" },
+    { "id": "r28", "title": "동백꽃", "cover": "../images/연관/21. 동백꽃.png" }
+  ]
+}
+,
 
-  {
-    "id": "38",
-    "title": "광야(曠野, 1945)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "일제강점기라는 암울한 현실을 극복하고 조국 광복을 이루려는 강인한 의지와 미래에 대한 희망적 신념을 드러낸 시다. 시인은 혹독한 현실 속에서도 굴하지 않는 의지를 강건한 남성적 어조와 상징적인 시어를 통해 나타낸다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "1 한 개의 별을 노래하자\n말\n春愁 三題\n失題\n황혼\n한 개의 별을 노래하자\n海潮詞\n路程記\n... 외"
-    },
-    "poem": "까마득한 날에\n하늘이 처음 열리고\n어데 닭 우는 소리 들렸으랴\n\n모든 산맥(山脉)들이\n바다를 연모해 휘달릴 때도\n차마 이곳을 범하던 못하였으리라\n\n끊임없는 광음(光陰)을\n부지런한 계절이 피어선 지고\n큰 강물이 비로소 길을 열었다\n\n지금 눈 내리고\n매화향기 홀로 아득하니\n내 여기 가난한 노래의 씨를 뿌려라\n\n다시 천고(千古)의 뒤에\n백마 타고 오는 초인(超人)이 있어\n이 광야에서 목 놓아 부르게 하리라",
-    "author": {
-      "name": "이육사",
-      "photo": "사진",
-      "bio": "강인한 저항 의지와 조국 광복에 대한 뜨거운 열망을 특징이다. 그는 일제 강점기라는 어두운 시대적 배경 속에서 민족의 고통과 희망을 노래했으며, 이를 위해 남성적이고 의지적인 어조, 상징적 시어, 부정의 어미를 반복하는 등의 기법을 사용했다. 그의 시는 단순한 정감을 넘어 불의에 맞서는 정신적 의지를 강렬하게 드러난다. ",
-      "link": "author_detail.html?id=이육사"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B4%91%EC%95%BC&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=23425687&bibPageSize=10&bibPageNum=2&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=670964",
-    "museum": {
-      "name": "이육사 문학관",
-      "photo": "사진",
-      "link": "leeyuksa.html"
-    },
-    "major": [
-      { "id": "39", "title": "청포도", "cover": "표지" },
-      { "id": "40", "title": "광인의 태양 ", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r31", "title": "해는 요즘도 아침에 뜨겠죠", "cover": "표지" },
-      { "id": "r32", "title": "별헤는 밤", "cover": "표지" }
-    ]
+ {
+  "id": "34",
+  "title": "등신불(1961)",
+  "cover": "../images/works/21. 등신불 김동리.png",
+  "genre": "단편소설",
+  "theme": "인간의 번민과 고통의 종교적 승화, 그리고 존재의 본질 탐구한 작품이다. 어머니의 죄업을 대신 씻기 위해 자신의 몸을 태워 부처님께 공양 올리는 등신불 설화를 통해, 현실의 고통에서 벗어나고자 하는 인간의 구원 의지를 불교적 이념과 결합하여 심오하게 그린다.",
+  "table_summary": {
+    "labels": { "table": "목차", "summary": "줄거리" },
+    "table": "등신불\n무녀도\n역마\n... 외",
+    "summary": "등신불: '나'는 정원사를 찾게 된 연유를 밝힘. 학병인 '나'는 진기수 씨의 도움으로 탈출해 정원사에 도착함. 정원사의 금불각에 모셔진 등신불을 본 '나'는 충격을 받음. 청운의 이야기를 들은 '나'는 등신불에 대해 의문을 가짐. 원혜 대사가 만적의 기록을 읽게 하고 그에 대한 이야기를 들려줌. 원혜 대사는 소신공양과 '나'가 한 단지 행위의 유사성을 은근히 빗댐."
   },
+  "author": {
+    "name": "김동리",
+    "photo": "../images/writers/김동리.png",
+    "bio": "작가 김동리의 작품 성향은 민족적이고 토착적인 소재를 바탕으로 인간 본질을 깊이 탐구하는 순수문학을 지향한다. 주요 특징으로는 무속, 기독교, 불교 등 전통적이고 종교적인 요소를 다루며, 설화적, 역사적, 현실적 세계를 넘나들고, 인간의 생명과 원형질적 정수를 탐구하는 작품 세계를 보인다. 소설작품에서는 우파의 정치적 관점을 적극적으로 투영시키는 작품을 발표하는 경향을 보이기도 했다.",
+    "link": "/html/author_detail.html?id=김동리"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EB%93%B1%EC%8B%A0%EB%B6%88&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22968460&bibPageSize=100&bibPageNum=1&bibEdit=&bibSortField=pub_year&bibSortOrder=asc&publishFormCode=BO&bibKey=185354021",
+  "museum": {
+    "name": "동리목월 문학관",
+    "photo": "../images/문학관/김동리.jpg",
+    "link": "/html/동리목월.html"
+  },
+  "major": [
+    { "id": "32", "title": "무녀도", "cover": "../images/works/21. 무녀도 김동리.png" },
+    { "id": "33", "title": "황토기", "cover": "../images/works/21. 황토기 김동리.png" }
+  ],
+  "related": [
+    { "id": "r27", "title": "갯마을", "cover": "../images/연관/21. 갯마을.png" },
+    { "id": "r28", "title": "동백꽃", "cover": "../images/연관/21. 동백꽃.png" }
+  ]
+}
+,  
+
+{
+  "id": "35",
+  "title": "산도화(1968)",
+  "cover": "../images/works/21. 산도화 박목월.png",
+  "genre": "시",
+  "theme": "보랏빛 구강산의 고요함 속에서 산도화 두어 송이가 절제된 아름다움을 드러낸다. 세속을 떠난 그곳에서 봄눈 녹은 옥 같은 시냇물에 암사슴이 평화롭게 발을 씻는, 티 없이 맑고 고결한 이상 세계를 동양화처럼 그려낸 시다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "구강산\n청노루\n나그네\n산도화\n산색\n... 외"
+  },
+  "poem": "산은\n구강산\n보랏빛 석산\n\n산도화\n두어 송이\n송이 버는데\n\n봄눈 녹아 흐르는\n옥 같은\n물에\n\n사슴은\n암사슴\n발을 씻는다",
+  "author": {
+    "name": "박목월",
+    "photo": "../images/writers/박목월.png",
+    "bio": "동심의 소박성, 민요풍, 향토성이 조화를 이룬 자연친화적인 작품을 발표하여 특유의 전통적 시풍을 이룩하고자 했던 작가이며, 삶과 죽음의 관계를 보다 여유 있게 바라보고자 하는 정신적 달관의 자세를 보여주고 있다.",
+    "link": "/html/author_detail.html?id=박목월"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B2%BD%EC%83%81%EB%8F%84%EC%9D%98+%EA%B0%80%EB%9E%91%EC%9E%8E&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=23876583&bibPageSize=10&bibPageNum=1&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=1559289",
+  "museum": {
+    "name": "동리목월 문학관",
+    "photo": "../images/문학관/박목월.jpg",
+    "link": "/html/동리목월.html"
+  },
+  "major": [
+    { "id": "36", "title": "경상도의 가랑잎", "cover": "../images/works/21. 경상도의 가랑잎 박목월.png" },
+    { "id": "37", "title": "산새알 물새알", "cover": "../images/works/21. 산새알 물새알 박목월.png" }
+  ],
+  "related": [
+    { "id": "r29", "title": "강아지똥", "cover": "../images/연관/21. 강아지똥.png" },
+    { "id": "r30", "title": "남신의주 유동 박시봉방", "cover": "../images/연관/21. 남신의주 유동 박시봉방.png" }
+  ]
+}
+,
+
+ {
+  "id": "36",
+  "title": "경상도의 가랑잎(1968)",
+  "cover": "../images/works/21. 경상도의 가랑잎 박목월.png",
+  "genre": "시",
+  "theme": "고통스러운 현실을 강인한 생명력이나 모성적 포용력으로 극복하려는 의지가 담겨있다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "蘭艸 잎새\n壁\n隕石\n落書\n春分\n無題\n... 외"
+  },
+  "poem": "그만 일로 이 사람아.\n죄면할 게 뭐고.\n누구나\n눈 감으면 뫼로 간데이.\n돈, 돈 하지만\n돈이 뭐게.\n돈 가지고\n옛 情 살 줄 아나.\n그만 일로\n訟事할 건 또 뭐고.\n쑥 나거던\n쑥국 끓이고\n햇죽순 돋으면\n죽순 안주 삼아\n한 잔 얼근하게 하기만 하면\n세상에 안 풀릴게\n뭐 있노.\n사람 살면\n百年 살 건가 萬年을 살 건가.\n그러지 말재이.\n후끈후끈 아랫목 같이 살아도\n다 못 사는 사람 평생\n니 와 모르노.",
+  "author": {
+    "name": "박목월",
+    "photo": "../images/writers/박목월.png",
+    "bio": "동심의 소박성, 민요풍, 향토성이 조화를 이룬 자연친화적인 작품을 발표하여 특유의 전통적 시풍을 이룩하고자 했던 작가이며, 삶과 죽음의 관계를 보다 여유 있게 바라보고자 하는 정신적 달관의 자세를 보여주고 있다.",
+    "link": "/html/author_detail.html?id=박목월"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B2%BD%EC%83%81%EB%8F%84%EC%9D%98+%EA%B0%80%EB%9E%91%EC%9E%8E&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=23876583&bibPageSize=10&bibPageNum=1&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=1559289",
+  "museum": {
+    "name": "동리목월 문학관",
+    "photo": "../images/문학관/박목월.jpg",
+    "link": "/html/동리목월.html"
+  },
+  "major": [
+    { "id": "35", "title": "산도화", "cover": "../images/works/21. 산도화 박목월.png" },
+    { "id": "37", "title": "산새알 물새알", "cover": "../images/works/21. 산새알 물새알 박목월.png" }
+  ],
+  "related": [
+    { "id": "r29", "title": "강아지똥", "cover": "../images/연관/21. 강아지똥.png" },
+    { "id": "r30", "title": "남신의주 유동 박시봉방", "cover": "../images/연관/21. 남신의주 유동 박시봉방.png" }
+  ]
+}
+,
+
+{
+  "id": "37",
+  "title": "산새알 물새알(1962)",
+  "cover": "../images/works/21. 산새알 물새알 박목월.png",
+  "genre": "시",
+  "theme": "이 시는 각기 다른 환경과 특성을 지닌 산새알과 물새알의 모습을 통해, 자연 속 모든 생명체가 지니고 있는 고유한 아름다움과 생명의 탄생이 가져다주는 신비로움, 그리고 자연과의 조화 속에서 피어나는 순수한 동심의 세계를 노래하고 있다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "제1부 다람다람 다람쥐\n다람다람 다람쥐\n얼룩 송아지\n이야깃길\n토끼와 귀\n토끼 길\n토끼 방아 찧는 노래\n가랑비\n눈과 당나귀\n여우비\n... 외"
+  },
+  "poem": "물새는\n물새래서 바닷가 모래밭에\n알을 낳는다.\n보얗게 하얀\n물새알.\n\n산새는\n산새래서 잎 수풀 둥지 안에\n알을 낳는다.\n알락달락 얼룩진\n산새알.\n\n물새알은\n간간하고 짭짜름한\n미역냄새\n\n바람냄새\n\n산새알은\n달콤하고 향긋한\n풀꽃냄새\n이슬냄새\n\n물새알은\n물새알이래서\n아아 날개쭉지 하얀\n물새가 된다.\n\n산새알은\n산새알이래서\n머리꼭지에 빨강 댕기를 드린\n산새가 된다.",
+  "author": {
+    "name": "박목월",
+    "photo": "../images/writers/박목월.png",
+    "bio": "동심의 소박성, 민요풍, 향토성이 조화를 이룬 자연친화적인 작품을 발표하여 특유의 전통적 시풍을 이룩하고자 했던 작가이며, 삶과 죽음의 관계를 보다 여유 있게 바라보고자 하는 정신적 달관의 자세를 보여주고 있다.",
+    "link": "/html/author_detail.html?id=박목월"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%82%B0%EC%83%88%EC%95%8C+%EB%AC%BC%EC%83%88%EC%95%8C&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=24080455&bibPageSize=10&bibPageNum=1&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=20238048",
+  "museum": {
+    "name": "동리목월 문학관",
+    "photo": "../images/문학관/박목월.jpg",
+    "link": "/html/동리목월.html"
+  },
+  "major": [
+    { "id": "35", "title": "산도화", "cover": "../images/works/21. 산도화 박목월.png" },
+    { "id": "36", "title": "경상도의 가랑잎", "cover": "../images/works/21. 경상도의 가랑잎 박목월.png" }
+  ],
+  "related": [
+    { "id": "r29", "title": "강아지똥", "cover": "../images/연관/21. 강아지똥.png" },
+    { "id": "r30", "title": "남신의주 유동 박시봉방", "cover": "../images/연관/21. 남신의주 유동 박시봉방.png" }
+  ]
+}
+,
+
+ {
+  "id": "38",
+  "title": "광야(曠野, 1945)",
+  "cover": "../images/works/22. 광야 이육사.png",
+  "genre": "시",
+  "theme": "일제강점기라는 암울한 현실을 극복하고 조국 광복을 이루려는 강인한 의지와 미래에 대한 희망적 신념을 드러낸 시다. 시인은 혹독한 현실 속에서도 굴하지 않는 의지를 강건한 남성적 어조와 상징적인 시어를 통해 나타낸다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "1 한 개의 별을 노래하자\n말\n春愁 三題\n失題\n황혼\n한 개의 별을 노래하자\n海潮詞\n路程記\n... 외"
+  },
+  "poem": "까마득한 날에\n하늘이 처음 열리고\n어데 닭 우는 소리 들렸으랴\n\n모든 산맥(山脉)들이\n바다를 연모해 휘달릴 때도\n차마 이곳을 범하던 못하였으리라\n\n끊임없는 광음(光陰)을\n부지런한 계절이 피어선 지고\n큰 강물이 비로소 길을 열었다\n\n지금 눈 내리고\n매화향기 홀로 아득하니\n내 여기 가난한 노래의 씨를 뿌려라\n\n다시 천고(千古)의 뒤에\n백마 타고 오는 초인(超人)이 있어\n이 광야에서 목 놓아 부르게 하리라",
+  "author": {
+    "name": "이육사",
+    "photo": "../images/writers/이육사.png",
+    "bio": "강인한 저항 의지와 조국 광복에 대한 뜨거운 열망을 특징이다. 그는 일제 강점기라는 어두운 시대적 배경 속에서 민족의 고통과 희망을 노래했으며, 이를 위해 남성적이고 의지적인 어조, 상징적 시어, 부정의 어미를 반복하는 등의 기법을 사용했다. 그의 시는 단순한 정감을 넘어 불의에 맞서는 정신적 의지를 강렬하게 드러난다. ",
+    "link": "/html/author_detail.html?id=이육사"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B4%91%EC%95%BC&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=23425687&bibPageSize=10&bibPageNum=2&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=670964",
+  "museum": {
+    "name": "이육사 문학관",
+    "photo": "../images/문학관/이육사.jpg",
+    "link": "/html/leeyuksa.html"
+  },
+  "major": [
+    { "id": "39", "title": "청포도", "cover": "../images/works/22. 청포도 이육사.png" },
+    { "id": "40", "title": "광인의 태양 ", "cover": "../images/works/22. 광인의 태양 이육사.png" }
+  ],
+  "related": [
+    { "id": "r31", "title": "해는 요즘도 아침에 뜨겠죠", "cover": "../images/연관/22. 해는 요즘도 아침에 뜨겠죠.png" },
+    { "id": "r32", "title": "별헤는 밤", "cover": "../images/연관/22. 별헤는 밤.png" }
+  ]
+}
+,
 
   {
     "id": "39",
