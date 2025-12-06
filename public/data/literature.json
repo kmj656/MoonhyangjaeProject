@@ -25,12 +25,12 @@
     },
     "major": [
       { "id": "2", "title": "껍데기는 가라", "cover": "../images/works/01. 껍데기는 가라 신동엽.png" },
-      { "id": "3", "title": "신동엽 산문전집", "cover": "../images/works/01. 신동엽 산문전집 신동엽.png" }
+      { "id": "3", "title": "신동엽 산문전집", "cover": "../images/works/01. 신동엽 산문선집 신동엽.png" }
     ],
     "related": [
       { "id": "r1", "title": "파씨의 입문", "cover": "../images/연관/01. 파씨의 입문.png" },
-      { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "../images/연관/01.센티맨털도 하루 이틀.png" },
-      { "id": "r3", "title": "로기완을 만났다", "cover": "../images/연관/01.로기완을 만났다.png" }
+      { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "../images/연관/01. 센티맨털도 하루이틀.png" },
+      { "id": "r3", "title": "로기완을 만났다", "cover": "../images/연관/01. 로기완을 만났다.png" }
     ]
   },
 
