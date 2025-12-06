@@ -1,5 +1,5 @@
 [
- 
+
   {
     "id": "1",
     "title": "누가 하늘을 보았다 하는가(1969)",
@@ -21,7 +21,7 @@
     "museum": {
       "name": "신동엽 문학관",
       "photo": "../images/문학관/신동엽.jpg",
-      "link": " shindongyeop.html"
+      "link": "/html/shindongyeop.html"
     },
     "major": [
       { "id": "2", "title": "껍데기는 가라", "cover": "../images/works/01. 껍데기는 가라 신동엽.png" },
@@ -56,7 +56,7 @@
   "museum": {
     "name": "신동엽 문학관",
     "photo": "../images/문학관/신동엽.jpg",
-    "link": " shindongyeop.html"
+    "link": "/html/shindongyeop.html"
   },
   "major": [
     { "id": "1", "title": "누가 하늘을 보았다 하는가", "cover": "../images/works/01. 누가 하늘을 보았다 하는가 신동엽.png" },
@@ -90,7 +90,7 @@
   "museum": {
     "name": "신동엽 문학관",
     "photo": "../images/문학관/신동엽.jpg",
-    "link": " shindongyeop.html"
+    "link": "/html/shindongyeop.html"
   },
   "major": [
     { "id": "1", "title": "누가 하늘을 보았다 하는가", "cover": "../images/works/01. 누가 하늘을 보았다 하는가 신동엽.png" },
@@ -125,7 +125,7 @@
   "museum": {
     "name": "정지용 문학관",
     "photo": "../images/문학관/정지용.jpg",
-    "link": " jeongjiyong.html"
+    "link": "/html/jeongjiyong.html"
   },
   "major": [
     { "id": "5", "title": "별똥", "cover": "../images/works/02. 별똥 정지용.png" },
@@ -160,7 +160,7 @@
   "museum": {
     "name": "정지용 문학관",
     "photo": "../images/문학관/정지용.jpg",
-    "link": " jeongjiyong.html"
+    "link": "/html/jeongjiyong.html"
   },
   "major": [
     { "id": "4", "title": "백록담", "cover": "../images/works/02. 백록담 정지용.png" },
@@ -194,7 +194,7 @@
   "museum": {
     "name": "정지용 문학관",
     "photo": "../images/문학관/정지용.jpg",
-    "link": " jeongjiyong.html"
+    "link": "/html/jeongjiyong.html"
   },
   "major": [
     { "id": "4", "title": "백록담", "cover": "../images/works/02. 백록담 정지용.png" },
@@ -227,7 +227,7 @@
   "museum": {
     "name": "김홍신 문학관",
     "photo": "../images/문학관/김홍신.jpg",
-    "link": "kimhongshin.html"
+    "link": "/html/kimhongshin.html"
   },
   "major": [
     { "id": "8", "title": "칼날 위의 전쟁", "cover": "../images/works/03. 칼날 위의 전쟁 김홍신.png" },
@@ -261,7 +261,7 @@
   "museum": {
     "name": "김홍신 문학관",
     "photo": "../images/문학관/김홍신.jpg",
-    "link": "kimhongshin.html"
+    "link": "/html/kimhongshin.html"
   },
   "major": [
     { "id": "7", "title": "인간시장", "cover": "../images/works/03. 인간시장 김홍신.png" },
@@ -294,7 +294,7 @@
   "museum": {
     "name": "김홍신 문학관",
     "photo": "../images/문학관/김홍신.jpg",
-    "link": "kimhongshin.html"
+    "link": "/html/kimhongshin.html"
   },
   "major": [
     { "id": "7", "title": "인간시장", "cover": "../images/works/03. 인간시장 김홍신.png" },
@@ -329,7 +329,7 @@
   "museum": {
     "name": "백담사 만해문학박물관",
     "photo": "../images/문학관/백담사 만해문학박물관.jpg",
-    "link": "hanyongun.html"
+    "link": "/html/hanyongun.html"
   },
   "major": [
     { "id": "11", "title": "채근담", "cover": "../images/works/04. 채근담 한용운.png" },
@@ -363,7 +363,7 @@
   "museum": {
     "name": "백담사 만해문학박물관",
     "photo": "../images/문학관/백담사 만해문학박물관.jpg",
-    "link": "hanyongun.html"
+    "link": "/html/hanyongun.html"
   },
   "major": [
     { "id": "10", "title": "님의 침묵", "cover": "../images/works/04. 님의 침묵 한용운.png" },
@@ -398,7 +398,7 @@
   "museum": {
     "name": "백담사 만해문학박물관",
     "photo": "../images/문학관/한용운.jpg",
-    "link": "hanyongun.html"
+    "link": "/html/hanyongun.html"
   },
   "major": [
     { "id": "10", "title": "님의 침묵", "cover": "../images/works/04. 님의 침묵 한용운.png" },
@@ -432,7 +432,7 @@
   "museum": {
     "name": "한무숙 문학관",
     "photo": "../images/문학관/한무숙 문학관.jpg",
-    "link": "hanmoosook.html"
+    "link": "/html/hanmoosook.html"
   },
   "major": [
     { "id": "14", "title": "감정이 있는 심연", "cover": "../images/works/05. 감정이 있는 심연 한무숙.png" },
@@ -468,7 +468,7 @@
   "museum": {
     "name": "한무숙 문학관",
     "photo": "../images/문학관/한무숙.jpg",
-    "link": "hanmoosook.html"
+    "link": "/html/hanmoosook.html"
   },
   "major": [
     { "id": "13", "title": "역사는 흐른다", "cover": "../images/works/05. 역사는 흐른다 한무숙.png" },
