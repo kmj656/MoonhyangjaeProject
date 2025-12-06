@@ -1281,534 +1281,549 @@
 }
 ,
 
-  {
-    "id": "39",
-    "title": "청포도(靑葡萄, 1939)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "민족적 현실을 이겨내고 독립이라는 밝은 미래를 기다리는 간절한 마음을 표현한 작품이다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "광야(曠野)\n호수\n광인의 태양\n꽃\n나이 뮤즈\n소공원(小公園)\n청포도\n... 외"
-    },
-    "poem": "내 고향 칠월은\n청포도가 익어가는 시절\n\n이 마을 전설이 주저리주저리 열리고\n먼 데 하늘이 꿈꾸며 알알리 들어와 박혀\n\n하늘 밑 푸른 바다가 가슴을 열고\n흰 돛단배가 곱게 밀려서 오면\n\n내가 바라는 손님은 고달픈 몸으로\n청포(靑袍)를 입고 찾아온다고 했으니\n\n내 그를 맞아 이 포도를 따 먹으면\n두 손은 함뿍 적셔도 좋으련\n\n아이야, 우리 식탁엔 은쟁반에\n하이얀 모시 수건을 마련해두렴",
-    "author": {
-      "name": "이육사",
-      "photo": "사진",
-      "bio": "강인한 저항 의지와 조국 광복에 대한 뜨거운 열망을 특징이다. 그는 일제 강점기라는 어두운 시대적 배경 속에서 민족의 고통과 희망을 노래했으며, 이를 위해 남성적이고 의지적인 어조, 상징적 시어, 부정의 어미를 반복하는 등의 기법을 사용했다. 그의 시는 단순한 정감을 넘어 불의에 맞서는 정신적 의지를 강렬하게 드러난다. ",
-      "link": "author_detail.html?id=이육사"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%B2%AD%ED%8F%AC%EB%8F%84&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22991830&bibPageSize=10&bibPageNum=2&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=1835849",
-    "museum": {
-      "name": "이육사 문학관",
-      "photo": "사진",
-      "link": "leeyuksa.html"
-    },
-    "major": [
-      { "id": "38", "title": "광야(曠野)", "cover": "표지" },
-      { "id": "40", "title": "광인의 태양", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r31", "title": "해는 요즘도 아침에 뜨겠죠", "cover": "표지" },
-      { "id": "r32", "title": "별헤는 밤", "cover": "표지" }
-    ]
+{
+  "id": "39",
+  "title": "청포도(靑葡萄, 1939)",
+  "cover": "../images/works/22. 청포도 이육사.png",
+  "genre": "시",
+  "theme": "민족적 현실을 이겨내고 독립이라는 밝은 미래를 기다리는 간절한 마음을 표현한 작품이다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "광야(曠野)\n호수\n광인의 태양\n꽃\n나이 뮤즈\n소공원(小公園)\n청포도\n... 외"
   },
-  {
-    "id": "40",
-    "title": "광인의 태양(1940)",
-    "cover": "표지",
-    "genre": "시",
-    "theme": "1930~40년대 일제강점기라는 절망적인 시대 상황 속에서 광인(狂人)처럼 자신의 신념과 조국을 향한 숭고한 정신을 굽히지 않는 투사적 삶의 모습을 형상화한다. ",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "Ⅰ 강 건너간 노래\n소공원\n초가\n강 건너간 노래\n春愁三題\n失題\n청포도\n... 외"
-    },
-    "poem": "분명 라이플 선線을 튕겨서 올라\n그냥 화화 火華처럼 살아서 곱고\n오랜 나달 연초烟硝에 끄스른\n얼굴을 가리션 슬픈 공작선 孔雀扇\n거칠은 해협海峽마다 흘긴 눈초리\n항상 요충지대 要衝地帶를 노려가다.",
-    "author": {
-      "name": "이육사",
-      "photo": "사진",
-      "bio": "강인한 저항 의지와 조국 광복에 대한 뜨거운 열망을 특징이다. 그는 일제 강점기라는 어두운 시대적 배경 속에서 민족의 고통과 희망을 노래했으며, 이를 위해 남성적이고 의지적인 어조, 상징적 시어, 부정의 어미를 반복하는 등의 기법을 사용했다. 그의 시는 단순한 정감을 넘어 불의에 맞서는 정신적 의지를 강렬하게 드러난다. ",
-      "link": "author_detail.html?id=이육사"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultEditonList.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B4%91%EC%9D%B8%EC%9D%98+%ED%83%9C%EC%96%91&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22897292",
-    "museum": {
-      "name": "이육사 문학관",
-      "photo": "사진",
-      "link": "leeyuksa.html"
-    },
-    "major": [
-      { "id": "38", "title": "광야(曠野)", "cover": "표지" },
-      { "id": "39", "title": "청포도(靑葡萄)", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r31", "title": "해는 요즘도 아침에 뜨겠죠", "cover": "표지" },
-      { "id": "r32", "title": "별헤는 밤", "cover": "표지" }
-    ]
+  "poem": "내 고향 칠월은\n청포도가 익어가는 시절\n\n이 마을 전설이 주저리주저리 열리고\n먼 데 하늘이 꿈꾸며 알알리 들어와 박혀\n\n하늘 밑 푸른 바다가 가슴을 열고\n흰 돛단배가 곱게 밀려서 오면\n\n내가 바라는 손님은 고달픈 몸으로\n청포(靑袍)를 입고 찾아온다고 했으니\n\n내 그를 맞아 이 포도를 따 먹으면\n두 손은 함뿍 적셔도 좋으련\n\n아이야, 우리 식탁엔 은쟁반에\n하이얀 모시 수건을 마련해두렴",
+  "author": {
+    "name": "이육사",
+    "photo": "../images/writers/이육사.png",
+    "bio": "강인한 저항 의지와 조국 광복에 대한 뜨거운 열망을 특징이다. 그는 일제 강점기라는 어두운 시대적 배경 속에서 민족의 고통과 희망을 노래했으며, 이를 위해 남성적이고 의지적인 어조, 상징적 시어, 부정의 어미를 반복하는 등의 기법을 사용했다. 그의 시는 단순한 정감을 넘어 불의에 맞서는 정신적 의지를 강렬하게 드러난다. ",
+    "link": "/html/author_detail.html?id=이육사"
   },
-
-  {
-    "id": "41",
-    "title": "사랑에 대한 64가지 믿음(1995)",
-    "cover": "표지",
-    "genre": "수필",
-    "theme": "고통과 아픔 속에서도 희망을 잃지 않는 사랑의 가치와 인생의 모든 고통과 상처를 사랑을 통해 치유하고 극복하는 것이다. 이 책은 사랑의 본질을 성찰하고, 사랑이 없는 삶은 불가능하다는 메시지를 전달한다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "사랑에 대한 시인의 철학을 64가지 짧은 글로 담고 있다. 이 책은 사랑이 고통을 동반하며, 아픔을 통해 더욱 깊어질 수 있다는 시인의 생각을 보여준다. "
-    },
-    "author": {
-      "name": "정호승",
-      "photo": "사진",
-      "bio": "그의 작품은 일상어로 시를 쓰려는 노력이 보이며 쉬운 언어로 삶의 고통과 비극을 깊이 다루면서도, 이를 통해 인간에 대한 애정과 연민, 치유와 위안을 준다. 사랑, 외로움, 슬픔, 상처, 죽음 등 보편적인 인간의 고뇌를 노래하며, 이를 통해 독자에게 성찰의 기회를 제공하고 삶의 긍정적인 면모를 발견하게 한다.",
-      "link": "author_detail.html?id=정호승"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%82%AC%EB%9E%91%EC%97%90+%EB%8C%80%ED%95%9C+64%EA%B0%80%EC%A7%80+%EB%AF%BF%EC%9D%8C&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=23034443&bibPageSize=10&bibPageNum=1&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=39693",
-    "museum": {
-      "name": "정호승문학관",
-      "photo": "사진",
-      "link": " jeonhoseung.html"
-    },
-    "major": [
-      { "id": "42", "title": "외로우니까 사람이다", "cover": "표지" },
-      { "id": "43", "title": "내가 사랑하는 사람", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r33", "title": "꽃을 보듯 너를 본다", "cover": "표지" },
-      { "id": "r34", "title": "운다고 달라지는 일은 아무것도 없겠지만", "cover": "표지" }
-    ]
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%B2%AD%ED%8F%AC%EB%8F%84&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22991830&bibPageSize=10&bibPageNum=2&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=1835849",
+  "museum": {
+    "name": "이육사 문학관",
+    "photo": "../images/문학관/이육사.jpg",
+    "link": "/html/leeyuksa.html"
   },
-
-  {
-    "id": "42",
-    "title": "외로우니까 사람이다(1995)",
-    "cover": "표지",
-    "genre": "수필",
-    "theme": "이 시는 외로움과 삶의 고독을 인간의 보편적인 숙명으로 받아들이고, 이 고독 속에서 서로를 위로하고 공감하며 살아가는 것이 인간답다고 전한다. 외로움이나 슬픔은, 누구나 겪는 보편적인 것이기에 서로에게 위로가 될 수 있음을 역설하며, 삶의 고통을 견디는 힘이 사랑과 공감에서 온다 말한다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "사랑한다\n내가 사랑하는 사람\n남한강\n꽃 지는 저녁\n석련(石蓮)\n수련\n발자국\n... 외"
-    },
-    "poem":"수선화에게:\n울지마라\n외로우니까 사람이다\n살아간다는 것은 외로움을견디는 일이다\n공연히 오지 않는 전화를 기다리지 마라\n눈이 오면 눈길을 걸어가고\n비가 오면 빗길을 걸어가라\n갈대숲에서 가습 검은도요새도 너를 보고 있다\n가끔은 하느님도 외로워서 눈물을 흘리신다\n새들이 나뭇가지에 앉아 있는 것도 외로움 때문이고\n네가 물가에 앉아 있는 것도 외로움 때문이다\n산 그림자도 외로워서 하루에 한 번씩 마을로 내려온다\n종소리도 외로워서 울려 퍼진다",  
-    "author": {
-      "name": "정호승",
-      "photo": "사진",
-      "bio": "그의 작품은 일상어로 시를 쓰려는 노력이 보이며 쉬운 언어로 삶의 고통과 비극을 깊이 다루면서도, 이를 통해 인간에 대한 애정과 연민, 치유와 위안을 준다. 사랑, 외로움, 슬픔, 상처, 죽음 등 보편적인 인간의 고뇌를 노래하며, 이를 통해 독자에게 성찰의 기회를 제공하고 삶의 긍정적인 면모를 발견하게 한다.",
-      "link": "author_detail.html?id=정호승"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%99%B8%EB%A1%9C%EC%9A%B0%EB%8B%88%EA%B9%8C+%EC%82%AC%EB%9E%8C%EC%9D%B4%EB%8B%A4&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=24165995&bibPageSize=10&bibPageNum=2&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=25035376",
-    "museum": {
-      "name": "정호승문학관",
-      "photo": "사진",
-      "link": " jeonhoseung.html"
-    },
-    "major": [
-      { "id": "41", "title": "사랑에 대한 64가지 믿음", "cover": "표지" },
-      { "id": "43", "title": "내가 사랑하는 사람", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r33", "title": "꽃을 보듯 너를 본다", "cover": "표지" },
-      { "id": "r34", "title": "운다고 달라지는 일은 아무것도 없겠지만", "cover": "표지" }
-    ]
+  "major": [
+    { "id": "38", "title": "광야(曠野)", "cover": "../images/works/22. 광야 이육사.png" },
+    { "id": "40", "title": "광인의 태양", "cover": "../images/works/22. 광인의 태양 이육사.png" }
+  ],
+  "related": [
+    { "id": "r31", "title": "해는 요즘도 아침에 뜨겠죠", "cover": "../images/연관/22. 해는 요즘도 아침에 뜨겠죠.png" },
+    { "id": "r32", "title": "별헤는 밤", "cover": "../images/연관/22. 별헤는 밤.png" }
+  ]
+}
+,
+ {
+  "id": "40",
+  "title": "광인의 태양(1940)",
+  "cover": "../images/works/22. 광인의 태양 이육사.png",
+  "genre": "시",
+  "theme": "1930~40년대 일제강점기라는 절망적인 시대 상황 속에서 광인(狂人)처럼 자신의 신념과 조국을 향한 숭고한 정신을 굽히지 않는 투사적 삶의 모습을 형상화한다. ",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "Ⅰ 강 건너간 노래\n소공원\n초가\n강 건너간 노래\n春愁三題\n失題\n청포도\n... 외"
   },
-
-  {
-    "id": "43",
-    "title": "내가 사랑하는 사람(1987)",
-    "cover": "표지",
-    "genre": "수필",
-    "theme": "이 시는 고통받고 소외된 사람들에 대한 따뜻한 사랑과 연민이며, 아픔을 가진 사람들을 포용하고 그들과 함께 살아가는 삶의 아름다움을 이야기한다. 시는 '그늘'과 '눈물'과 같은 상징을 통해 삶의 고통과 어려움을 긍정적으로 받아들이고, 이러한 시련을 겪어본 사람이 타인의 아픔을 이해하고 공감할 수 있다는 메시지를 전달한다.",
-    "table_summary": {
-      "labels": { "table": "목차" },
-      "table": "제1부\n슬픔이 기쁨에게\n슬픔으로 가는 길\n구두 닦는 소년\n파도타기\n맹인 부부 가수\n... 외"
-    },
-    "poem":"나는 그늘이 없는 사람을 사랑하지 않는다\n나는 그늘을 사랑하지 않는 삶을 사랑하지 안는다\n나는 한 그루 나무의 그늘이 된 사람을 사랑한다\n햇빛도 그늘이 있어야 맑고 눈이 부시다\n나무 그늘에 앉아\n나뭇잎 사이로 반짝이는 햇살을 바라보면\n세상은 그 얼마나 아름다운가\n\n나는 눈물이 없는 사람을 사랑하지 않는다\n나는 눈물을 사랑하지 않는 사람을 사랑하지 않는다\n나는 한방울 눈물이 된 사람을 사랑한다\n기쁨도 눈물이 없으면 기쁨이 아니다\n사랑도 눈물 없는 사랑이 어디 있는가\n나무 그늘에 앉아\n다른 사람의 눈물을 닦아주는 사람의 모습은\n그 얼마나 고요한 아름다움인가",
-    "author": {
-      "name": "정호승",
-      "photo": "사진",
-      "bio": "그의 작품은 일상어로 시를 쓰려는 노력이 보이며 쉬운 언어로 삶의 고통과 비극을 깊이 다루면서도, 이를 통해 인간에 대한 애정과 연민, 치유와 위안을 준다. 사랑, 외로움, 슬픔, 상처, 죽음 등 보편적인 인간의 고뇌를 노래하며, 이를 통해 독자에게 성찰의 기회를 제공하고 삶의 긍정적인 면모를 발견하게 한다.",
-      "link": "author_detail.html?id=정호승"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=%EB%AC%B8%ED%95%99%5E%EB%AC%B8%ED%95%99&facetLang=&keywordType1=total&keyword1=%EB%82%B4%EA%B0%80+%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94+%EC%82%AC%EB%9E%8C&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=24186378&bibPageSize=10&bibPageNum=2&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=364122960",
-    "museum": {
-      "name": "정호승문학관",
-      "photo": "사진",
-      "link": " jeonhoseung.html"
-    },
-    "major": [
-      { "id": "41", "title": "사랑에 대한 64가지 믿음", "cover": "표지" },
-      { "id": "42", "title": "외로우니까 사람이다", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r33", "title": "꽃을 보듯 너를 본다", "cover": "표지" },
-      { "id": "r34", "title": "운다고 달라지는 일은 아무것도 없겠지만", "cover": "표지" }
-    ]
+  "poem": "분명 라이플 선線을 튕겨서 올라\n그냥 화화 火華처럼 살아서 곱고\n오랜 나달 연초烟硝에 끄스른\n얼굴을 가리션 슬픈 공작선 孔雀扇\n거칠은 해협海峽마다 흘긴 눈초리\n항상 요충지대 要衝地帶를 노려가다.",
+  "author": {
+    "name": "이육사",
+    "photo": "../images/writers/이육사.png",
+    "bio": "강인한 저항 의지와 조국 광복에 대한 뜨거운 열망을 특징이다. 그는 일제 강점기라는 어두운 시대적 배경 속에서 민족의 고통과 희망을 노래했으며, 이를 위해 남성적이고 의지적인 어조, 상징적 시어, 부정의 어미를 반복하는 등의 기법을 사용했다. 그의 시는 단순한 정감을 넘어 불의에 맞서는 정신적 의지를 강렬하게 드러난다. ",
+    "link": "/html/author_detail.html?id=이육사"
   },
-
-  {
-    "id": "44",
-    "title": "메밀꽃 필 무렵(1936)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": "작품은 사회의식을 배제하고, '달밤'과 '메밀꽃밭' 같은 자연을 통해 등장인물인 장돌뱅이 '허생원'의 애틋한 사랑과 그리움, 그리고 그가 아들임을 알게 되는 과정을 서정적으로 그려낸다.",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "고사리\n메밀꽃 필 무렵\n돼지\n수탉\n산\n... 외",
-      "summary":"메밀 꽃 필 무렵: 강원도 봉평 장터를 배경으로, 장돌뱅이 허생원이 젊은 시절 봉평 성서방네 처녀와의 하룻밤 인연을 회상하며 길동무인 동이와 조선달과 함께 제천장으로 향하는 여정을 그린 이야기다. 소설은 메밀꽃이 흐드러지게 핀 밤길을 걸으며 세 사람이 나누는 대화 속에서 전개되며, 마지막에는 허생원이 동이가 자신의 아들임을 어렴풋이 깨닫게 되는 장면에서 끝난다."
-    },
-    "author": {
-      "name": "이효석",
-      "photo": "초기의 「도시와 유령」 등은 사회주의 사상을 반영하여 현실에 대한 독자의 각성을 촉구하는 선전 선동성을 띠었다. 이 시기에는 프롤레타리아 이념을 추구하는 문학적 지향성이 뚜렷했다. 1930년대 초 순수문학으로 전향하며 계급주의를 배격하고, 「돈(豚)」처럼 자연 묘사와 인간의 성(性)을 주제로 다루었습니다. 이 시기의 정점인 「메밀꽃 필 무렵」에서는 한국적인 자연의 아름다움을 배경으로 인간의 순박한 본성과 떠돌이의 애수를 그렸다. 특히 달밤의 메밀밭을 묘사한 시적인 문체가 뛰어나 미학적인 세계를 구축하는 데 중점을 두었습니다. 여러 작품에 고향인 평창(봉평)의 풍속과 정주민의 생활 세계가 섬세하게 재현됐다.",
-      "bio": "소개",
-      "link": "author_detail.html?id=이효석"
-    },
-    "library": "https://nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EB%A9%94%EB%B0%80+%EA%BD%83+%ED%95%84+%EB%AC%B4%EB%A0%B5+%EC%9D%B4%ED%9A%A8%EC%84%9D&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "이효석문화예술촌",
-      "photo": "사진",
-      "link": "leehyoseok.html"
-    },
-    "major": [
-      { "id": "45", "title": "화분", "cover": "표지" },
-      { "id": "46", "title": "노령근해", "cover": "표지" },
-      { "id": "47", "title": "수탉", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r35", "title": "황만근은 이렇게 말했다", "cover": "표지" },
-      { "id": "r36", "title": "칼자국", "cover": "표지" },
-      { "id": "r37", "title": "제 꿈 꾸세요", "cover": "표지" }
-    ]
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultEditonList.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EA%B4%91%EC%9D%B8%EC%9D%98+%ED%83%9C%EC%96%91&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22897292",
+  "museum": {
+    "name": "이육사 문학관",
+    "photo": "../images/문학관/이육사.jpg",
+    "link": "/html/leeyuksa.html"
   },
-
-  {
-    "id": "45",
-    "title": "화분(1939)",
-    "cover": "표지",
-    "genre": "소설",
-    "theme": "관능적인 쾌락 그 자체의 가능성을 질문함으로써, 한국 근대문학에서 쉽게 찾아볼 수 없는 성적 모더니티를 제기한 작품이다. 또한 제국 내 지방과 제국 밖 세계라는 인식 속에서, 제국의 지리적·문화적 경계를 넘어 세계 속에 자기를 위치시키려고 한 식민지 조선 지식인의 욕망을 확인할 수 있는 작품이다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "관능적인 쾌락 그 자체의 가능성을 질문함으로써, 한국 근대문학에서 쉽게 찾아볼 수 없는 성적 모더니티를 제기한 작품이다. 또한 제국 내 지방과 제국 밖 세계라는 인식 속에서, 제국의 지리적·문화적 경계를 넘어 세계 속에 자기를 위치시키려고 한 식민지 조선 지식인의 욕망을 확인할 수 있는 작품이다."
-    },
-    "author": {
-      "name": "이효석",
-      "photo": "초기의 「도시와 유령」 등은 사회주의 사상을 반영하여 현실에 대한 독자의 각성을 촉구하는 선전 선동성을 띠었다. 이 시기에는 프롤레타리아 이념을 추구하는 문학적 지향성이 뚜렷했다. 1930년대 초 순수문학으로 전향하며 계급주의를 배격하고, 「돈(豚)」처럼 자연 묘사와 인간의 성(性)을 주제로 다루었습니다. 이 시기의 정점인 「메밀꽃 필 무렵」에서는 한국적인 자연의 아름다움을 배경으로 인간의 순박한 본성과 떠돌이의 애수를 그렸다. 특히 달밤의 메밀밭을 묘사한 시적인 문체가 뛰어나 미학적인 세계를 구축하는 데 중점을 두었습니다. 여러 작품에 고향인 평창(봉평)의 풍속과 정주민의 생활 세계가 섬세하게 재현됐다.",
-      "bio": "소개",
-      "link": "author_detail.html?id=이효석"
-    },
-    "library": "https://nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%ED%99%94%EB%B6%84+%EC%9D%B4%ED%9A%A8%EC%84%9D&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "이효석문화예술촌",
-      "photo": "사진",
-      "link": "leehyoseok.html"
-    },
-    "major": [
-      { "id": "44", "title": "메밀꽃 필 무렵", "cover": "표지" },
-      { "id": "46", "title": "노령근해", "cover": "표지" },
-      { "id": "47", "title": "수탉", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r35", "title": "황만근은 이렇게 말했다", "cover": "표지" },
-      { "id": "r36", "title": "칼자국", "cover": "표지" },
-      { "id": "r37", "title": "제 꿈 꾸세요", "cover": "표지" }
-    ]
-  },
-
-    {
-    "id": "46",
-    "title": "노령근해(1936)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": "식민지 시기 사회주의 사상의 영향을 받은 '동반자 작가' 시절의 초기 작품으로, 사회주의 경향과 도시 빈민층의 소외를 주제로 다룹니다. 이 작품은 동해안의 항구를 떠나 연해주로 향하는 여객선 내부를 배경으로, 당시 사회 현실을 반영하고 있다. ",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "都市(도시)와 幽靈(유령)\n奇遇(기우)\n行進曲(행진곡)\n追憶(추억)\n北國點景(북국점경)\n露領近海(노령근해)\n... 외",
-      "summary":"노령근해: 일제강점기 시절 가난과 압제에 시달리다 더 나은 삶을 찾아 뱃길로 러시아 연해주(블라디보스토크)로 향하는 조선 청년들의 이야기를 그린다. 소설은 뱃사람들과 떠도는 여성들을 묘사하며, 어두운 현실 속에서도 희망을 찾아 북쪽으로 나아가는 여정을 보여준다."
-    },
-    "author": {
-      "name": "이효석",
-      "photo": "초기의 「도시와 유령」 등은 사회주의 사상을 반영하여 현실에 대한 독자의 각성을 촉구하는 선전 선동성을 띠었다. 이 시기에는 프롤레타리아 이념을 추구하는 문학적 지향성이 뚜렷했다. 1930년대 초 순수문학으로 전향하며 계급주의를 배격하고, 「돈(豚)」처럼 자연 묘사와 인간의 성(性)을 주제로 다루었습니다. 이 시기의 정점인 「메밀꽃 필 무렵」에서는 한국적인 자연의 아름다움을 배경으로 인간의 순박한 본성과 떠돌이의 애수를 그렸다. 특히 달밤의 메밀밭을 묘사한 시적인 문체가 뛰어나 미학적인 세계를 구축하는 데 중점을 두었습니다. 여러 작품에 고향인 평창(봉평)의 풍속과 정주민의 생활 세계가 섬세하게 재현됐다.",
-      "bio": "소개",
-      "link": "author_detail.html?id=이효석"
-    },
-    "library": "https://nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EB%A9%94%EB%B0%80+%EA%BD%83+%ED%95%84+%EB%AC%B4%EB%A0%B5+%EC%9D%B4%ED%9A%A8%EC%84%9D&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "이효석문화예술촌",
-      "photo": "사진",
-      "link": "leehyoseok.html"
-    },
-    "major": [
-      { "id": "44", "title": "메밀꽃 필 무렵", "cover": "표지" },
-      { "id": "45", "title": "화분", "cover": "표지" },
-      { "id": "47", "title": "수탉", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r35", "title": "황만근은 이렇게 말했다", "cover": "표지" },
-      { "id": "r36", "title": "칼자국", "cover": "표지" },
-      { "id": "r37", "title": "제 꿈 꾸세요", "cover": "표지" }
-    ]
-  },
-
-  {
-    "id": "47",
-    "title": "수탉(1933)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": "이 작품은 '수탉'이라는 상징을 통해 주인공의 내면을 효과적으로 드러내고 있는 소설이다. 못난 수탉의 처지는 사회에서 제 역할을 하지 못하는 을손의 모습과 겹쳐지며, 수탉을 향한 폭력은 자기혐오의 표출로 이어진다. ",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "수탉\n가을과 산양\n오리온ㄱ놔 능금\n공상 구락부\n사냥\n일표의 공능\n... 외",
-      "summary":"수탉: 주인공 '을손'은 잠사학교에서 정학을 당하고 집에서 지내는 청년이다. 을손은 닭장을 지키는 수탉이 이웃집 닭과 싸울 때마다 져서, 자신의 무능하고 비참한 상황을 수탉에 빗대어 이야기한다. 이는 을손이 현실에서 겪는 무력감을 상징하며, 작품은 이러한 비애와 침울한 분위기 속에서 전개된다."
-    },
-    "author": {
-      "name": "이효석",
-      "photo": "초기의 「도시와 유령」 등은 사회주의 사상을 반영하여 현실에 대한 독자의 각성을 촉구하는 선전 선동성을 띠었다. 이 시기에는 프롤레타리아 이념을 추구하는 문학적 지향성이 뚜렷했다. 1930년대 초 순수문학으로 전향하며 계급주의를 배격하고, 「돈(豚)」처럼 자연 묘사와 인간의 성(性)을 주제로 다루었습니다. 이 시기의 정점인 「메밀꽃 필 무렵」에서는 한국적인 자연의 아름다움을 배경으로 인간의 순박한 본성과 떠돌이의 애수를 그렸다. 특히 달밤의 메밀밭을 묘사한 시적인 문체가 뛰어나 미학적인 세계를 구축하는 데 중점을 두었습니다. 여러 작품에 고향인 평창(봉평)의 풍속과 정주민의 생활 세계가 섬세하게 재현됐다.",
-      "bio": "소개",
-      "link": "author_detail.html?id=이효석"
-    },
-    "library": "https://nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EC%88%98%ED%83%89+%EC%9D%B4%ED%9A%A8%EC%84%9D&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "이효석문화예술촌",
-      "photo": "사진",
-      "link": "leehyoseok.html"
-    },
-    "major": [
-      { "id": "44", "title": "메밀꽃 필 무렵", "cover": "표지" },
-      { "id": "45", "title": "화분", "cover": "표지" },
-      { "id": "46", "title": "노령근해", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r35", "title": "황만근은 이렇게 말했다", "cover": "표지" },
-      { "id": "r36", "title": "칼자국", "cover": "표지" },
-      { "id": "r37", "title": "제 꿈 꾸세요", "cover": "표지" }
-    ]
-  },
-
-  {
-    "id": "48",
-    "title": "소나기(1953)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": "순수하고 덧없는 소년과 소녀의 첫사랑과 그 이별을 통한 아름다운 슬픔을 표현한 작품이다.",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "소나기\n별\n산골아이\n독 짓는 늙은이",
-      "summary":"소나기:순박한 시골 마을을 배경으로, 소나기가 갑자기 내렸다가 멈추는 것처럼, 소년과 소녀의 관계 역시 짧은 만남과 설렘, 그리고 예기치 않은 이별로 빠르게 끝이 난다. 소녀의 죽음과 유언은 이 순수한 사랑이 속세에 물들지 않은 채 영원히 간직되기를 바라는 숭고하고 아름다운 슬픔을 더한다."
-    },
-    "author": {
-      "name": "황순원",
-      "photo": "사진",
-      "bio": "초기에는 입사소설 형식을 띠는 작품들을 특유의 시적 문체로 많이 썼다. 이후 인간의 힘으로는 감당할 수 없는 극한 상황에 내몰린 비극적 현실을 증언하는 내용을 주로 썼고, 그 속에서 생명의 기운과 소중함을 설파했다.",
-      "link": "author_detail.html?id=황순원"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%86%8C%EB%82%98%EA%B8%B0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22979431&bibPageSize=10&bibPageNum=4&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=170936962",
-    "museum": {
-      "name": "황순원문학촌소나기마을",
-      "photo": "사진",
-      "link": "hwangsunwon.html"
-    },
-    "major": [
-      { "id": "49", "title": "카인의 후예", "cover": "표지" },
-      { "id": "50", "title": "일월", "cover": "표지" },
-      { "id": "51", "title": "별", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r38", "title": "한정희와 나", "cover": "표지" },
-      { "id": "r39", "title": "금성녀", "cover": "표지" }
-    ]
-  },
-
-  {
-    "id": "49",
-    "title": "카인의 후예(1953-1954)",
-    "cover": " 표지",
-    "genre": "소설",
-    "theme": "이념 대립이 첨예했던 해방 직후 북한의 토지개혁을 배경으로 인간의 근원적 악(카인의 원죄)과 순수성, 그리고 그로 인해 파멸하는 인간관계를 다룬다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "해방 후 혼란스러운 시기 평안도 양지골을 배경으로, 지주 계급 지식인 박훈과 마름의 딸 장녀의 비극적인 사랑을 그린 소설이다. 지주와 소작농의 갈등 속에서 박훈은 할아버지가 돌아가신 후 상속받은 땅을 두고 갈등하고, 장녀와는 신분 차이와 이념 대립으로 인해 사랑이 좌절되는 내용을 다룬다."
-    },
-    "author": {
-      "name": "황순원",
-      "photo": "사진",
-      "bio": "초기에는 입사소설 형식을 띠는 작품들을 특유의 시적 문체로 많이 썼다. 이후 인간의 힘으로는 감당할 수 없는 극한 상황에 내몰린 비극적 현실을 증언하는 내용을 주로 썼고, 그 속에서 생명의 기운과 소중함을 설파했다.",
-      "link": "author_detail.html?id=황순원"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%86%8C%EB%82%98%EA%B8%B0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22979431&bibPageSize=10&bibPageNum=4&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=170936962",
-    "museum": {
-      "name": "황순원문학촌소나기마을",
-      "photo": "사진",
-      "link": "hwangsunwon.html"
-    },
-    "major": [
-      { "id": "48", "title": "소나기", "cover": "표지" },
-      { "id": "50", "title": "일월", "cover": "표지" },
-      { "id": "51", "title": "별", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r38", "title": "한정희와 나", "cover": "표지" },
-      { "id": "r39", "title": "금성녀", "cover": "표지" }
-    ]
-  },
-
-
-  {
-    "id": "50",
-    "title": "일월(1-16,1962-1964)",
-    "cover": " 표지",
-    "genre": "소설",
-    "theme": "인간의 근원적 존재 양식을 고독으로 파악하고 그 인간 조건에 반응하는 인물들의 고뇌를 조명하여 구원의 가능성을 어디에서 찾아야 할지에 대한 암시를 던지는 소설이다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "주인공 인철은 장래가 촉망되는 건축공학도이다. 그러다 어느날 자기가 백정의 후손이라는 충격적인 사실을 알게 되고, 이 사실은 그의 이제까지의 삶의 바탕을 근원적으로 뒤흔들어 놓는다. 그는 방황하기 시작한다. 그러나 이런 어려운 시련 끝에 인철은 다시금 자아를 바로 세울 수 있게 되고, 사촌형인 기룡과의 만남을 통하여 자기 고독을 확인할 수 있게 된다. 뿐만 아니라 그 고독을 딛고 일어서려는 삶의 의지를 다진다. "
-    },
-    "author": {
-      "name": "황순원",
-      "photo": "사진",
-      "bio": "초기에는 입사소설 형식을 띠는 작품들을 특유의 시적 문체로 많이 썼다. 이후 인간의 힘으로는 감당할 수 없는 극한 상황에 내몰린 비극적 현실을 증언하는 내용을 주로 썼고, 그 속에서 생명의 기운과 소중함을 설파했다.",
-      "link": "author_detail.html?id=황순원"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=%EB%AC%B8%ED%95%99%5E%EB%AC%B8%ED%95%99&facetLang=&keywordType1=total&keyword1=%ED%99%A9%EC%88%9C%EC%9B%90+%EC%9D%BC%EC%9B%94&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=23159240&bibPageSize=10&bibPageNum=3&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=232241581",
-    "museum": {
-      "name": "황순원문학촌소나기마을",
-      "photo": "사진",
-      "link": "hwangsunwon.html"
-    },
-    "major": [
-      { "id": "48", "title": "소나기", "cover": "표지" },
-      { "id": "49", "title": "카인의 후예", "cover": "표지" },
-      { "id": "51", "title": "별", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r38", "title": "한정희와 나", "cover": "표지" },
-      { "id": "r39", "title": "금성녀", "cover": "표지" }
-    ]
-  },
+  "major": [
+    { "id": "38", "title": "광야(曠野)", "cover": "../images/works/22. 광야 이육사.png" },
+    { "id": "39", "title": "청포도(靑葡萄)", "cover": "../images/works/22. 청포도 이육사.png" }
+  ],
+  "related": [
+    { "id": "r31", "title": "해는 요즘도 아침에 뜨겠죠", "cover": "../images/연관/22. 해는 요즘도 아침에 뜨겠죠.png" },
+    { "id": "r32", "title": "별헤는 밤", "cover": "../images/연관/22. 별헤는 밤.png" }
+  ]
+}
+,
 
 {
-    "id": "51",
-    "title": "별(1941)",
-    "cover": "표지",
-    "genre": "단편소설",
-    "theme": "죽은 어머니에 대한 그리움과 누이에 대한 애증이라는 복합적인 주제를 다루고 있다. 소년의 오이디푸스 콤플렉스와 절대적인 사랑, 그리고 누이의 죽음 이후의 성장통 등을 통해 인간의 순수성과 내면의 복잡한 심리를 서정적으로 그리고 있다.",
-    "table_summary": {
-      "labels": { "table": "목차", "summary":"줄거리" },
-      "table": "늪\n별\n기로기\n독 짓는 늙은이\n아버지\n... 외",
-      "summary":"별:어머니를 잃은 어린아이가 누이를 통해 어머니의 아름다움을 확인하고, 누이가 죽은 후 그녀를 어머니처럼 별로 승화시키며 사랑하게 되는 과정을 그린 성장 소설이다. 이 소설은 어린아이가 이상과 현실, 생과 사를 깨닫는 과정을 섬세한 문체와 서정적인 분위기로 묘사하며, 현대 소설의 걸작으로 평가받는다."
-    },
-    "author": {
-      "name": "황순원",
-      "photo": "사진",
-      "bio": "초기에는 입사소설 형식을 띠는 작품들을 특유의 시적 문체로 많이 썼다. 이후 인간의 힘으로는 감당할 수 없는 극한 상황에 내몰린 비극적 현실을 증언하는 내용을 주로 썼고, 그 속에서 생명의 기운과 소중함을 설파했다.",
-      "link": "author_detail.html?id=황순원"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%ED%99%A9%EC%88%9C%EC%9B%90+%EB%B3%84&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22951415&bibPageSize=10&bibPageNum=1&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=103460944",
-    "museum": {
-      "name": "황순원문학촌소나기마을",
-      "photo": "사진",
-      "link": "hwangsunwon.html"
-    },
-    "major": [
-      { "id": "48", "title": "소나기", "cover": "표지" },
-      { "id": "49", "title": "카인의 후예", "cover": "표지" },
-      { "id": "50", "title": "일월", "cover": "표지" }
-     
-    ],
-    "related": [
-      { "id": "r38", "title": "한정희와 나", "cover": "표지" },
-      { "id": "r39", "title": "금성녀", "cover": "표지" }
-    ]
+  "id": "41",
+  "title": "사랑에 대한 64가지 믿음(1995)",
+  "cover": "../images/works/23. 사랑에 대한 64가지 믿음 정호승.png",
+  "genre": "수필",
+  "theme": "고통과 아픔 속에서도 희망을 잃지 않는 사랑의 가치와 인생의 모든 고통과 상처를 사랑을 통해 치유하고 극복하는 것이다. 이 책은 사랑의 본질을 성찰하고, 사랑이 없는 삶은 불가능하다는 메시지를 전달한다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "사랑에 대한 시인의 철학을 64가지 짧은 글로 담고 있다. 이 책은 사랑이 고통을 동반하며, 아픔을 통해 더욱 깊어질 수 있다는 시인의 생각을 보여준다. "
   },
-
-  {
-    "id": "52",
-    "title": "레디메이드인생(1934)",
-    "cover": " 표지",
-    "genre": "소설",
-    "theme": "고등교육을 받은 엘리트임에도 취업하지 못한 지식인의 ‘잉여’적 처지를 사실적으로 그린 작품으로 당시의 한국 지식인의 운명과 그 곤경을 제재로 풍자하였다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "세계적인 경제공황기에 실직 중인 P는 이력서를 들고 이곳 저곳 찾아 다니지만 모두 거절당하고 나서 자신이 인텔리인 것을 원망, 책을 잡혀 친구들과 선술집 ·카페 ·색주가로 돌아다니며 실업자의 울분을 터뜨린다. 아들만은 자신과 같은 인텔리 실직자를 만들지 않겠다는 생각에서 보통학교도 안 마친 애를 잘 아는 인쇄소에 맡기고 돌아오면서 “레디메이드(기성품) 인생이 비로소 임자를 만나 팔리었구나”라고 P는 혼자 중얼거린다. 지식인 실업자의 생태와 당시의 사회상을 풍자적으로 그린 채만식의 대표작이다."
-    },
-    "author": {
-      "name": "채만식",
-      "photo": "사진",
-      "bio": "채만식의 작품 세계는 당시의 현실 반영과 비판에 집중되었다. 식민지 상황 아래에서 농민의 궁핍, 지식인의 고뇌, 도시 하층민의 몰락, 광복 후의 혼란상 등을 실감나게 그리면서 그 근저에 놓여 있는 역사적 · 사회적 상황을 신랄하게 비판했다. 작품 기법에 있어 매우 다양한 시도를 했는데, 특히 풍자적 수법에서 큰 수확을 거두었다고 할 수 있다. 1933년까지 발표한 작품들을 보면 프로 문학에 동조하는 경향을 보여준다. 이후 자전적 소설 <레디메이드 인생>과 희곡 <인텔리와 빈대떡> 등의 작품을 발표하면서 풍자성이 강한 사회소설을 쓰기 시작했으며, 반어, 비유, 역설 등을 사용해 현실을 그려낸 채만식만의 독자적인 작품세계를 구축했다. ",
-      "link": "author_detail.html?id=채만식"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EB%A0%88%EB%94%94%EB%A9%94%EC%9D%B4%EB%93%9C+%EC%9D%B8%EC%83%9D&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "채만식 문학관",
-      "photo": "사진",
-      "link": "chaemansik.html"
-    },
-    "major": [
-      { "id": "53", "title": "탁류", "cover": "표지" },
-      { "id": "54", "title": "태평천하", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r40", "title": "만세전", "cover": "표지" }
-    ]
+  "author": {
+    "name": "정호승",
+    "photo": "../images/writers/정호승.png",
+    "bio": "그의 작품은 일상어로 시를 쓰려는 노력이 보이며 쉬운 언어로 삶의 고통과 비극을 깊이 다루면서도, 이를 통해 인간에 대한 애정과 연민, 치유와 위안을 준다. 사랑, 외로움, 슬픔, 상처, 죽음 등 보편적인 인간의 고뇌를 노래하며, 이를 통해 독자에게 성찰의 기회를 제공하고 삶의 긍정적인 면모를 발견하게 한다.",
+    "link": "/html/author_detail.html?id=정호승"
   },
-
-  {
-    "id": "53",
-    "title": "탁류(1937-1938)",
-    "cover": " 표지",
-    "genre": "소설",
-    "theme": "채만식의 풍자문학적 특징이 가장 잘 드러난 작품으로 1930년대 한국 사회에 스며 있던 탐욕과 위선, 타락한 사회상을 적나라하게 해부하고 있다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "근대 도시 군산을 배경으로 타락한 정 주사, 꿈을 상실한 초봉, 사기꾼 고태수, 악한 장형보, 음흉한 박제호 등 온갖 인간 군상들의 속물적인 삶과 행동을 묘사함으로써 식민 시대의 부정적이고 절망적인 사회상을 여지없이 드러낸다. 그러나 작가는 긍정적인 인물인 계봉과 남승재를 통해 새로운 시대를 염원하는 희망을 제시하는 것을 잊지 않았다."
-    },
-    "author": {
-      "name": "채만식",
-      "photo": "사진",
-      "bio": "채만식의 작품 세계는 당시의 현실 반영과 비판에 집중되었다. 식민지 상황 아래에서 농민의 궁핍, 지식인의 고뇌, 도시 하층민의 몰락, 광복 후의 혼란상 등을 실감나게 그리면서 그 근저에 놓여 있는 역사적 · 사회적 상황을 신랄하게 비판했다. 작품 기법에 있어 매우 다양한 시도를 했는데, 특히 풍자적 수법에서 큰 수확을 거두었다고 할 수 있다. 1933년까지 발표한 작품들을 보면 프로 문학에 동조하는 경향을 보여준다. 이후 자전적 소설 <레디메이드 인생>과 희곡 <인텔리와 빈대떡> 등의 작품을 발표하면서 풍자성이 강한 사회소설을 쓰기 시작했으며, 반어, 비유, 역설 등을 사용해 현실을 그려낸 채만식만의 독자적인 작품세계를 구축했다. ",
-      "link": "author_detail.html?id=채만식"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%ED%83%81%EB%A5%98&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "채만식 문학관",
-      "photo": "사진",
-      "link": "chaemansik.html"
-    },
-    "major": [
-      { "id": "52", "title": "레디메이드인생", "cover": "표지" },
-      { "id": "54", "title": "태평천하", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r40", "title": "만세전", "cover": "표지" }
-    ]
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%82%AC%EB%9E%91%EC%97%90+%EB%8C%80%ED%95%9C+64%EA%B0%80%EC%A7%80+%EB%AF%BF%EC%9D%8C&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=23034443&bibPageSize=10&bibPageNum=1&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=39693",
+  "museum": {
+    "name": "정호승문학관",
+    "photo": "../images/문학관/정호승.jpg",
+    "link": "/html/jeonhoseung.html"
   },
+  "major": [
+    { "id": "42", "title": "외로우니까 사람이다", "cover": "../images/works/23. 외로우니까 사람이다 정호승.png" },
+    { "id": "43", "title": "내가 사랑하는 사람", "cover": "../images/works/23. 내가 사랑하는 사람 정호승.png" }
+  ],
+  "related": [
+    { "id": "r33", "title": "꽃을 보듯 너를 본다", "cover": "../images/연관/23. 꽃을 보듯 너를 본다.png" },
+    { "id": "r34", "title": "운다고 달라지는 일은 아무것도 없겠지만", "cover": "../images/연관/23. 운다고 달라지는 일은 아무것도 없겠지만.png" }
+  ]
+}
+,
 
 {
-    "id": "54",
-    "title": "태평천하(1948)",
-    "cover": " 표지",
-    "genre": "소설",
-    "theme": "930년대 식민지 조선의 사회적, 경제적 현실을 다루고있다. 일제의 식민지 착취에 편승하여 부를 축적한 자본가들의 배금주의와 윤리적 일탈은 무너질 대로 무너진 사회의 실상을 여실히 드러낸다. 이를 풍자와 반어로 통렬하게 그려 낸 기념비적 작품이다.",
-    "table_summary": {
-      "labels": { "summary": "줄거리" },
-      "summary": "일제의 식민지 경제 구조에 교묘하게 편승하여 막대한 부를 축적한 뒤 사회 현실에 눈감고 철저하게 개인과 가족의 이익만을 도모하는 인물 윤직원을 통해 당대 사회의 부조리와 모순을 거침없이 폭로한다. 나아가 윤직원 일가의 방종하고 난잡한 생활상을 날카로운 풍자와 번뜩이는 아이러니로 생생하게 묘사함으로써 왜곡된 사회에 기생하며 살아가는 속물적 인간형을 한껏 조롱한다. 판소리 사설체를 차용하고 호남 방언을 풍부하고 맛깔스럽게 활용하는 등 『태평천하』는 문예 미학적으로도 한국 근대 문학사에서 중요한 자리를 차지한다."
-    },
-    "author": {
-      "name": "채만식",
-      "photo": "사진",
-      "bio": "채만식의 작품 세계는 당시의 현실 반영과 비판에 집중되었다. 식민지 상황 아래에서 농민의 궁핍, 지식인의 고뇌, 도시 하층민의 몰락, 광복 후의 혼란상 등을 실감나게 그리면서 그 근저에 놓여 있는 역사적 · 사회적 상황을 신랄하게 비판했다. 작품 기법에 있어 매우 다양한 시도를 했는데, 특히 풍자적 수법에서 큰 수확을 거두었다고 할 수 있다. 1933년까지 발표한 작품들을 보면 프로 문학에 동조하는 경향을 보여준다. 이후 자전적 소설 <레디메이드 인생>과 희곡 <인텔리와 빈대떡> 등의 작품을 발표하면서 풍자성이 강한 사회소설을 쓰기 시작했으며, 반어, 비유, 역설 등을 사용해 현실을 그려낸 채만식만의 독자적인 작품세계를 구축했다. ",
-      "link": "author_detail.html?id=채만식"
-    },
-    "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%ED%83%9C%ED%8F%89%EC%B2%9C%ED%95%98&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
-    "museum": {
-      "name": "채만식 문학관",
-      "photo": "사진",
-      "link": "chaemansik.html"
-    },
-    "major": [
-      { "id": "52", "title": "레디메이드인생", "cover": "표지" },
-      { "id": "53", "title": "탁류", "cover": "표지" }
-    ],
-    "related": [
-      { "id": "r40", "title": "만세전", "cover": "표지" }
-    ]
-  }
+  "id": "42",
+  "title": "외로우니까 사람이다(1995)",
+  "cover": "../images/works/23. 외로우니까 사람이다 정호승.png",
+  "genre": "수필",
+  "theme": "이 시는 외로움과 삶의 고독을 인간의 보편적인 숙명으로 받아들이고, 이 고독 속에서 서로를 위로하고 공감하며 살아가는 것이 인간답다고 전한다. 외로움이나 슬픔은, 누구나 겪는 보편적인 것이기에 서로에게 위로가 될 수 있음을 역설하며, 삶의 고통을 견디는 힘이 사랑과 공감에서 온다 말한다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "사랑한다\n내가 사랑하는 사람\n남한강\n꽃 지는 저녁\n석련(石蓮)\n수련\n발자국\n... 외"
+  },
+  "poem": "수선화에게:\n울지마라\n외로우니까 사람이다\n살아간다는 것은 외로움을견디는 일이다\n공연히 오지 않는 전화를 기다리지 마라\n눈이 오면 눈길을 걸어가고\n비가 오면 빗길을 걸어가라\n갈대숲에서 가습 검은도요새도 너를 보고 있다\n가끔은 하느님도 외로워서 눈물을 흘리신다\n새들이 나뭇가지에 앉아 있는 것도 외로움 때문이고\n네가 물가에 앉아 있는 것도 외로움 때문이다\n산 그림자도 외로워서 하루에 한 번씩 마을로 내려온다\n종소리도 외로워서 울려 퍼진다",
+  "author": {
+    "name": "정호승",
+    "photo": "../images/writers/정호승.png",
+    "bio": "그의 작품은 일상어로 시를 쓰려는 노력이 보이며 쉬운 언어로 삶의 고통과 비극을 깊이 다루면서도, 이를 통해 인간에 대한 애정과 연민, 치유와 위안을 준다. 사랑, 외로움, 슬픔, 상처, 죽음 등 보편적인 인간의 고뇌를 노래하며, 이를 통해 독자에게 성찰의 기회를 제공하고 삶의 긍정적인 면모를 발견하게 한다.",
+    "link": "/html/author_detail.html?id=정호승"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%99%B8%EB%A1%9C%EC%9A%B0%EB%8B%88%EA%B9%8C+%EC%82%AC%EB%9E%8C%EC%9D%B4%EB%8B%A4&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=24165995&bibPageSize=10&bibPageNum=2&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=25035376",
+  "museum": {
+    "name": "정호승문학관",
+    "photo": "../images/문학관/정호승.jpg",
+    "link": "/html/jeonhoseung.html"
+  },
+  "major": [
+    { "id": "41", "title": "사랑에 대한 64가지 믿음", "cover": "../images/works/23. 사랑에 대한 64가지 믿음 정호승.png" },
+    { "id": "43", "title": "내가 사랑하는 사람", "cover": "../images/works/23. 내가 사랑하는 사람 정호승.png" }
+  ],
+  "related": [
+    { "id": "r33", "title": "꽃을 보듯 너를 본다", "cover": "../images/연관/23. 꽃을 보듯 너를 본다.png" },
+    { "id": "r34", "title": "운다고 달라지는 일은 아무것도 없겠지만", "cover": "../images/연관/23. 운다고 달라지는 일은 아무것도 없겠지만.png" }
+  ]
+}
+,
+
+ {
+  "id": "43",
+  "title": "내가 사랑하는 사람(1987)",
+  "cover": "../images/works/23. 내가 사랑하는 사람 정호승.png",
+  "genre": "수필",
+  "theme": "이 시는 고통받고 소외된 사람들에 대한 따뜻한 사랑과 연민이며, 아픔을 가진 사람들을 포용하고 그들과 함께 살아가는 삶의 아름다움을 이야기한다. 시는 '그늘'과 '눈물'과 같은 상징을 통해 삶의 고통과 어려움을 긍정적으로 받아들이고, 이러한 시련을 겪어본 사람이 타인의 아픔을 이해하고 공감할 수 있다는 메시지를 전달한다.",
+  "table_summary": {
+    "labels": { "table": "목차" },
+    "table": "제1부\n슬픔이 기쁨에게\n슬픔으로 가는 길\n구두 닦는 소년\n파도타기\n맹인 부부 가수\n... 외"
+  },
+  "poem": "나는 그늘이 없는 사람을 사랑하지 않는다\n나는 그늘을 사랑하지 않는 삶을 사랑하지 안는다\n나는 한 그루 나무의 그늘이 된 사람을 사랑한다\n햇빛도 그늘이 있어야 맑고 눈이 부시다\n나무 그늘에 앉아\n나뭇잎 사이로 반짝이는 햇살을 바라보면\n세상은 그 얼마나 아름다운가\n\n나는 눈물이 없는 사람을 사랑하지 않는다\n나는 눈물을 사랑하지 않는 사람을 사랑하지 않는다\n나는 한방울 눈물이 된 사람을 사랑한다\n기쁨도 눈물이 없으면 기쁨이 아니다\n사랑도 눈물 없는 사랑이 어디 있는가\n나무 그늘에 앉아\n다른 사람의 눈물을 닦아주는 사람의 모습은\n그 얼마나 고요한 아름다움인가",
+  "author": {
+    "name": "정호승",
+    "photo": "../images/writers/정호승.png",
+    "bio": "그의 작품은 일상어로 시를 쓰려는 노력이 보이며 쉬운 언어로 삶의 고통과 비극을 깊이 다루면서도, 이를 통해 인간에 대한 애정과 연민, 치유와 위안을 준다. 사랑, 외로움, 슬픔, 상처, 죽음 등 보편적인 인간의 고뇌를 노래하며, 이를 통해 독자에게 성찰의 기회를 제공하고 삶의 긍정적인 면모를 발견하게 한다.",
+    "link": "/html/author_detail.html?id=정호승"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=%EB%AC%B8%ED%95%99%5E%EB%AC%B8%ED%95%99&facetLang=&keywordType1=total&keyword1=%EB%82%B4%EA%B0%80+%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94+%EC%82%AC%EB%9E%8C&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=24186378&bibPageSize=10&bibPageNum=2&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=364122960",
+  "museum": {
+    "name": "정호승문학관",
+    "photo": "../images/문학관/정호승.jpg",
+    "link": "/html/jeonhoseung.html"
+  },
+  "major": [
+    { "id": "41", "title": "사랑에 대한 64가지 믿음", "cover": "../images/works/23. 사랑에 대한 64가지 믿음 정호승.png" },
+    { "id": "42", "title": "외로우니까 사람이다", "cover": "../images/works/23. 외로우니까 사람이다 정호승.png" }
+  ],
+  "related": [
+    { "id": "r33", "title": "꽃을 보듯 너를 본다", "cover": "../images/연관/23. 꽃을 보듯 너를 본다.png" },
+    { "id": "r34", "title": "운다고 달라지는 일은 아무것도 없겠지만", "cover": "../images/연관/23. 운다고 달라지는 일은 아무것도 없겠지만.png" }
+  ]
+}
+,
+
+{
+  "id": "44",
+  "title": "메밀꽃 필 무렵(1936)",
+  "cover": "../images/works/24. 메밀꽃 필 무렵 이효석.png",
+  "genre": "단편소설",
+  "theme": "작품은 사회의식을 배제하고, '달밤'과 '메밀꽃밭' 같은 자연을 통해 등장인물인 장돌뱅이 '허생원'의 애틋한 사랑과 그리움, 그리고 그가 아들임을 알게 되는 과정을 서정적으로 그려낸다.",
+  "table_summary": {
+    "labels": { "table": "목차", "summary": "줄거리" },
+    "table": "고사리\n메밀꽃 필 무렵\n돼지\n수탉\n산\n... 외",
+    "summary": "메밀 꽃 필 무렵: 강원도 봉평 장터를 배경으로, 장돌뱅이 허생원이 젊은 시절 봉평 성서방네 처녀와의 하룻밤 인연을 회상하며 길동무인 동이와 조선달과 함께 제천장으로 향하는 여정을 그린 이야기다. 소설은 메밀꽃이 흐드러지게 핀 밤길을 걸으며 세 사람이 나누는 대화 속에서 전개되며, 마지막에는 허생원이 동이가 자신의 아들임을 어렴풋이 깨닫게 되는 장면에서 끝난다."
+  },
+  "author": {
+    "name": "이효석",
+    "photo": "../images/writers/이효석.png",
+    "bio": "소개",
+    "link": "/html/author_detail.html?id=이효석"
+  },
+  "library": "https://nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EB%A9%94%EB%B0%80+%EA%BD%83+%ED%95%84+%EB%AC%B4%EB%A0%B5+%EC%9D%B4%ED%9A%A8%EC%84%9D&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "이효석문화예술촌",
+    "photo": "../images/문학관/이효석.jpg",
+    "link": "/html/leehyoseok.html"
+  },
+  "major": [
+    { "id": "45", "title": "화분", "cover": "../images/works/24. 화분 이효석.png" },
+    { "id": "46", "title": "노령근해", "cover": "../images/works/24. 노령근해 이효석.png" },
+    { "id": "47", "title": "수탉", "cover": "../images/works/24. 수탉 이효석.png" }
+  ],
+  "related": [
+    { "id": "r35", "title": "황만근은 이렇게 말했다", "cover": "../images/연관/24. 황만근은 이렇게 말했다.png" },
+    { "id": "r36", "title": "칼자국", "cover": "../images/연관/24. 칼자국.png" },
+    { "id": "r37", "title": "제 꿈 꾸세요", "cover": "../images/연관/24. 제 꿈 꾸세요.png" }
+  ]
+}
+,
+
+{
+  "id": "45",
+  "title": "화분(1939)",
+  "cover": "../images/works/24. 화분 이효석.png",
+  "genre": "소설",
+  "theme": "관능적인 쾌락 그 자체의 가능성을 질문함으로써, 한국 근대문학에서 쉽게 찾아볼 수 없는 성적 모더니티를 제기한 작품이다. 또한 제국 내 지방과 제국 밖 세계라는 인식 속에서, 제국의 지리적·문화적 경계를 넘어 세계 속에 자기를 위치시키려고 한 식민지 조선 지식인의 욕망을 확인할 수 있는 작품이다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "관능적인 쾌락 그 자체의 가능성을 질문함으로써, 한국 근대문학에서 쉽게 찾아볼 수 없는 성적 모더니티를 제기한 작품이다. 또한 제국 내 지방과 제국 밖 세계라는 인식 속에서, 제국의 지리적·문화적 경계를 넘어 세계 속에 자기를 위치시키려고 한 식민지 조선 지식인의 욕망을 확인할 수 있는 작품이다."
+  },
+  "author": {
+    "name": "이효석",
+    "photo": "../images/writers/이효석.png",
+    "bio": "소개",
+    "link": "/html/author_detail.html?id=이효석"
+  },
+  "library": "https://nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%ED%99%94%EB%B6%84+%EC%9D%B4%ED%9A%A8%EC%84%9D&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "이효석문화예술촌",
+    "photo": "../images/문학관/이효석.jpg",
+    "link": "/html/leehyoseok.html"
+  },
+  "major": [
+    { "id": "44", "title": "메밀꽃 필 무렵", "cover": "../images/works/24. 메밀꽃 필 무렵 이효석.png" },
+    { "id": "46", "title": "노령근해", "cover": "../images/works/24. 노령근해 이효석.png" },
+    { "id": "47", "title": "수탉", "cover": "../images/works/24. 수탉 이효석.png" }
+  ],
+  "related": [
+    { "id": "r35", "title": "황만근은 이렇게 말했다", "cover": "../images/연관/24. 황만근은 이렇게 말했다.png" },
+    { "id": "r36", "title": "칼자국", "cover": "../images/연관/24. 칼자국.png" },
+    { "id": "r37", "title": "제 꿈 꾸세요", "cover": "../images/연관/24. 제 꿈 꾸세요.png" }
+  ]
+}
+,
+
+ {
+  "id": "46",
+  "title": "노령근해(1936)",
+  "cover": "../images/works/24. 노령근해 이효석.png",
+  "genre": "단편소설",
+  "theme": "식민지 시기 사회주의 사상의 영향을 받은 '동반자 작가' 시절의 초기 작품으로, 사회주의 경향과 도시 빈민층의 소외를 주제로 다룹니다. 이 작품은 동해안의 항구를 떠나 연해주로 향하는 여객선 내부를 배경으로, 당시 사회 현실을 반영하고 있다. ",
+  "table_summary": {
+    "labels": { "table": "목차", "summary": "줄거리" },
+    "table": "都市(도시)와 幽靈(유령)\n奇遇(기우)\n行進曲(행진곡)\n追憶(추억)\n北國點景(북국점경)\n露領近海(노령근해)\n... 외",
+    "summary": "노령근해: 일제강점기 시절 가난과 압제에 시달리다 더 나은 삶을 찾아 뱃길로 러시아 연해주(블라디보스토크)로 향하는 조선 청년들의 이야기를 그린다. 소설은 뱃사람들과 떠도는 여성들을 묘사하며, 어두운 현실 속에서도 희망을 찾아 북쪽으로 나아가는 여정을 보여준다."
+  },
+  "author": {
+    "name": "이효석",
+    "photo": "../images/writers/이효석.png",
+    "bio": "소개",
+    "link": "/html/author_detail.html?id=이효석"
+  },
+  "library": "https://nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EB%A9%94%EB%B0%80+%EA%BD%83+%ED%95%84+%EB%AC%B4%EB%A0%B5+%EC%9D%B4%ED%9A%A8%EC%84%9D&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "이효석문화예술촌",
+    "photo": "../images/문학관/이효석.jpg",
+    "link": "/html/leehyoseok.html"
+  },
+  "major": [
+    { "id": "44", "title": "메밀꽃 필 무렵", "cover": "../images/works/24. 메밀꽃 필 무렵 이효석.png" },
+    { "id": "45", "title": "화분", "cover": "../images/works/24. 화분 이효석.png" },
+    { "id": "47", "title": "수탉", "cover": "../images/works/24. 수탉 이효석.png" }
+  ],
+  "related": [
+    { "id": "r35", "title": "황만근은 이렇게 말했다", "cover": "../images/연관/24. 황만근은 이렇게 말했다.png" },
+    { "id": "r36", "title": "칼자국", "cover": "../images/연관/24. 칼자국.png" },
+    { "id": "r37", "title": "제 꿈 꾸세요", "cover": "../images/연관/24. 제 꿈 꾸세요.png" }
+  ]
+}
+,
+
+{
+  "id": "47",
+  "title": "수탉(1933)",
+  "cover": "../images/works/24. 수탉 이효석.png",
+  "genre": "단편소설",
+  "theme": "이 작품은 '수탉'이라는 상징을 통해 주인공의 내면을 효과적으로 드러내고 있는 소설이다. 못난 수탉의 처지는 사회에서 제 역할을 하지 못하는 을손의 모습과 겹쳐지며, 수탉을 향한 폭력은 자기혐오의 표출로 이어진다. ",
+  "table_summary": {
+    "labels": { "table": "목차", "summary": "줄거리" },
+    "table": "수탉\n가을과 산양\n오리온ㄱ놔 능금\n공상 구락부\n사냥\n일표의 공능\n... 외",
+    "summary": "수탉: 주인공 '을손'은 잠사학교에서 정학을 당하고 집에서 지내는 청년이다. 을손은 닭장을 지키는 수탉이 이웃집 닭과 싸울 때마다 져서, 자신의 무능하고 비참한 상황을 수탉에 빗대어 이야기한다. 이는 을손이 현실에서 겪는 무력감을 상징하며, 작품은 이러한 비애와 침울한 분위기 속에서 전개된다."
+  },
+  "author": {
+    "name": "이효석",
+    "photo": "../images/writers/이효석.png",
+    "bio": "소개",
+    "link": "/html/author_detail.html?id=이효석"
+  },
+  "library": "https://nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EC%88%98%ED%83%89+%EC%9D%B4%ED%9A%A8%EC%84%9D&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "이효석문화예술촌",
+    "photo": "../images/문학관/이효석.jpg",
+    "link": "/html/leehyoseok.html"
+  },
+  "major": [
+    { "id": "44", "title": "메밀꽃 필 무렵", "cover": "../images/works/24. 메밀꽃 필 무렵 이효석.png" },
+    { "id": "45", "title": "화분", "cover": "../images/works/24. 화분 이효석.png" },
+    { "id": "46", "title": "노령근해", "cover": "../images/works/24. 노령근해 이효석.png" }
+  ],
+  "related": [
+    { "id": "r35", "title": "황만근은 이렇게 말했다", "cover": "../images/연관/24. 황만근은 이렇게 말했다.png" },
+    { "id": "r36", "title": "칼자국", "cover": "../images/연관/24. 칼자국.png" },
+    { "id": "r37", "title": "제 꿈 꾸세요", "cover": "../images/연관/24. 제 꿈 꾸세요.png" }
+  ]
+}
+,
+
+ {
+  "id": "48",
+  "title": "소나기(1953)",
+  "cover": "../images/works/25. 소나기 황순원.png",
+  "genre": "단편소설",
+  "theme": "순수하고 덧없는 소년과 소녀의 첫사랑과 그 이별을 통한 아름다운 슬픔을 표현한 작품이다.",
+  "table_summary": {
+    "labels": { "table": "목차", "summary":"줄거리" },
+    "table": "소나기\n별\n산골아이\n독 짓는 늙은이",
+    "summary":"소나기:순박한 시골 마을을 배경으로, 소나기가 갑자기 내렸다가 멈추는 것처럼, 소년과 소녀의 관계 역시 짧은 만남과 설렘, 그리고 예기치 않은 이별로 빠르게 끝이 난다. 소녀의 죽음과 유언은 이 순수한 사랑이 속세에 물들지 않은 채 영원히 간직되기를 바라는 숭고하고 아름다운 슬픔을 더한다."
+  },
+  "author": {
+    "name": "황순원",
+    "photo": "../images/writers/황순원.png",
+    "bio": "초기에는 입사소설 형식을 띠는 작품들을 특유의 시적 문체로 많이 썼다. 이후 인간의 힘으로는 감당할 수 없는 극한 상황에 내몰린 비극적 현실을 증언하는 내용을 주로 썼고, 그 속에서 생명의 기운과 소중함을 설파했다.",
+    "link": "/html/author_detail.html?id=황순원"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%86%8C%EB%82%98%EA%B8%B0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22979431&bibPageSize=10&bibPageNum=4&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=170936962",
+  "museum": {
+    "name": "황순원문학촌소나기마을",
+    "photo": "../images/문학관/황순원.jpg",
+    "link": "/html/hwangsunwon.html"
+  },
+  "major": [
+    { "id": "49", "title": "카인의 후예", "cover": "../images/works/25. 카인의 후예 황순원.png" },
+    { "id": "50", "title": "일월", "cover": "../images/works/25. 일월 황순원.png" },
+    { "id": "51", "title": "별", "cover": "../images/works/25. 별 황순원.png" }
+  ],
+  "related": [
+    { "id": "r38", "title": "한정희와 나", "cover": "../images/연관/25. 한정희와 나.png" },
+    { "id": "r39", "title": "금성녀", "cover": "../images/연관/25. 금성녀.png" }
+  ]
+}
+,
+
+ {
+  "id": "49",
+  "title": "카인의 후예(1953-1954)",
+  "cover": "../images/works/25. 카인의 후예 황순원.png",
+  "genre": "소설",
+  "theme": "이념 대립이 첨예했던 해방 직후 북한의 토지개혁을 배경으로 인간의 근원적 악(카인의 원죄)과 순수성, 그리고 그로 인해 파멸하는 인간관계를 다룬다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "해방 후 혼란스러운 시기 평안도 양지골을 배경으로, 지주 계급 지식인 박훈과 마름의 딸 장녀의 비극적인 사랑을 그린 소설이다. 지주와 소작농의 갈등 속에서 박훈은 할아버지가 돌아가신 후 상속받은 땅을 두고 갈등하고, 장녀와는 신분 차이와 이념 대립으로 인해 사랑이 좌절되는 내용을 다룬다."
+  },
+  "author": {
+    "name": "황순원",
+    "photo": "../images/writers/황순원.png",
+    "bio": "초기에는 입사소설 형식을 띠는 작품들을 특유의 시적 문체로 많이 썼다. 이후 인간의 힘으로는 감당할 수 없는 극한 상황에 내몰린 비극적 현실을 증언하는 내용을 주로 썼고, 그 속에서 생명의 기운과 소중함을 설파했다.",
+    "link": "/html/author_detail.html?id=황순원"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%86%8C%EB%82%98%EA%B8%B0&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22979431&bibPageSize=10&bibPageNum=4&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=170936962",
+  "museum": {
+    "name": "황순원문학촌소나기마을",
+    "photo": "../images/문학관/황순원.jpg",
+    "link": "/html/hwangsunwon.html"
+  },
+  "major": [
+    { "id": "48", "title": "소나기", "cover": "../images/works/25. 소나기 황순원.png" },
+    { "id": "50", "title": "일월", "cover": "../images/works/25. 일월 황순원.png" },
+    { "id": "51", "title": "별", "cover": "../images/works/25. 별 황순원.png" }
+  ],
+  "related": [
+    { "id": "r38", "title": "한정희와 나", "cover": "../images/연관/25. 한정희와 나.png" },
+    { "id": "r39", "title": "금성녀", "cover": "../images/연관/25. 금성녀.png" }
+  ]
+}
+,
+
+
+{
+  "id": "50",
+  "title": "일월(1-16,1962-1964)",
+  "cover": "../images/works/25. 일월 황순원.png",
+  "genre": "소설",
+  "theme": "인간의 근원적 존재 양식을 고독으로 파악하고 그 인간 조건에 반응하는 인물들의 고뇌를 조명하여 구원의 가능성을 어디에서 찾아야 할지에 대한 암시를 던지는 소설이다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "주인공 인철은 장래가 촉망되는 건축공학도이다. 그러다 어느날 자기가 백정의 후손이라는 충격적인 사실을 알게 되고, 이 사실은 그의 이제까지의 삶의 바탕을 근원적으로 뒤흔들어 놓는다. 그는 방황하기 시작한다. 그러나 이런 어려운 시련 끝에 인철은 다시금 자아를 바로 세울 수 있게 되고, 사촌형인 기룡과의 만남을 통하여 자기 고독을 확인할 수 있게 된다. 뿐만 아니라 그 고독을 딛고 일어서려는 삶의 의지를 다진다. "
+  },
+  "author": {
+    "name": "황순원",
+    "photo": "../images/writers/황순원.png",
+    "bio": "초기에는 입사소설 형식을 띠는 작품들을 특유의 시적 문체로 많이 썼다. 이후 인간의 힘으로는 감당할 수 없는 극한 상황에 내몰린 비극적 현실을 증언하는 내용을 주로 썼고, 그 속에서 생명의 기운과 소중함을 설파했다.",
+    "link": "/html/author_detail.html?id=황순원"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=%EB%AC%B8%ED%95%99%5E%EB%AC%B8%ED%95%99&facetLang=&keywordType1=total&keyword1=%ED%99%A9%EC%88%9C%EC%9B%90+%EC%9D%BC%EC%9B%94&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=23159240&bibPageSize=10&bibPageNum=3&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=232241581",
+  "museum": {
+    "name": "황순원문학촌소나기마을",
+    "photo": "../images/문학관/황순원.jpg",
+    "link": "/html/hwangsunwon.html"
+  },
+  "major": [
+    { "id": "48", "title": "소나기", "cover": "../images/works/25. 소나기 황순원.png" },
+    { "id": "49", "title": "카인의 후예", "cover": "../images/works/25. 카인의 후예 황순원.png" },
+    { "id": "51", "title": "별", "cover": "../images/works/25. 별 황순원.png" }
+  ],
+  "related": [
+    { "id": "r38", "title": "한정희와 나", "cover": "../images/연관/25. 한정희와 나.png" },
+    { "id": "r39", "title": "금성녀", "cover": "../images/연관/25. 금성녀.png" }
+  ]
+}
+,
+
+{
+  "id": "51",
+  "title": "별(1941)",
+  "cover": "../images/works/25. 별 황순원.png",
+  "genre": "단편소설",
+  "theme": "죽은 어머니에 대한 그리움과 누이에 대한 애증이라는 복합적인 주제를 다루고 있다. 소년의 오이디푸스 콤플렉스와 절대적인 사랑, 그리고 누이의 죽음 이후의 성장통 등을 통해 인간의 순수성과 내면의 복잡한 심리를 서정적으로 그리고 있다.",
+  "table_summary": {
+    "labels": { "table": "목차", "summary":"줄거리" },
+    "table": "늪\n별\n기로기\n독 짓는 늙은이\n아버지\n... 외",
+    "summary":"별:어머니를 잃은 어린아이가 누이를 통해 어머니의 아름다움을 확인하고, 누이가 죽은 후 그녀를 어머니처럼 별로 승화시키며 사랑하게 되는 과정을 그린 성장 소설이다. 이 소설은 어린아이가 이상과 현실, 생과 사를 깨닫는 과정을 섬세한 문체와 서정적인 분위기로 묘사하며, 현대 소설의 걸작으로 평가받는다."
+  },
+  "author": {
+    "name": "황순원",
+    "photo": "../images/writers/황순원.png",
+    "bio": "초기에는 입사소설 형식을 띠는 작품들을 특유의 시적 문체로 많이 썼다. 이후 인간의 힘으로는 감당할 수 없는 극한 상황에 내몰린 비극적 현실을 증언하는 내용을 주로 썼고, 그 속에서 생명의 기운과 소중함을 설파했다.",
+    "link": "/html/author_detail.html?id=황순원"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultDetail.do?tab=ALL&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%ED%99%A9%EC%88%9C%EC%9B%90+%EB%B3%84&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=22951415&bibPageSize=10&bibPageNum=1&bibEdit=&bibSortField=&bibSortOrder=&publishFormCode=BO&bibKey=103460944",
+  "museum": {
+    "name": "황순원문학촌소나기마을",
+    "photo": "../images/문학관/황순원.jpg",
+    "link": "/html/hwangsunwon.html"
+  },
+  "major": [
+    { "id": "48", "title": "소나기", "cover": "../images/works/25. 소나기 황순원.png" },
+    { "id": "49", "title": "카인의 후예", "cover": "../images/works/25. 카인의 후예 황순원.png" },
+    { "id": "50", "title": "일월", "cover": "../images/works/25. 일월 황순원.png" }
+  ],
+  "related": [
+    { "id": "r38", "title": "한정희와 나", "cover": "../images/연관/25. 한정희와 나.png" },
+    { "id": "r39", "title": "금성녀", "cover": "../images/연관/25. 금성녀.png" }
+  ]
+}
+,
+
+{
+  "id": "52",
+  "title": "레디메이드인생(1934)",
+  "cover": "../images/works/12. 레디메이드인생 채만식.png",
+  "genre": "소설",
+  "theme": "고등교육을 받은 엘리트임에도 취업하지 못한 지식인의 ‘잉여’적 처지를 사실적으로 그린 작품으로 당시의 한국 지식인의 운명과 그 곤경을 제재로 풍자하였다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "세계적인 경제공황기에 실직 중인 P는 이력서를 들고 이곳 저곳 찾아 다니지만 모두 거절당하고 나서 자신이 인텔리인 것을 원망, 책을 잡혀 친구들과 선술집 ·카페 ·색주가로 돌아다니며 실업자의 울분을 터뜨린다. 아들만은 자신과 같은 인텔리 실직자를 만들지 않겠다는 생각에서 보통학교도 안 마친 애를 잘 아는 인쇄소에 맡기고 돌아오면서 “레디메이드(기성품) 인생이 비로소 임자를 만나 팔리었구나”라고 P는 혼자 중얼거린다. 지식인 실업자의 생태와 당시의 사회상을 풍자적으로 그린 채만식의 대표작이다."
+  },
+  "author": {
+    "name": "채만식",
+    "photo": "../images/writers/채만식.png",
+    "bio": "채만식의 작품 세계는 당시의 현실 반영과 비판에 집중되었다. 식민지 상황 아래에서 농민의 궁핍, 지식인의 고뇌, 도시 하층민의 몰락, 광복 후의 혼란상 등을 실감나게 그리면서 그 근저에 놓여 있는 역사적 · 사회적 상황을 신랄하게 비판했다. 작품 기법에 있어 매우 다양한 시도를 했는데, 특히 풍자적 수법에서 큰 수확을 거두었다고 할 수 있다. 1933년까지 발표한 작품들을 보면 프로 문학에 동조하는 경향을 보여준다. 이후 자전적 소설 <레디메이드 인생>과 희곡 <인텔리와 빈대떡> 등의 작품을 발표하면서 풍자성이 강한 사회소설을 쓰기 시작했으며, 반어, 비유, 역설 등을 사용해 현실을 그려낸 채만식만의 독자적인 작품세계를 구축했다. ",
+    "link": "/html/author_detail.html?id=채만식"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%EB%A0%88%EB%94%94%EB%A9%94%EC%9D%B4%EB%93%9C+%EC%9D%B8%EC%83%9D&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "채만식 문학관",
+    "photo": "../images/문학관/채만식.jpg",
+    "link": "/html/chaemansik.html"
+  },
+  "major": [
+    { "id": "53", "title": "탁류", "cover": "../images/works/12. 탁류 채만식.png" },
+    { "id": "54", "title": "태평천하", "cover": "../images/works/12. 태평천하 채만식.png" }
+  ],
+  "related": [
+    { "id": "r40", "title": "만세전", "cover": "../images/연관/12. 만세전.png" }
+  ]
+}
+,
+
+{
+  "id": "53",
+  "title": "탁류(1937-1938)",
+  "cover": "../images/works/12. 탁류 채만식.png",
+  "genre": "소설",
+  "theme": "채만식의 풍자문학적 특징이 가장 잘 드러난 작품으로 1930년대 한국 사회에 스며 있던 탐욕과 위선, 타락한 사회상을 적나라하게 해부하고 있다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "근대 도시 군산을 배경으로 타락한 정 주사, 꿈을 상실한 초봉, 사기꾼 고태수, 악한 장형보, 음흉한 박제호 등 온갖 인간 군상들의 속물적인 삶과 행동을 묘사함으로써 식민 시대의 부정적이고 절망적인 사회상을 여지없이 드러낸다. 그러나 작가는 긍정적인 인물인 계봉과 남승재를 통해 새로운 시대를 염원하는 희망을 제시하는 것을 잊지 않았다."
+  },
+  "author": {
+    "name": "채만식",
+    "photo": "../images/writers/채만식.png",
+    "bio": "채만식의 작품 세계는 당시의 현실 반영과 비판에 집중되었다. 식민지 상황 아래에서 농민의 궁핍, 지식인의 고뇌, 도시 하층민의 몰락, 광복 후의 혼란상 등을 실감나게 그리면서 그 근저에 놓여 있는 역사적 · 사회적 상황을 신랄하게 비판했다. 작품 기법에 있어 매우 다양한 시도를 했는데, 특히 풍자적 수법에서 큰 수확을 거두었다고 할 수 있다. 1933년까지 발표한 작품들을 보면 프로 문학에 동조하는 경향을 보여준다. 이후 자전적 소설 <레디메이드 인생>과 희곡 <인텔리와 빈대떡> 등의 작품을 발표하면서 풍자성이 강한 사회소설을 쓰기 시작했으며, 반어, 비유, 역설 등을 사용해 현실을 그려낸 채만식만의 독자적인 작품세계를 구축했다. ",
+    "link": "/html/author_detail.html?id=채만식"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%ED%83%81%EB%A5%98&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "채만식 문학관",
+    "photo": "../images/문학관/채만식.jpg",
+    "link": "/html/chaemansik.html"
+  },
+  "major": [
+    { "id": "52", "title": "레디메이드인생", "cover": "../images/works/12. 레디메이드인생 채만식.png" },
+    { "id": "54", "title": "태평천하", "cover": "../images/works/12. 태평천하 채만식.png" }
+  ],
+  "related": [
+    { "id": "r40", "title": "만세전", "cover": "../images/연관/12. 만세전.png" }
+  ]
+}
+,
+
+{
+  "id": "54",
+  "title": "태평천하(1948)",
+  "cover": "../images/works/12. 태평천하 채만식.png",
+  "genre": "소설",
+  "theme": "930년대 식민지 조선의 사회적, 경제적 현실을 다루고있다. 일제의 식민지 착취에 편승하여 부를 축적한 자본가들의 배금주의와 윤리적 일탈은 무너질 대로 무너진 사회의 실상을 여실히 드러낸다. 이를 풍자와 반어로 통렬하게 그려 낸 기념비적 작품이다.",
+  "table_summary": {
+    "labels": { "summary": "줄거리" },
+    "summary": "일제의 식민지 경제 구조에 교묘하게 편승하여 막대한 부를 축적한 뒤 사회 현실에 눈감고 철저하게 개인과 가족의 이익만을 도모하는 인물 윤직원을 통해 당대 사회의 부조리와 모순을 거침없이 폭로한다. 나아가 윤직원 일가의 방종하고 난잡한 생활상을 날카로운 풍자와 번뜩이는 아이러니로 생생하게 묘사함으로써 왜곡된 사회에 기생하며 살아가는 속물적 인간형을 한껏 조롱한다. 판소리 사설체를 차용하고 호남 방언을 풍부하고 맛깔스럽게 활용하는 등 『태평천하』는 문예 미학적으로도 한국 근대 문학사에서 중요한 자리를 차지한다."
+  },
+  "author": {
+    "name": "채만식",
+    "photo": "../images/writers/채만식.png",
+    "bio": "채만식의 작품 세계는 당시의 현실 반영과 비판에 집중되었다. 식민지 상황 아래에서 농민의 궁핍, 지식인의 고뇌, 도시 하층민의 몰락, 광복 후의 혼란상 등을 실감나게 그리면서 그 근저에 놓여 있는 역사적 · 사회적 상황을 신랄하게 비판했다. 작품 기법에 있어 매우 다양한 시도를 했는데, 특히 풍자적 수법에서 큰 수확을 거두었다고 할 수 있다. 1933년까지 발표한 작품들을 보면 프로 문학에 동조하는 경향을 보여준다. 이후 자전적 소설 <레디메이드 인생>과 희곡 <인텔리와 빈대떡> 등의 작품을 발표하면서 풍자성이 강한 사회소설을 쓰기 시작했으며, 반어, 비유, 역설 등을 사용해 현실을 그려낸 채만식만의 독자적인 작품세계를 구축했다. ",
+    "link": "/html/author_detail.html?id=채만식"
+  },
+  "library": "https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?tab=ALL&historyYn=Y&keywordType1=total&keyword1=%ED%83%9C%ED%8F%89%EC%B2%9C%ED%95%98&bookFilter=BKGM&bookFilter=YON&bookFilter=BKDM&bookFilter=NK&bookFilter=NP&bookFilter=OT",
+  "museum": {
+    "name": "채만식 문학관",
+    "photo": "../images/문학관/채만식.jpg",
+    "link": "/html/chaemansik.html"
+  },
+  "major": [
+    { "id": "52", "title": "레디메이드인생", "cover": "../images/works/12. 레디메이드인생 채만식.png" },
+    { "id": "53", "title": "탁류", "cover": "../images/works/12. 탁류 채만식.png" }
+  ],
+  "related": [
+    { "id": "r40", "title": "만세전", "cover": "../images/연관/12. 만세전.png" }
+  ]
+}
+
 ]
