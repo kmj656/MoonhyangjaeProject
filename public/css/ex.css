@@ -19,7 +19,6 @@ body {
   font-family: sans-serif;
 }
 
-
 /* ---------------------------
    Scroll Buttons
 --------------------------- */
@@ -38,7 +37,7 @@ body {
   font-size: 20px;
   background: white;
   border: 1px solid #000;
-  border-radius: 50%; /* 원형 */
+  border-radius: 50%;
   cursor: pointer;
   transition: background 0.2s;
 }
@@ -82,14 +81,12 @@ main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
-/* 책 표지 */
 .cover {
   width: 100%;
   height: auto;
   border-radius: 0;
 }
 
-/* 제목 */
 .title {
   margin: 15px 0 10px;
   font-size: 1.2em;
@@ -97,7 +94,6 @@ main {
   position: relative;
 }
 
-/* 제목 아래 가로선 */
 .title::after {
   content: "";
   display: block;
@@ -107,7 +103,6 @@ main {
   margin-top: 10px;
 }
 
-/* 유형 태그 */
 .footer .type {
   display: inline-block;
   padding: 5px 12px;
@@ -119,7 +114,7 @@ main {
 }
 
 /* ---------------------------
-   LEFT MENU (네비게이션 박스)
+   LEFT MENU
 ---------------------------- */
 .left-menu {
   width: 300px;
@@ -157,7 +152,6 @@ main {
   gap: 20px;
 }
 
-/* 섹션 전체 투명 배경 */
 .additional-content section {
   background-color: transparent;
   padding: 15px;
@@ -165,13 +159,12 @@ main {
   border-radius: 0;
 }
 
-/* 제목 */
 .additional-content .section-title {
   padding: 10px 15px;
   font-weight: 600;
   cursor: pointer;
   border-bottom: 1px solid #ccc;
-  position: relative; /* 화살표용 */
+  position: relative;
 }
 
 .additional-content .section-title:hover {
@@ -181,20 +174,14 @@ main {
 /* ---------------------------
    아코디언
 --------------------------- */
-/* 섹션 제목 */
 .section-title {
   padding: 10px 15px;
   font-weight: 600;
   cursor: pointer;
   border-bottom: 1px solid #ccc;
-  position: relative; /* 화살표용 */
+  position: relative;
 }
 
-.section-title:hover {
-  background-color: #f0f0f0;
-}
-
-/* 화살표 표시 */
 .section-title::after {
   content: "▼";
   position: absolute;
@@ -202,90 +189,46 @@ main {
   transition: transform 0.3s;
 }
 
-/* 펼쳐진 상태 화살표 회전 */
 .section-title.active::after {
   transform: rotate(180deg);
 }
 
-/* 내용 영역 */
 .section-content {
-  display: flex;          /* 처음부터 flex로 열려 있음 */
+  display: flex;
   flex-direction: row;
-  gap: 15px;
+  flex-wrap: wrap;
+  gap: 25px;
   overflow: hidden;
-  padding: 10px 15px;
+  padding: 15px 15px;
 }
-
 
 /* ---------------------------
-   작가 섹션 (이미지 + 가로 배치)
+   이미지 크기 통합 확대
 --------------------------- */
-#author .section-content {
-  display: flex;
-  align-items: flex-start;
-  gap: 15px;
-}
-
-#author .section-content .cover {
-  width: 80px;
-  height: 110px;
+#author .section-content img,
+#museum .section-content img,
+#major .section-content img,
+#related .section-content img {
+  width: 150px;
+  height: 205px;
   object-fit: cover;
+  border-radius: 4px;
   flex-shrink: 0;
 }
 
+/* 작가 텍스트 */
 #author .section-content p {
   margin: 0;
   line-height: 1.5;
+  font-size: 1rem;
 }
 
-/* ---------------------------
-   문학관 섹션 - 이미지 + 내용 가로 정렬
---------------------------- */
-#museum .section-content {
-  display: flex;
-  align-items: flex-start;
-  gap: 15px;
-}
-
-#museum .section-content .museum-cover {
-  width: 80px;
-  height: 110px;
-  object-fit: cover;
-  flex-shrink: 0;
-}
-
-#museum .section-content p {
-  margin: 0;
-  line-height: 1.5;
-}
-
-/* 연관작품 */
-
-#major .section-content, 
-#related .section-content {
-  display: flex;
-  align-items: flex-start;
-  gap: 30px 20px;
-}
-
-#major .section-content .major-cover, 
-#related .section-content .related-cover{
-  width: 80px;
-  height: 110px;
-  object-fit: cover;
-  flex-shrink: 0;
-}
-
-
-
-/* 기본 링크 스타일 초기화 */
+/* 기본 링크 스타일 */
 a {
   color: inherit;
   text-decoration: none;
 }
 
-/* 방문한 링크도 색 유지 */
 a:visited {
   color: inherit;
 }
-
