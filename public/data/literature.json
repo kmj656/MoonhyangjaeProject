@@ -3,7 +3,7 @@
   {
     "id": "1",
     "title": "누가 하늘을 보았다 하는가(1969)",
-    "cover": "..images/works/01. 누가 하늘을 보았다 하는가 신동엽.png",
+    "cover": "../images/works/01. 누가 하늘을 보았다 하는가 신동엽.png",
     "genre": "시",
     "theme": "억압된 현실을 직시하고 진정한 자유와 평화를 갈망하며, 이를 실현하기 위해 저항하자는 의지를 보여주는 시다.",
     "table_summary": {
@@ -13,24 +13,24 @@
     "poem": "누가 하늘을 보았다 하는가\n누가 구름 한 송이 없는 맑은\n\n하늘을 보았다 하는가.\n\n네가 본 건, 먹구름\n\n그걸 하늘로 알고\n\n일생을 살아갔다.\n\n네가 본 건, 지붕 덮은\n\n쇠 항아리.\n\n그걸 하늘로 알고\n\n일생을 살았갔다.\n\n닦아라, 사람들아\n\n네 마음속 구름\n\n찢어라, 사람들아.\n\n네 머리 덮은 쇠 항아리.\n\n아침저녁\n\n네 마음속 구름을 닦고\n\n티 없이 맑은 영원의 하늘\n\n볼 수 있는 사람은\n\n외경을\n\n알리라\n\n아침저녁\n\n네 머리 위 쇠 항아릴 찢고\n\n마실 수 있는 사람은\n\n연민을\n알리라\n\n차마 삼가서\n\n발걸음도 조심\n\n마음 아모리며.\n\n서럽게\n\n아 엄숙한 세상을\n\n서럽게\n\n눈물 흘러\n\n살아가리라\n\n누가 하늘을 보았다 하는가.\n\n누가 구름 한 자락 없이 맑은\n\n하늘을 보았다 하는가.",
     "author": {
       "name": "신동엽",
-      "photo": "..images/writers/신동엽.png",
+      "photo": "../images/writers/신동엽.png",
       "bio": "신동엽 시인의 작품 성향은 민족적 리얼리즘을 바탕으로 참여적이고 저항적인 성격을 띠면서도 역사적 상상력과 서정성을 결합한 것이 특징이다. 역사적 질곡 속에서 진정으로 가치 있는 알맹이(순수한 마음)만을 남기고자 하는 바람을 직설적이고 간절하게 표현했으며, '껍데기는 가라'와 같은 작품에서 잘 드러난다.",
       "link": "author_detail.html?id=신동엽"
     },
     "library": "https://www.nl.go.kr/kolisnet/search/searchResultEditonList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=author&keyword1=신동엽&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=23020863",
     "museum": {
       "name": "신동엽 문학관",
-      "photo": "..images/문학관/신동엽.jpg",
+      "photo": "../images/문학관/신동엽.jpg",
       "link": " shindongyeop.html"
     },
     "major": [
-      { "id": "2", "title": "껍데기는 가라", "cover": "..images/works/01. 껍데기는 가라 신동엽.png" },
-      { "id": "3", "title": "신동엽 산문전집", "cover": "..images/works/01. 신동엽 산문전집 신동엽.png" }
+      { "id": "2", "title": "껍데기는 가라", "cover": "../images/works/01. 껍데기는 가라 신동엽.png" },
+      { "id": "3", "title": "신동엽 산문전집", "cover": "../images/works/01. 신동엽 산문전집 신동엽.png" }
     ],
     "related": [
-      { "id": "r1", "title": "파씨의 입문", "cover": "..images/연관/01. 파씨의 입문.png" },
-      { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "..images/연관/01.센티맨털도 하루 이틀.png" },
-      { "id": "r3", "title": "로기완을 만났다", "cover": "..images/연관/01.로기완을 만났다.png" }
+      { "id": "r1", "title": "파씨의 입문", "cover": "../images/연관/01. 파씨의 입문.png" },
+      { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "../images/연관/01.센티맨털도 하루 이틀.png" },
+      { "id": "r3", "title": "로기완을 만났다", "cover": "../images/연관/01.로기완을 만났다.png" }
     ]
   },
 
