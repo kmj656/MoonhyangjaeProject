@@ -111,7 +111,7 @@ let booksData = [];
 // =============================
 // JSON 불러오기 & 상세페이지 채우기
 // =============================
-fetch("related.json")
+fetch("/data/related.json")
   .then(res => res.json())
   .then(data => {
     booksData = data;
