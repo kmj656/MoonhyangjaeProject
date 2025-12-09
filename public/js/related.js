@@ -99,10 +99,19 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 
+
+// =============================
+// URL에서 id 가져오기
+// =============================
+const params = new URLSearchParams(window.location.search);
+const bookId = params.get('id');
+
+let booksData = [];
+
 // =============================
 // JSON 불러오기 & 상세페이지 채우기
 // =============================
-fetch("/data/literature.json")
+fetch("/data/related.json")
   .then(res => res.json())
   .then(data => {
     booksData = data;
@@ -114,6 +123,7 @@ function displayBook(list, id) {
   const book = list.find(b => b.id == id);
   if (!book) return;
 
+ 
   // info-card
   const infoCard = document.querySelector(".info-card");
   const displayGenre = book.genre === "단편소설" ? "소설" : book.genre;
@@ -207,9 +217,8 @@ else {
 }
 
   // 작가
-  document.querySelector("#author-photo").src = book.author.photo;
-  document.querySelector("#author-photo-link").href = book.author.link || "#";
-  document.querySelector("#author-bio").textContent = book.author.bio;
+
+  document.querySelector("#author-name").textContent = book.author.name;
 
   // 도서관
   document.querySelector("#library-link").href = book.library;
