@@ -28,7 +28,7 @@
         "title": "누가 하늘을 보았다 하는가",
         "image": "/images/works/01. 누가 하늘을 보았다 하는가 신동엽.png",
         "desc": "억압된 현실을 직시하고 진정한 자유와 평화를 갈망하며, 이를 실현하기 위해 저항하자는 의지를 보여주는 시.",
-        "link": "https://moonhyang-ai.onrender.com/html/literature.html?id=1"
+        "link": "literature.html?id=1"
       },
       {
         "id": "2",
@@ -85,21 +85,21 @@
         "title": "백록담",
         "image": "/images/works/02. 백록담 정지용.png",
         "desc": "반영론적 관점에서 이 작품은 일제에 의해 정체성을 잃고 살아가는 우리 민족의 서글픔을 간접적으로 드러내면서 우리 민족 고유의 정기가 깃든 한라산 산행은 부정적 현실을 극복하려는 의지를 표현한다.",
-        "link": "literature.html?id=$4"
+        "link": "literature.html?id=4"
     }, 
     {
         "id": "5",
         "title": "별똥 떨어진 곳",
         "image": "/images/works/02. 별똥 정지용.png",
         "desc": "별똥을 쫓았던 어린 시절의 자기 자신과 그 꿈을 놓아버린 현재의 성인 사이에 거리감을 느끼며, 이루지 못한 소중한 다짐에 대한 그리움과 씁쓸함을 표현한다.",
-        "link": "literature.html?id=$5"
+        "link": "literature.html?id=5"
     }, 
     {
       "id": "6",
         "title": "꾀꼬리와 국화",
         "image": "/images/works/02. 꾀꼬리와 국화 정지용.png",
         "desc": "계절의 변화와 그에 따른 자연의 정경, 그리고 화자의 내면적 정서의 변화를 섬세하게 묘사한다.",
-        "link": "literature.html?id=$6" 
+        "link": "literature.html?id=6" 
     }]
   },
   {
@@ -143,21 +143,21 @@
       "title": "인간시장(1-10권)",
       "image": "/images/works/03. 인간시장 김홍신.png",
       "desc": "1980년대 우리나라 현실에 대한 조롱과 풍자 그리고 속시원한 해결법으로 독자의 가슴을 시원하게 뚫어주었던 김홍신의 연작소설이다.",
-      "link": "literature.html?id=$7"
+      "link": "literature.html?id=7"
     },
     {
       "id": "8",
       "title": "칼날 위의 전쟁(1~2)",
       "image": "/images/works/03. 칼날 위의 전쟁 김홍신.png",
       "desc": "「현대 과학의 쌀」이라는 반도체 개발을 둘러싸고 벌어지는 한국과 일본의 갈등, 한국 기업간의 경쟁을 다룬 작품.",
-      "link": "literature.html?id=$8"
+      "link": "literature.html?id=8"
     },
     {
       "id": "9",
       "title": "김홍신의 대발해(1~10)",
       "image": "/images/works/03. 김홍신의 대발해 김홍신.png",
       "desc": "발해의 흥망성쇠를 다룬 거대 서사로, 잃어버린 고대 황제국 발해의 역사와 웅혼한 기백을 되살려낸 대하역사소설이다.",
-      "link": "literature.html?id=$9"
+      "link": "literature.html?id=9"
     }
   ]
 }
@@ -206,28 +206,28 @@
       "title": "역사는 흐른다",
       "image": "/images/works/05. 역사는 흐른다 한무숙.png",
       "desc": "우리 민족사에서 수난의 파장이 가장 컸던 조선 왕조의 석양 무렵부터 해방 어간에 이르기까지 조씨 일문의 3대에 걸친 영욕과 현대사의 우여곡절이 안팎을 이루어 때론 참과 거짓, 덕과 욕이 공존하며 살아갔던 민중들에 관한 연대기적 작품이다.",
-      "link": "literature.html?id=$13"
+      "link": "literature.html?id=13"
     },
     {
       "id": "14",
       "title": "감정이 있는 심연",
       "image": "/images/works/05. 감정이 있는 사연 한무숙.png",
       "desc": "인간 내면에 있는 콤플렉스 현상을 다룬 심리소설이다.",
-      "link": "literature.html?id=$14"
+      "link": "literature.html?id=14"
     },
     {
       "id": "15",
       "title": "생인손",
       "image": "/images/works/05. 생인손 한무숙.png",
       "desc": "기구한 운명의 주인공 ‘언년이’의 일생을 통해 백 년에 이르는 근대의 역사를 선명하게 다루었다.",
-      "link": "literature.html?id=$15"
+      "link": "literature.html?id=15"
     },
     {
       "id": "16",
       "title": "만남 (1-2권)",
       "image": "/images/works/05. 만남 한무숙.png",
       "desc": "종교와 국가, 문명의 거대한 틀 속에서 비틀리는 개개인의 고뇌와 한계를 인간애로 승화시켜 받아들이는 따뜻한 시선이 담겨 있는 작품이다.",
-      "link": "literature.html?id=$16"
+      "link": "literature.html?id=16"
     }
   ]
 }
