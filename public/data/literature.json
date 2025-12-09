@@ -60,11 +60,11 @@
   },
   "major": [
     { "id": "1", "title": "누가 하늘을 보았다 하는가", "cover": "../images/works/01. 누가 하늘을 보았다 하는가 신동엽.png" },
-    { "id": "3", "title": "신동엽 산문전집", "cover": "../images/works/01. 신동엽 산문전집 신동엽.png" }
+    { "id": "3", "title": "신동엽 산문전집", "cover": "../images/works/01. 신동엽 산문선집 신동엽.png" }
   ],
   "related": [
     { "id": "r1", "title": "파씨의 입문", "cover": "../images/연관/01. 파씨의 입문.png" },
-    { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "../images/연관/01. 샌티맨털도 하루이틀.png" },
+    { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "../images/연관/01. 센티맨털도 하루이틀.png" },
     { "id": "r3", "title": "로기완을 만났다", "cover": "../images/연관/01. 로기완을 만났다.png" }
   ]
 }
@@ -73,7 +73,7 @@
 {
   "id": "3",
   "title": "신동엽 산문전집(2019)",
-  "cover": "../images/works/01. 신동엽 산문전집 신동엽.png",
+  "cover": "../images/works/01. 신동엽 산문선집 신동엽.png",
   "genre": "수필",
   "theme": "민족의 운명에 대한 깊은 성찰과 역사에 대한 뜨거운 사랑이 담긴 산문을 총 7부에 걸쳐 시극·오페레타, 평론, 수필, 일기, 편지, 기행, 방송대본의 순으로 수록했다.",
   "table_summary": {
@@ -98,7 +98,7 @@
   ],
   "related": [
     { "id": "r1", "title": "파씨의 입문", "cover": "../images/연관/01. 파씨의 입문.png" },
-    { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "../images/연관/01. 센티맨털도 하루 이틀.png" },
+    { "id": "r2", "title": "센티멘털도 하루 이틀", "cover": "../images/연관/01. 센티맨털도 하루이틀.png" },
     { "id": "r3", "title": "로기완을 만났다", "cover": "../images/연관/01. 로기완을 만났다.png" }
   ]
 }
@@ -132,7 +132,7 @@
     { "id": "6", "title": "꾀꼬리와 국화", "cover": "../images/works/02. 꾀꼬리와 국화 정지용.png" }
   ],
   "related": [
-    { "id": "r4", "title": "봄 편지", "cover": "../images/연관/02. 봄 편지.png" },
+    { "id": "r4", "title": "봄 편지", "cover": "../images/연관/02. 봄편지.png" },
     { "id": "r5", "title": "고향의 봄", "cover": "../images/연관/02. 고향의 봄.png" },
     { "id": "r6", "title": "감자꽃", "cover": "../images/연관/02. 감자꽃.png" }
   ]
@@ -167,7 +167,7 @@
     { "id": "6", "title": "꾀꼬리와 국화", "cover": "../images/works/02. 꾀꼬리와 국화 정지용.png" }
   ],
   "related": [
-    { "id": "r4", "title": "봄 편지", "cover": "../images/연관/02. 봄 편지.png" },
+    { "id": "r4", "title": "봄 편지", "cover": "../images/연관/02. 봄편지.png" },
     { "id": "r5", "title": "고향의 봄", "cover": "../images/연관/02. 고향의 봄.png" },
     { "id": "r6", "title": "감자꽃", "cover": "../images/연관/02. 감자꽃.png" }
   ]
@@ -201,7 +201,7 @@
     { "id": "5", "title": "별똥", "cover": "../images/works/02. 별똥 정지용.png" }
   ],
   "related": [
-    { "id": "r4", "title": "봄 편지", "cover": "../images/연관/02. 봄 편지.png" },
+    { "id": "r4", "title": "봄 편지", "cover": "../images/연관/02. 봄편지.png" },
     { "id": "r5", "title": "고향의 봄", "cover": "../images/연관/02. 고향의 봄.png" },
     { "id": "r6", "title": "감자꽃", "cover": "../images/연관/02. 감자꽃.png" }
   ]
