@@ -99,6 +99,15 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 
+
+// =============================
+// URL에서 id 가져오기
+// =============================
+const params = new URLSearchParams(window.location.search);
+const bookId = params.get('id');
+
+let booksData = [];
+
 // =============================
 // JSON 불러오기 & 상세페이지 채우기
 // =============================
@@ -140,35 +149,31 @@ if (book.genre === "시") {
   poemLink.style.display = "block";     // 대표시 표시
 } else if (book.genre === "단편소설") {
   tableLink.style.display = "block";     // 단편소설은 목차 표시
-  summaryLink.style.display = "block";   // 줄거리 표시
+  summaryLink.style.display = "none";   // 줄거리 숨김
   poemLink.style.display = "none";      // 대표시는 없음
 } else { // 소설, 수필
-  tableLink.style.display = "none";     // 목차 숨김
+  tableLink.style.display = "block";     // 목차 숨김
   summaryLink.style.display = "block"; // 줄거리 표시
   poemLink.style.display = "none";      // 대표시는 없음
 }
 
 
- /* =============================
-   장르별 본문 표시 (사이드바 로직과 동일)
-   ============================= */
-
+  // 목차 + 줄거리
 const ts = book.table_summary || {};
 const labels = ts.labels || {};
-
+document.querySelector("#table .section-title").textContent = labels.table || "목차";
+document.querySelector("#summary .section-title").textContent = labels.summary || "줄거리";
 document.querySelector("#theme-content").textContent = book.theme || "";
+
+// =============================
+// 장르별 상세 구분 (각각 따로 처리)
+// =============================
 
 // 1) 시
 if (book.genre === "시") {
-  // 목차
-  document.querySelector("#table .section-title").textContent = labels.table || "목차";
   document.querySelector("#table-content").textContent = ts.table || "";
-
-  // 줄거리 없음
-  document.querySelector("#summary .section-title").textContent = "";
   document.querySelector("#summary-content").textContent = "";
-
-  // 대표 시
+  
   const poemSection = document.querySelector("#poem");
   if (poemSection) {
     poemSection.style.display = "block";
@@ -176,32 +181,20 @@ if (book.genre === "시") {
   }
 }
 
-/* 2) 단편소설 */
+// 2) 단편소설
 else if (book.genre === "단편소설") {
-  // 목차
-  document.querySelector("#table .section-title").textContent = labels.table || "목차";
   document.querySelector("#table-content").textContent = ts.table || "";
-
-  // 줄거리
-  document.querySelector("#summary .section-title").textContent = labels.summary || "줄거리";
-  document.querySelector("#summary-content").textContent = ts.summary || "";
-
-  // 대표 시 숨김
+  document.querySelector("#summary-content").textContent = "";
+  
   const poemSection = document.querySelector("#poem");
   if (poemSection) poemSection.style.display = "none";
 }
 
-/* 3) 소설, 수필 */
+// 3) 소설 + 4) 수필
 else {
-  // 목차 없음
   document.querySelector("#table-content").textContent = "";
-  document.querySelector("#table .section-title").textContent = "";
-
-  // 줄거리만 표시
-  document.querySelector("#summary .section-title").textContent = labels.summary || "줄거리";
   document.querySelector("#summary-content").textContent = ts.summary || "";
-
-  // 대표 시 숨김
+  
   const poemSection = document.querySelector("#poem");
   if (poemSection) poemSection.style.display = "none";
 }
@@ -214,5 +207,9 @@ else {
   // 도서관
   document.querySelector("#library-link").href = book.library;
 
+  // 문학관
+  document.querySelector("#museum-photo").src = book.museum.photo;
+  document.querySelector("#museum-link").href = book.museum.link || "#";
+  document.querySelector("#museum-name").textContent = book.museum.name;
 
-}
+ }
