@@ -234,7 +234,7 @@
     { "id": "9", "title": "김홍신의 대발해", "cover": "../images/works/03. 김홍신의 대발해 김홍신.png" }
   ],
   "related": [
-    { "id": "r7", "title": "원미동 사람", "cover": "../images/연관/03. 원미동 사람.png" },
+    { "id": "r7", "title": "원미동 사람들", "cover": "../images/연관/03. 원미동 사람들.png" },
     { "id": "r8", "title": "난장이가 쏘아올린 작은 공", "cover": "../images/연관/03. 난장이가 쏘아올린 작은 공.png" },
     { "id": "r9", "title": "아홉 켤레의 구두로 남은 사내", "cover": "../images/연관/03. 아홉 켤레의 구두로 남은 사내.png" }
   ]
@@ -268,7 +268,7 @@
     { "id": "9", "title": "김홍신의 대발해", "cover": "../images/works/03. 김홍신의 대발해 김홍신.png" }
   ],
   "related": [
-    { "id": "r7", "title": "원미동 사람", "cover": "../images/연관/03. 원미동 사람.png" },
+    { "id": "r7", "title": "원미동 사람들", "cover": "../images/연관/03. 원미동 사람들.png" },
     { "id": "r8", "title": "난장이가 쏘아올린 작은 공", "cover": "../images/연관/03. 난장이가 쏘아올린 작은 공.png" },
     { "id": "r9", "title": "아홉 켤레의 구두로 남은 사내", "cover": "../images/연관/03. 아홉 켤레의 구두로 남은 사내.png" }
   ]
@@ -301,7 +301,7 @@
     { "id": "8", "title": "칼날 위의 전쟁", "cover": "../images/works/03. 칼날 위의 전쟁 김홍신.png" }
   ],
   "related": [
-    { "id": "r7", "title": "원미동 사람", "cover": "../images/연관/03. 원미동 사람.png" },
+    { "id": "r7", "title": "원미동 사람들", "cover": "../images/연관/03. 원미동 사람들.png" },
     { "id": "r8", "title": "난장이가 쏘아올린 작은 공", "cover": "../images/연관/03. 난장이가 쏘아올린 작은 공.png" },
     { "id": "r9", "title": "아홉 켤레의 구두로 남은 사내", "cover": "../images/연관/03. 아홉 켤레의 구두로 남은 사내.png" }
   ]
@@ -431,11 +431,11 @@
   "library": "https://www.nl.go.kr/kolisnet/search/searchResultList.do?tab=BKGM&subTab=&pageNum=1&pageSize=15&sortField=&sortOrder=&facetCollType=&facetYear=&facetKdc=&facetLang=&keywordType1=total&keyword1=%EC%97%AD%EC%82%AC%EB%8A%94+%ED%9D%90%EB%A5%B8%EB%8B%A4+%ED%95%9C%EB%AC%B4%EC%88%99&bookFilter=BKGM%2CYON%2CBKDM%2CNK%2CNP%2COT&ufKey=",
   "museum": {
     "name": "한무숙 문학관",
-    "photo": "../images/문학관/한무숙 문학관.jpg",
+    "photo": "../images/문학관/한무숙.jpg",
     "link": "/html/hanmoosook.html"
   },
   "major": [
-    { "id": "14", "title": "감정이 있는 심연", "cover": "../images/works/05. 감정이 있는 심연 한무숙.png" },
+    { "id": "14", "title": "감정이 있는 심연", "cover": "../images/works/05. 감정이 있는 사연 한무숙.png" },
     { "id": "15", "title": "생인손", "cover": "../images/works/05. 생인손 한무숙.png" },
     { "id": "16", "title": "만남", "cover": "../images/works/05. 만남 한무숙.png" }
   ],
@@ -450,7 +450,7 @@
  {
   "id": "14",
   "title": "감정이 있는 심연(1957)",
-  "cover": "../images/works/05. 감정이 있는 심연 한무숙.png",
+  "cover": "../images/works/05. 감정이 있는 사연 한무숙.png",
   "genre": "단편소설",
   "theme": "인간 내면에 있는 콤플렉스 현상을 다룬 심리소설이다.",
   "table_summary": {
@@ -508,7 +508,7 @@
   },
   "major": [
     { "id": "13", "title": "역사는 흐른다", "cover": "../images/works/05. 역사는 흐른다 한무숙.png" },
-    { "id": "14", "title": "감정이 있는 심연", "cover": "../images/works/05. 감정이 있는 심연 한무숙.png" },
+    { "id": "14", "title": "감정이 있는 심연", "cover": "../images/works/05. 감정이 있는 사연 한무숙.png" },
     { "id": "16", "title": "만남", "cover": "../images/works/05. 만남 한무숙.png" }
   ],
   "related": [
