@@ -219,7 +219,6 @@ else {
   document.querySelector("#author-photo").src = book.author.photo;
   document.querySelector("#author-photo-link").href = book.author.link || "#";
   document.querySelector("#author-bio").textContent = book.author.bio;
-  document.querySelector("#author-name").textContent = book.author.name;
 
   // 도서관
   document.querySelector("#library-link").href = book.library;
